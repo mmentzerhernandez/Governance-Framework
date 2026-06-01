@@ -18,7 +18,7 @@ rules, data-protection statutes, and executive circulars. See [[zero-new-legisla
 ## Section A — Recommended Implementation Sequencing
 
 Nations should sequence these parameters through five phases to align with limited administrative
-capacity. (Source report, Cross-Cutting Implementation Guidance.)
+capacity. (Source report, Overarching Implementation Guidance.)
 
 | Phase | Timeline | Priority actions (click to drill in) | Cost |
 |---|---|---|---|
