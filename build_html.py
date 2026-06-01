@@ -165,7 +165,7 @@ nav = f"""<nav>
   <a href="#overview">Start Here — Playbook</a>
   <div class="nav-section">The 6-Component Package</div>
   {nav_links(levers)}
-  <div class="nav-section">Cross-Cutting</div>
+  <div class="nav-section">Overarching Principles</div>
   {nav_links(crosscut)}
   <div class="nav-section">Capability Areas</div>
   {nav_links(ca_slugs)}
@@ -179,7 +179,7 @@ nav = f"""<nav>
 # ---- body sections (overview is the landing page; one page shown at a time) ----
 body_sections = [section("overview","Domain", active=True)]
 for s in levers: body_sections.append(section(s,"Package Component"))
-for s in crosscut: body_sections.append(section(s,"Cross-Cutting Theme"))
+for s in crosscut: body_sections.append(section(s,"Overarching Principle"))
 for s in ca_slugs: body_sections.append(section(s,"Capability Area"))
 for s in entity_slugs: body_sections.append(section(s,"Framework / Tool / Org"))
 for s in source_slugs: body_sections.append(section(s,"Source"))
