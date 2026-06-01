@@ -453,6 +453,17 @@ main a { color: #002fa7; }
 .section td a, .field-value a, .url-list li a { color: #002fa7; }
 .field-value a { border-bottom: 1px solid #002fa7; }
 .field-value a:hover, .section td a:hover { background: #002fa7; color: #ffffff; }
+.gap-list { list-style: none; margin-top: 4px; }
+.gap-list li {
+  border-left: 3px solid var(--accent-blue);
+  background: var(--bg-panel);
+  padding: 8px 12px 8px 28px;
+  margin-bottom: 6px;
+  font-size: 12px;
+  color: var(--text-primary);
+  position: relative;
+}
+.gap-list li::before { content: '—'; position: absolute; left: 12px; font-weight: 700; }
 </style>
 </head>
 <body>
@@ -489,11 +500,8 @@ main a { color: #002fa7; }
 <h3>Cross-cutting themes</h3>
 <ul><li><a href="#zero-new-legislation-pathway">zero-new-legislation-pathway</a> — why none of this requires new law</li><li><a href="#vendor-lock-in-dpi-test">vendor-lock-in-dpi-test</a> — the four-criterion DPI screen</li></ul>
 <h3>Key gaps</h3>
-<div class="gap-callout">🔍 Gap: No Global South country has yet deployed a comprehensive AI-specific labor-displacement</div>
-<div class="gap-callout">early-warning system (<a href="#ca6-labor-displacement-early-warning">ca6-labor-displacement-early-warning</a>).</div>
-<div class="gap-callout">🔍 Gap: All primary-source links are unverified (web-retriever outage) — verify before citing.</div></section><section class="section page" id="diagnostic-anchor"><div class="section-label">Package Component</div><h2>The Diagnostic Anchor (UNESCO RAM Execution)</h2><a class="page-back" href="#overview">← Back to Playbook</a><h3>The Diagnostic Anchor</h3>
-<div class="gap-callout"><strong>Package component #1.</strong> Complete the UNESCO RAM to secure an evidence-based roadmap and</div>
-<div class="gap-callout">validate national strategic priorities within ~12 weeks.</div>
+<ul class="gap-list"><li>Gap: No Global South country has yet deployed a comprehensive AI-specific labor-displacement early-warning system (<a href="#ca6-labor-displacement-early-warning">ca6-labor-displacement-early-warning</a>).</li><li>Gap: All primary-source links are unverified (web-retriever outage) — verify before citing.</li></ul></section><section class="section page" id="diagnostic-anchor"><div class="section-label">Package Component</div><h2>The Diagnostic Anchor (UNESCO RAM Execution)</h2><a class="page-back" href="#overview">← Back to Playbook</a><h3>The Diagnostic Anchor</h3>
+<div class="gap-callout"><strong>Package component #1.</strong> Complete the UNESCO RAM to secure an evidence-based roadmap and validate national strategic priorities within ~12 weeks.</div>
 <h3>What it is</h3>
 <p>The diagnostic foundation of the <a href="#overview">overview</a> sequence. A government runs the <a href="#unesco-ram">unesco-ram</a> — a free, UNESCO-facilitated, cross-ministerial self-assessment — to produce a scored national AI readiness profile and a prioritized action matrix. Paired with extraction of the country's four <a href="#imf-ai-preparedness-index">imf-ai-preparedness-index</a> dimension scores, this gives a data-driven picture of strategic deficiencies at near-zero cost.</p>
 <h3>Why no new law is needed</h3>
@@ -504,8 +512,7 @@ main a { color: #002fa7; }
 <p><strong>Diagnose phase, Months 1–9.</strong> Low-income countries have completed the RAM in as little as 6 weeks; the user's 12-week target is comfortable.</p>
 <h3>Cross-references</h3>
 <ul><li><a href="#unesco-ram">unesco-ram</a> · <a href="#imf-ai-preparedness-index">imf-ai-preparedness-index</a> · <a href="#oxford-insights-gari">oxford-insights-gari</a></li><li><a href="#ca1-readiness-assessment">ca1-readiness-assessment</a> — the full capability-area landscape</li><li><a href="#overview">overview</a> — where this anchors the sequence</li></ul></section><section class="section page" id="procurement-lever"><div class="section-label">Package Component</div><h2>The Procurement Lever (AIA Ministerial Circular)</h2><a class="page-back" href="#overview">← Back to Playbook</a><h3>The Procurement Lever</h3>
-<div class="gap-callout"><strong>Package component #2.</strong> Issue a Ministerial Circular requiring an Algorithmic Impact Assessment</div>
-<div class="gap-callout">(AIA, adapted from Canada's open-source tool) for every public-sector algorithmic deployment.</div>
+<div class="gap-callout"><strong>Package component #2.</strong> Issue a Ministerial Circular requiring an Algorithmic Impact Assessment (AIA, adapted from Canada's open-source tool) for every public-sector algorithmic deployment.</div>
 <h3>What it is</h3>
 <p>The accountability backbone. A finance/treasury circular makes the <a href="#canada-directive-adm">canada-directive-adm</a> AIA — a free, MIT-licensed, web-based questionnaire — mandatory before any ministry deploys or procures an AI system. The AIA auto-scores each system into one of four impact levels, each triggering proportionate obligations (notice → explanation → peer review/audit → independent bias audit).</p>
 <h3>Why no new law is needed</h3>
@@ -516,9 +523,7 @@ main a { color: #002fa7; }
 <p><strong>Anchor phase, Months 6–18.</strong> Pairs with the <a href="#regulatory-lever">regulatory-lever</a> and the <a href="#redress-focal-point">redress-focal-point</a>.</p>
 <h3>Cross-references</h3>
 <ul><li><a href="#canada-directive-adm">canada-directive-adm</a> · <a href="#singapore-ai-verify">singapore-ai-verify</a> · <a href="#eu-ai-act">eu-ai-act</a></li><li><a href="#ca2-minimum-viable-governance">ca2-minimum-viable-governance</a></li><li><a href="#overview">overview</a></li></ul></section><section class="section page" id="regulatory-lever"><div class="section-label">Package Component</div><h2>The Regulatory Lever (Data Authority Guidance Note)</h2><a class="page-back" href="#overview">← Back to Playbook</a><h3>The Regulatory Lever</h3>
-<div class="gap-callout"><strong>Package component #3.</strong> Publish a Data Protection Authority Guidance Note (adapted from Brazil's</div>
-<div class="gap-callout">ANPD) clarifying that existing data-privacy laws protect citizens against unchecked automated</div>
-<div class="gap-callout">profiling and decisions.</div>
+<div class="gap-callout"><strong>Package component #3.</strong> Publish a Data Protection Authority Guidance Note (adapted from Brazil's ANPD) clarifying that existing data-privacy laws protect citizens against unchecked automated profiling and decisions.</div>
 <h3>What it is</h3>
 <p>A guidance note issued by the national data protection authority that interprets the country's <strong>existing</strong> data-protection statute to cover automated decision-making — establishing the right to human review and to an explicit reason for automated profiling decisions. The model is <a href="#brazil-lgpd-anpd">brazil-lgpd-anpd</a> (LGPD Article 20 + ANPD Resolution 16/2024).</p>
 <h3>Why no new law is needed</h3>
@@ -529,61 +534,42 @@ main a { color: #002fa7; }
 <p><strong>Anchor phase, Months 6–18.</strong> Complements the <a href="#redress-focal-point">redress-focal-point</a> — the human-review right needs an intake channel to be exercised.</p>
 <h3>Cross-references</h3>
 <ul><li><a href="#brazil-lgpd-anpd">brazil-lgpd-anpd</a> · <a href="#redress-focal-point">redress-focal-point</a> · <a href="#procurement-lever">procurement-lever</a></li><li><a href="#ca2-minimum-viable-governance">ca2-minimum-viable-governance</a></li><li><a href="#overview">overview</a></li></ul></section><section class="section page" id="redress-focal-point"><div class="section-label">Package Component</div><h2>The Redress Focal Point (National Incident Point)</h2><a class="page-back" href="#overview">← Back to Playbook</a><h3>The Redress Focal Point</h3>
-<div class="gap-callout"><strong>Package component #4.</strong> Appoint a small National Incident Point within an existing agency, using</div>
-<div class="gap-callout">the pre-established OECD 4-category taxonomy.</div>
+<div class="gap-callout"><strong>Package component #4.</strong> Appoint a small National Incident Point within an existing agency, using the pre-established OECD 4-category taxonomy.</div>
 <h3>What it is</h3>
 <p>A lightweight complaints-and-incident channel hosted inside an existing body — a national ombudsman, consumer-protection agency, or the data authority — that intakes AI-harm reports and classifies them with the <a href="#oecd-ai-incidents-monitor">oecd-ai-incidents-monitor</a> four-category taxonomy (accuracy / safety / rights / security failures). This is the redress endpoint the <a href="#regulatory-lever">regulatory-lever</a>'s human-review right depends on.</p>
 <h3>Why no new law is needed</h3>
 <p>It requires only a designated email, an intake form, and a classification process inside an agency that <strong>already has a complaints mandate</strong>. No new institution, no statute. See <a href="#zero-new-legislation-pathway">zero-new-legislation-pathway</a>.</p>
 <h3>Transferable mechanism (steps)</h3>
-<ol><li>Designate an existing body as national AI incident focal point.</li><li>Publish a complaints form (an email address suffices at first).</li><li>Adopt the OECD four-category taxonomy in all communications.</li><li>Optionally require AIID searches pre-procurement and 48-hour vendor incident notice</li></ol>
-<p>(see <a href="#ai-incident-database-nist">ai-incident-database-nist</a>).</p>
-<ol><li>Report annually to the OECD AI Monitor — an international accountability record at zero cost.</li></ol>
+<ol><li>Designate an existing body as national AI incident focal point.</li><li>Publish a complaints form (an email address suffices at first).</li><li>Adopt the OECD four-category taxonomy in all communications.</li><li>Optionally require AIID searches pre-procurement and 48-hour vendor incident notice (see <a href="#ai-incident-database-nist">ai-incident-database-nist</a>).</li><li>Report annually to the OECD AI Monitor — an international accountability record at zero cost.</li></ol>
 <h3>Trigger / timing</h3>
 <p><strong>Anchor phase, Months 6–18</strong> (the report's "basic public incident complaints channel").</p>
 <h3>Cross-references</h3>
 <ul><li><a href="#oecd-ai-incidents-monitor">oecd-ai-incidents-monitor</a> · <a href="#ai-incident-database-nist">ai-incident-database-nist</a> · <a href="#regulatory-lever">regulatory-lever</a></li><li><a href="#ca3-harm-reporting-redress">ca3-harm-reporting-redress</a></li><li><a href="#overview">overview</a></li></ul></section><section class="section page" id="infrastructure-safeguard"><div class="section-label">Package Component</div><h2>The Infrastructure Safeguard (DPI Open-Standards Test)</h2><a class="page-back" href="#overview">← Back to Playbook</a><h3>The Infrastructure Safeguard</h3>
-<div class="gap-callout"><strong>Package component #5.</strong> Embed a DPI Open-Standards Test into the evaluation criteria for all</div>
-<div class="gap-callout">incoming foreign development-finance digital infrastructure proposals.</div>
+<div class="gap-callout"><strong>Package component #5.</strong> Embed a DPI Open-Standards Test into the evaluation criteria for all incoming foreign development-finance digital infrastructure proposals.</div>
 <h3>What it is</h3>
 <p>A four-criterion screen — derived from India's <a href="#india-dpi-stack">india-dpi-stack</a> — applied to any development-financed digital/AI infrastructure proposal to prevent vendor lock-in before signature. See <a href="#vendor-lock-in-dpi-test">vendor-lock-in-dpi-test</a> for the full criteria table. Reinforced by requiring DPGA-registry status (<a href="#undp-dpg-standard">undp-dpg-standard</a>) and GCF-model conditionality clauses (<a href="#green-climate-fund">green-climate-fund</a>).</p>
 <h3>Why no new law is needed</h3>
 <p>It is an <strong>evaluation criterion inserted into existing procurement/appraisal processes</strong> — a scoring rule, not a statute. See <a href="#zero-new-legislation-pathway">zero-new-legislation-pathway</a>.</p>
 <h3>Transferable mechanism (steps)</h3>
-<ol><li>Add the four-criterion DPI Test (API openness, data portability, interoperability, governance) to</li></ol>
-<p>infrastructure tender evaluation.</p>
-<ol><li>Flag any proposal failing 2+ criteria for a mandatory lock-in risk review.</li><li>Require DPGA-registry status or an equivalent open-standards assessment.</li><li>Insert data-portability + exit-planning clauses (migration docs + APIs within 90 days) — see</li></ol>
-<p><a href="#world-bank-procurement">world-bank-procurement</a>.</p>
+<ol><li>Add the four-criterion DPI Test (API openness, data portability, interoperability, governance) to infrastructure tender evaluation.</li><li>Flag any proposal failing 2+ criteria for a mandatory lock-in risk review.</li><li>Require DPGA-registry status or an equivalent open-standards assessment.</li><li>Insert data-portability + exit-planning clauses (migration docs + APIs within 90 days) — see <a href="#world-bank-procurement">world-bank-procurement</a>.</li></ol>
 <h3>Trigger / timing</h3>
 <p><strong>Protect phase, Months 12–24</strong> — applied to incoming foreign development-finance proposals and paired with <a href="#eu-ai-act">eu-ai-act</a> conformity clauses in high-stakes contracts.</p>
 <h3>Cross-references</h3>
 <ul><li><a href="#vendor-lock-in-dpi-test">vendor-lock-in-dpi-test</a> · <a href="#india-dpi-stack">india-dpi-stack</a> · <a href="#undp-dpg-standard">undp-dpg-standard</a></li><li><a href="#ca4-development-finance-lock-in">ca4-development-finance-lock-in</a></li><li><a href="#overview">overview</a></li></ul></section><section class="section page" id="protection-survey"><div class="section-label">Package Component</div><h2>The Protection Survey (Exclusion Trackers)</h2><a class="page-back" href="#overview">← Back to Playbook</a><h3>The Protection Survey</h3>
-<div class="gap-callout"><strong>Package component #6.</strong> Add 5–7 algorithmic-impact questions to the next scheduled national</div>
-<div class="gap-callout">household or economic survey to monitor localized marketplace anomalies and workforce-displacement</div>
-<div class="gap-callout">impacts over time.</div>
+<div class="gap-callout"><strong>Package component #6.</strong> Add 5–7 algorithmic-impact questions to the next scheduled national household or economic survey to monitor localized marketplace anomalies and workforce-displacement impacts over time.</div>
 <h3>What it is</h3>
 <p>A monitoring instrument that embeds a small set of standardized questions — modelled on <a href="#kenya-finaccess">kenya-finaccess</a> — into an existing national survey, paired with the <a href="#ilo-automation-methodology">ilo-automation-methodology</a> Automation Exposure Index for sector-level displacement tracking. Together they form an early-warning system for AI-driven exclusion and labor displacement.</p>
 <h3>Why no new law is needed</h3>
 <p>It is a <strong>survey module added to an instrument that already runs</strong> (LSMS/DHS/LFS or a financial- inclusion survey). The module questions and technical assistance are free from the ILO/World Bank.</p>
 <h3>Transferable mechanism (steps)</h3>
-<ol><li>Add 5–7 questions to the next scheduled survey: Did a machine decide? Were you given a reason?</li></ol>
-<p>Could you appeal? Did an AI tool replace your extension officer? Was an in-person service replaced by a digital-only process?</p>
-<ol><li>Embed the World Bank STEP task-content module to capture informal-sector exposure</li></ol>
-<p>(see <a href="#world-bank-step">world-bank-step</a>).</p>
-<ol><li>Cross-tabulate with the ILO AEI for the three highest-risk government sectors.</li><li>Track year-on-year: a shift without improving explanation/appeal access signals governance</li></ol>
-<p>deterioration. AEI rise &gt;0.05 in a sector over 12 months triggers a labor-market-impact review.</p>
+<ol><li>Add 5–7 questions to the next scheduled survey: Did a machine decide? Were you given a reason? Could you appeal? Did an AI tool replace your extension officer? Was an in-person service replaced by a digital-only process?</li><li>Embed the World Bank STEP task-content module to capture informal-sector exposure (see <a href="#world-bank-step">world-bank-step</a>).</li><li>Cross-tabulate with the ILO AEI for the three highest-risk government sectors.</li><li>Track year-on-year: a shift without improving explanation/appeal access signals governance deterioration. AEI rise &gt;0.05 in a sector over 12 months triggers a labor-market-impact review.</li></ol>
 <h3>Trigger / timing</h3>
 <p><strong>Monitor phase (ongoing).</strong> Produces the domestic impact dossiers used in the Engage phase (<a href="#ca5-multilateral-negotiating-playbook">ca5-multilateral-negotiating-playbook</a>).</p>
 <h3>Cross-references</h3>
 <ul><li><a href="#kenya-finaccess">kenya-finaccess</a> · <a href="#ilo-automation-methodology">ilo-automation-methodology</a> · <a href="#world-bank-step">world-bank-step</a></li><li><a href="#ca6-labor-displacement-early-warning">ca6-labor-displacement-early-warning</a></li><li><a href="#overview">overview</a></li></ul></section><section class="section page" id="zero-new-legislation-pathway"><div class="section-label">Overarching Principle</div><h2>The Zero-New-Legislation Pathway</h2><a class="page-back" href="#overview">← Back to Playbook</a><h3>The Zero-New-Legislation Pathway</h3>
 <p>The report's central, recurring finding: a resource-constrained government can stand up credible AI governance in <strong>12–18 months without passing any new AI law</strong>, relying entirely on three existing sources of authority.</p>
 <h3>The three existing authorities</h3>
-<ol><li><strong>Procurement rules</strong> — embed the AIA and EU-AI-Act conformity clauses into tender documents</li></ol>
-<p>(the <a href="#procurement-lever">procurement-lever</a>, <a href="#canada-directive-adm">canada-directive-adm</a>, <a href="#eu-ai-act">eu-ai-act</a>).</p>
-<ol><li><strong>Data-protection statutes</strong> — issue a DPA guidance note applying existing rights to automated</li></ol>
-<p>decisions (the <a href="#regulatory-lever">regulatory-lever</a>, <a href="#brazil-lgpd-anpd">brazil-lgpd-anpd</a>).</p>
-<ol><li><strong>Executive circulars / ministerial decrees</strong> — assign governance to existing bodies and adopt</li></ol>
-<p>model templates (the <a href="#redress-focal-point">redress-focal-point</a>, <a href="#rwanda-ai-policy">rwanda-ai-policy</a>, <a href="#au-continental-ai-strategy">au-continental-ai-strategy</a>).</p>
+<ol><li><strong>Procurement rules</strong> — embed the AIA and EU-AI-Act conformity clauses into tender documents (the <a href="#procurement-lever">procurement-lever</a>, <a href="#canada-directive-adm">canada-directive-adm</a>, <a href="#eu-ai-act">eu-ai-act</a>).</li><li><strong>Data-protection statutes</strong> — issue a DPA guidance note applying existing rights to automated decisions (the <a href="#regulatory-lever">regulatory-lever</a>, <a href="#brazil-lgpd-anpd">brazil-lgpd-anpd</a>).</li><li><strong>Executive circulars / ministerial decrees</strong> — assign governance to existing bodies and adopt model templates (the <a href="#redress-focal-point">redress-focal-point</a>, <a href="#rwanda-ai-policy">rwanda-ai-policy</a>, <a href="#au-continental-ai-strategy">au-continental-ai-strategy</a>).</li></ol>
 <h3>Why it works</h3>
 <p>The IMF's <a href="#imf-ai-preparedness-index">imf-ai-preparedness-index</a> shows the Regulation-&amp;-Ethics gap is <strong>narrower</strong> than the infrastructure gap — governance is achievable without digital-infrastructure parity. Rwanda (ministerial decree, &lt;12 months), Brazil (DPA resolution), and Singapore (voluntary framework + GovTech procurement) each prove a different route.</p>
 <h3>Cross-references</h3>
@@ -625,13 +611,7 @@ main a { color: #002fa7; }
 <ul><li><a href="#infrastructure-safeguard">infrastructure-safeguard</a> · <a href="#vendor-lock-in-dpi-test">vendor-lock-in-dpi-test</a></li><li><a href="#ca7-regional-infrastructure">ca7-regional-infrastructure</a> — pooling reduces per-country lock-in exposure</li><li><a href="#overview">overview</a></li></ul></section><section class="section page" id="ca5-multilateral-negotiating-playbook"><div class="section-label">Capability Area</div><h2>CA5 — Shifting Multilateral Negotiating Language</h2><a class="page-back" href="#overview">← Back to Playbook</a><h3>CA5 — Shifting Multilateral Negotiating Language</h3>
 <p>Capability-area hub, and the target of the <strong>Engage</strong> phase. It also serves as the <em>multilateral-negotiating-playbook</em> referenced from the landing sequence.</p>
 <h3>The precedents</h3>
-<ul><li><a href="#doha-declaration">doha-declaration</a> (2001) — rewriting treaty interpretation with domestic impact data + a single</li></ul>
-<p>shared coalition text + human-rights reframing.</p>
-<ul><li><a href="#nagoya-protocol">nagoya-protocol</a> (2010/2014) — making benefit-sharing binding via domestic law as leverage and</li></ul>
-<p>intersessional coalition maintenance.</p>
-<ul><li><a href="#cbdr-rc-paris">cbdr-rc-paris</a> — defending a Global South principle for 30 years via principle-bundling and the</li></ul>
-<p>nationally-determined (NDC) architecture.</p>
-<ul><li><a href="#global-digital-compact">global-digital-compact</a> (2024) — the first AI text substantially shaped by the G77.</li></ul>
+<ul><li><a href="#doha-declaration">doha-declaration</a> (2001) — rewriting treaty interpretation with domestic impact data + a single shared coalition text + human-rights reframing.</li><li><a href="#nagoya-protocol">nagoya-protocol</a> (2010/2014) — making benefit-sharing binding via domestic law as leverage and intersessional coalition maintenance.</li><li><a href="#cbdr-rc-paris">cbdr-rc-paris</a> — defending a Global South principle for 30 years via principle-bundling and the nationally-determined (NDC) architecture.</li><li><a href="#global-digital-compact">global-digital-compact</a> (2024) — the first AI text substantially shaped by the G77.</li></ul>
 <h3>The transferable playbook</h3>
 <p>Aggregate domestic impact evidence (from the <a href="#protection-survey">protection-survey</a> + <a href="#diagnostic-anchor">diagnostic-anchor</a>); assemble a single shared coalition draft (G77/AU/CARICOM/ASEAN); reframe as a right-to-development issue; identify existing "equitable access" textual footholds; maintain an intersessional coordination group.</p>
 <h3>Cross-references</h3>
@@ -641,23 +621,12 @@ main a { color: #002fa7; }
 <ul><li><a href="#ilo-automation-methodology">ilo-automation-methodology</a> — task-level automation-exposure index, with developing-country data.</li><li><a href="#world-bank-step">world-bank-step</a> — household skills survey capturing informal-sector exposure + ID4D exclusion.</li><li><a href="#kenya-finaccess">kenya-finaccess</a> — the operational model for survey-embedded AI-exclusion questions.</li></ul>
 <h3>Package component drawn from CA6</h3>
 <p>The <a href="#protection-survey">protection-survey</a> — 5–7 questions in an existing national survey, paired with the ILO AEI — is the monitoring instrument.</p>
-<div class="gap-callout">🔍 Gap: No Global South country has yet deployed a <em>comprehensive</em> AI-specific labor-displacement</div>
-<div class="gap-callout">early-warning system — only sector-specific monitoring exists. This is the least mature capability</div>
-<div class="gap-callout">area in the report.</div>
+<ul class="gap-list"><li>Gap: No Global South country has yet deployed a <em>comprehensive</em> AI-specific labor-displacement early-warning system — only sector-specific monitoring exists. This is the least mature capability area in the report.</li></ul>
 <h3>Cross-references</h3>
-<ul><li><a href="#protection-survey">protection-survey</a> · <a href="#ca5-multilateral-negotiating-playbook">ca5-multilateral-negotiating-playbook</a> — monitoring data becomes</li></ul>
-<p>negotiating evidence</p>
-<ul><li><a href="#overview">overview</a></li></ul></section><section class="section page" id="ca7-regional-infrastructure"><div class="section-label">Capability Area</div><h2>CA7 — Regional Shared-Services &amp; Pooled Infrastructure</h2><a class="page-back" href="#overview">← Back to Playbook</a><h3>CA7 — Regional Shared-Services &amp; Pooled Digital Infrastructure</h3>
+<ul><li><a href="#protection-survey">protection-survey</a> · <a href="#ca5-multilateral-negotiating-playbook">ca5-multilateral-negotiating-playbook</a> — monitoring data becomes negotiating evidence</li><li><a href="#overview">overview</a></li></ul></section><section class="section page" id="ca7-regional-infrastructure"><div class="section-label">Capability Area</div><h2>CA7 — Regional Shared-Services &amp; Pooled Infrastructure</h2><a class="page-back" href="#overview">← Back to Playbook</a><h3>CA7 — Regional Shared-Services &amp; Pooled Digital Infrastructure</h3>
 <p>Capability-area hub. Regional pooling offers cost efficiencies (collective procurement, shared platforms) but requires patience — these are the furthest-advanced examples.</p>
 <h3>The models</h3>
-<ul><li><a href="#smart-africa">smart-africa</a> — the most operationally advanced Global South body: cloud marketplace, blended</li></ul>
-<p>fund, MOU template (30–40% cloud savings).</p>
-<ul><li><a href="#asean-defa">asean-defa</a> — the first comprehensive regional digital-economy treaty among developing economies</li></ul>
-<p>(modular 8-pillar architecture).</p>
-<ul><li><a href="#caricom-cdtp">caricom-cdtp</a> — small-island-state pooling with qualified-majority governance (28% tender</li></ul>
-<p>savings).</p>
-<ul><li><a href="#gaia-x">gaia-x</a> — a cautionary federated-cloud model: consensus governance and vendor influence are</li></ul>
-<p>what <em>not</em> to replicate.</p>
+<ul><li><a href="#smart-africa">smart-africa</a> — the most operationally advanced Global South body: cloud marketplace, blended fund, MOU template (30–40% cloud savings).</li><li><a href="#asean-defa">asean-defa</a> — the first comprehensive regional digital-economy treaty among developing economies (modular 8-pillar architecture).</li><li><a href="#caricom-cdtp">caricom-cdtp</a> — small-island-state pooling with qualified-majority governance (28% tender savings).</li><li><a href="#gaia-x">gaia-x</a> — a cautionary federated-cloud model: consensus governance and vendor influence are what <em>not</em> to replicate.</li></ul>
 <h3>Connection to the package</h3>
 <p>Pooling is not one of the six package components but reinforces the <a href="#infrastructure-safeguard">infrastructure-safeguard</a> — collective procurement strengthens each member's bargaining power against lock-in, and is the institutional home for the <strong>Engage</strong> phase's regional coordination.</p>
 <h3>Cross-references</h3>
@@ -666,10 +635,7 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>A <strong>government-led, facilitated self-assessment</strong> structured around four pillars: (1) Legal &amp; Regulatory Framework; (2) Sociocultural Infrastructure; (3) Economic Capacity &amp; Research; (4) Technological &amp; Digital Infrastructure. Ministry representatives score 5–8 sub-indicators per pillar via a structured questionnaire, then validate them in a multi-stakeholder workshop. UNESCO field offices provide a trained facilitator <strong>at no cost</strong>. Output: a scored heatmap + prioritized action matrix that feeds a National AI Strategy.</p>
 <h3>Documented outcomes</h3>
-<ul><li>Ghana's RAM (2022) directly shaped its <strong>National AI Policy (2023)</strong>.</li><li>Senegal's RAM (2023) produced a 47-page readiness report used at Global Digital Compact</li></ul>
-<p>consultations.</p>
-<ul><li>Paraguay's RAM flagged data-infrastructure deficit, prompting an ICT-budget reallocation decree.</li><li><strong>27 countries</strong> completed RAM by end-2023; 15 more in progress by mid-2024. Low-income</li></ul>
-<p>countries have finished in as little as 6 weeks with a 5–8-official core team.</p>
+<ul><li>Ghana's RAM (2022) directly shaped its <strong>National AI Policy (2023)</strong>.</li><li>Senegal's RAM (2023) produced a 47-page readiness report used at Global Digital Compact consultations.</li><li>Paraguay's RAM flagged data-infrastructure deficit, prompting an ICT-budget reallocation decree.</li><li><strong>27 countries</strong> completed RAM by end-2023; 15 more in progress by mid-2024. Low-income countries have finished in as little as 6 weeks with a 5–8-official core team.</li></ul>
 <h3>Transferable mechanism</h3>
 <ol><li>Request UNESCO field-office facilitation (free) via the National Commission for UNESCO.</li><li>Convene a 5–8-person core team across ICT, Finance, Justice, and the data authority.</li><li>Complete the questionnaire over 2–3 sessions using the 2023 facilitation guide.</li><li>Run one multi-stakeholder validation workshop.</li><li>Publish the prioritized matrix as the evidence annex to the National AI Strategy.</li></ol>
 <h3>Primary source</h3>
@@ -680,14 +646,9 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>An annual ranking of <strong>193 countries</strong> across three pillars — Government (strategy, leadership, infrastructure, data, ethics); Technology Sector; Data &amp; Infrastructure. Built from public ITU, World Bank, and academic data. The 2023 edition added a <strong>capacity-adjusted score</strong> separating structural constraints from governance intent — useful for low-income countries demonstrating ambition despite resource gaps. Unlike <a href="#unesco-ram">unesco-ram</a> it requires no government self-completion.</p>
 <h3>Documented outcomes</h3>
-<ul><li>Cited in <strong>40+ national AI strategies</strong> as the external improvement benchmark.</li><li>Rwanda used its 2023 GARI scores (52nd overall, top in Sub-Saharan Africa) as a negotiating</li></ul>
-<p>credential with the EU and Singapore — see <a href="#rwanda-ai-policy">rwanda-ai-policy</a>.</p>
-<ul><li>Enables free <strong>peer-country analysis</strong>: find countries with similar structural profiles but</li></ul>
-<p>higher Government-pillar scores to identify which policy moves drove improvement.</p>
+<ul><li>Cited in <strong>40+ national AI strategies</strong> as the external improvement benchmark.</li><li>Rwanda used its 2023 GARI scores (52nd overall, top in Sub-Saharan Africa) as a negotiating credential with the EU and Singapore — see <a href="#rwanda-ai-policy">rwanda-ai-policy</a>.</li><li>Enables free <strong>peer-country analysis</strong>: find countries with similar structural profiles but higher Government-pillar scores to identify which policy moves drove improvement.</li></ul>
 <h3>Transferable mechanism</h3>
-<ul><li>Download the annual report + data file (free).</li><li>Pick peer comparators (same income group, similar connectivity).</li><li>Map the gap on <strong>Government-pillar sub-indicators</strong> (strategy, leadership, ethics) — the</li></ul>
-<p>dimensions most controllable through policy independent of GDP.</p>
-<ul><li>Use the peer-gap analysis as the internal briefing for a ministerial AI governance roadmap.</li></ul>
+<ul><li>Download the annual report + data file (free).</li><li>Pick peer comparators (same income group, similar connectivity).</li><li>Map the gap on <strong>Government-pillar sub-indicators</strong> (strategy, leadership, ethics) — the dimensions most controllable through policy independent of GDP.</li><li>Use the peer-gap analysis as the internal briefing for a ministerial AI governance roadmap.</li></ul>
 <h3>Primary source</h3>
 <p>Oxford Insights, <em>Government AI Readiness Index 2023</em> — <a href="https://oxfordinsights.com/ai-readiness/ai-readiness-index/">https://oxfordinsights.com/ai-readiness/ai-readiness-index/</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -696,15 +657,9 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>Part of IMF SDN/2024/001 (<em>Gen-AI: Artificial Intelligence and the Future of Work</em>), covering <strong>174 countries</strong> across four dimensions: (1) Digital Infrastructure; (2) Human Capital &amp; Labor Market Policies; (3) Innovation &amp; Economic Integration; (4) <strong>Regulation &amp; Ethics</strong>. Each country gets a composite 0–1 score plus dimension scores, disaggregated for advanced economies, emerging markets, and LIDCs.</p>
 <h3>Documented outcomes</h3>
-<ul><li>EMDEs average <strong>0.33</strong> vs <strong>0.73</strong> for advanced economies — but on Regulation &amp; Ethics the gap</li></ul>
-<p>is narrower (0.41 vs 0.54).</p>
-<ul><li>Used in <strong>Article IV</strong> consultations for 12+ developing countries in 2024.</li><li>Key finding: regulation gaps are <strong>smaller than infrastructure gaps</strong>, which is the sequencing</li></ul>
-<p>rationale for the whole framework — invest in governance capacity before infrastructure parity.</p>
+<ul><li>EMDEs average <strong>0.33</strong> vs <strong>0.73</strong> for advanced economies — but on Regulation &amp; Ethics the gap is narrower (0.41 vs 0.54).</li><li>Used in <strong>Article IV</strong> consultations for 12+ developing countries in 2024.</li><li>Key finding: regulation gaps are <strong>smaller than infrastructure gaps</strong>, which is the sequencing rationale for the whole framework — invest in governance capacity before infrastructure parity.</li></ul>
 <h3>Transferable mechanism</h3>
-<ul><li>Download SDN/2024/001 and extract your four dimension scores.</li><li>Use the <strong>Regulation &amp; Ethics</strong> score as the baseline; identify the sub-indicators dragging it</li></ul>
-<p>down (usually: no published AI strategy, no data-protection law, no algorithmic-accountability provision).</p>
-<ul><li>Each sub-indicator maps directly to a <a href="#ca2-minimum-viable-governance">ca2-minimum-viable-governance</a> action — a line from</li></ul>
-<p>index score to policy.</p>
+<ul><li>Download SDN/2024/001 and extract your four dimension scores.</li><li>Use the <strong>Regulation &amp; Ethics</strong> score as the baseline; identify the sub-indicators dragging it down (usually: no published AI strategy, no data-protection law, no algorithmic-accountability provision).</li><li>Each sub-indicator maps directly to a <a href="#ca2-minimum-viable-governance">ca2-minimum-viable-governance</a> action — a line from index score to policy.</li></ul>
 <h3>Primary source</h3>
 <p>IMF SDN/2024/001 (Jan 2024) — <a href="https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379">https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -715,9 +670,7 @@ main a { color: #002fa7; }
 <h3>Documented outcomes</h3>
 <ul><li>87 organizations globally used AI Verify by end-2023 (incl. Indonesia, Malaysia, India).</li><li>Applied to 15+ Singapore government AI deployments (OneService chatbot, SELENA screening AI).</li><li>MAIGF referenced by Australia, Japan, Canada, EU; codebase adapted by 5 SE-Asian AI offices.</li></ul>
 <h3>Transferable mechanism</h3>
-<ol><li>Download AI Verify from GitHub (free): <a href="https://github.com/aiverify-foundation">https://github.com/aiverify-foundation</a></li><li>Issue a ministerial circular requiring vendors to submit an AI Verify report in technical bids</li></ol>
-<p>— no new legislation (see <a href="#zero-new-legislation-pathway">zero-new-legislation-pathway</a>).</p>
-<ol><li>Map AI Verify's 11 principles to existing data-protection-law requirements.</li><li>Designate a single trained focal-point officer to review reports.</li></ol>
+<ol><li>Download AI Verify from GitHub (free): <a href="https://github.com/aiverify-foundation">https://github.com/aiverify-foundation</a></li><li>Issue a ministerial circular requiring vendors to submit an AI Verify report in technical bids — no new legislation (see <a href="#zero-new-legislation-pathway">zero-new-legislation-pathway</a>).</li><li>Map AI Verify's 11 principles to existing data-protection-law requirements.</li><li>Designate a single trained focal-point officer to review reports.</li></ol>
 <h3>Primary source</h3>
 <p>IMDA, <em>Model AI Governance Framework</em> (2nd ed., 2020); AI Verify Foundation — <a href="https://aiverify.sg">https://aiverify.sg</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -728,9 +681,7 @@ main a { color: #002fa7; }
 <table><thead><tr><th>Level</th><th>Example</th><th>Obligations</th></tr></thead><tbody><tr><td>I</td><td>Low-stakes routing</td><td>Notice to affected individuals</td></tr><tr><td>II</td><td>Benefits screening</td><td>+ Explanation on request + human-review option</td></tr><tr><td>III</td><td>Welfare/license decisions</td><td>+ Peer review + plain-language explanation + annual audit</td></tr><tr><td>IV</td><td>Criminal justice, immigration, health</td><td>+ Interdepartmental review + full explainability + independent bias audit</td></tr></tbody></table>
 <p>The tool is <strong>MIT-licensed</strong> — free to translate and adapt.</p>
 <h3>Documented outcomes</h3>
-<ul><li>70+ federal AI systems assessed by 2023, results in a public registry.</li><li>Adopted/adapted by Argentina (2022), Brazil's SERPRO (2023); referenced by UK, OECD, World Bank,</li></ul>
-<p>and the EU AI Act's conformity-assessment design.</p>
-<ul><li>Zero new legislation — operates under existing Treasury Board authority.</li></ul>
+<ul><li>70+ federal AI systems assessed by 2023, results in a public registry.</li><li>Adopted/adapted by Argentina (2022), Brazil's SERPRO (2023); referenced by UK, OECD, World Bank, and the EU AI Act's conformity-assessment design.</li><li>Zero new legislation — operates under existing Treasury Board authority.</li></ul>
 <h3>Transferable mechanism</h3>
 <ol><li>Translate the AIA questionnaire (MIT licence): <a href="https://canada-ca.github.io/aia-eia-js/">https://canada-ca.github.io/aia-eia-js/</a></li><li>Issue a Treasury/Finance circular requiring an AIA before any ministry deploys/procures AI.</li><li>Create a simple public AIA registry webpage.</li><li>Use Levels III–IV obligations as minimum contract clauses in high-stakes procurement.</li></ol>
 <h3>Primary source</h3>
@@ -743,9 +694,7 @@ main a { color: #002fa7; }
 <h3>Documented outcomes</h3>
 <ul><li>ANPD has processed <strong>400+ complaints</strong> under Article 20 since 2021 — a jurisprudence base.</li><li>EBIA adopted as a model by Colombia (2022) and informed Argentina (2023).</li><li>SERPRO toolkit used by 12 federal ministries; shared with Uruguay and Ecuador via MERCOSUR.</li></ul>
 <h3>Transferable mechanism</h3>
-<ul><li>Countries with an existing data-protection law can issue a <strong>DPA guidance note</strong> applying</li></ul>
-<p>automated-decision rights to government AI — administrative authority only, no new law.</p>
-<ul><li>Draft a DPIA template modelled on ANPD Resolution 16.</li><li>Request technical cooperation from ANPD/SERPRO via South-South channels (e.g. CPLP).</li></ul>
+<ul><li>Countries with an existing data-protection law can issue a <strong>DPA guidance note</strong> applying automated-decision rights to government AI — administrative authority only, no new law.</li><li>Draft a DPIA template modelled on ANPD Resolution 16.</li><li>Request technical cooperation from ANPD/SERPRO via South-South channels (e.g. CPLP).</li></ul>
 <h3>Primary source</h3>
 <p>LGPD (Law 13.709/2018) — <a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm">https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm</a> · ANPD Resolution 16/2024 — <a href="https://www.gov.br/anpd/pt-br">https://www.gov.br/anpd/pt-br</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -754,13 +703,9 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>A National AI Policy enacted by <strong>ministerial document, not parliamentary legislation</strong>. It (i) assigns AI governance to the existing RISA; (ii) applies existing data-protection law (Law 058/2021) to AI; (iii) requires <strong>AI Impact Assessments</strong> from a template embedded in the policy (Annex B); and (iv) routes public AI procurement through the existing Rwanda Public Procurement Authority with AI specs added as a bid-document appendix. <strong>No new institution was created</strong> and the full policy cycle took <strong>under 12 months</strong>.</p>
 <h3>Documented outcomes</h3>
-<ul><li>Cited as the model for Sub-Saharan African AI governance by Smart Africa and AU strategy docs.</li><li>Enabled a substantive Rwandan contribution to the Global Digital Compact process.</li><li>RISA reviewed 8 government AI deployments (incl. automated land registry, health-insurance</li></ul>
-<p>fraud detection).</p>
-<ul><li>GARI ranking improved 62nd → 52nd (2022→2023), largest single-year jump in Sub-Saharan Africa.</li></ul>
+<ul><li>Cited as the model for Sub-Saharan African AI governance by Smart Africa and AU strategy docs.</li><li>Enabled a substantive Rwandan contribution to the Global Digital Compact process.</li><li>RISA reviewed 8 government AI deployments (incl. automated land registry, health-insurance fraud detection).</li><li>GARI ranking improved 62nd → 52nd (2022→2023), largest single-year jump in Sub-Saharan Africa.</li></ul>
 <h3>Transferable mechanism</h3>
-<ul><li>Adopt the <strong>3-page AI Impact Assessment Template</strong> (Annex B) by ministerial circular: purpose &amp;</li></ul>
-<p>legal basis, affected populations, risk level, human oversight, redress pathway, review schedule.</p>
-<ul><li>Replicate the procurement addendum model (AI specs appended to existing bid templates).</li></ul>
+<ul><li>Adopt the <strong>3-page AI Impact Assessment Template</strong> (Annex B) by ministerial circular: purpose &amp; legal basis, affected populations, risk level, human oversight, redress pathway, review schedule.</li><li>Replicate the procurement addendum model (AI specs appended to existing bid templates).</li></ul>
 <h3>Primary source</h3>
 <p>Rwanda MINICT, <em>National Artificial Intelligence Policy</em> (2023) — <a href="https://www.minict.gov.rw">https://www.minict.gov.rw</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -769,14 +714,9 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>A continental framework on five pillars — Infrastructure &amp; Connectivity; Data Governance &amp; Access; Research &amp; Innovation; AI Ethics, Safety &amp; Governance; Trade &amp; Economic Integration. It creates an AU AI Coordination Mechanism and, critically, includes a <strong>Model National AI Policy Template (Annex III)</strong> that member states may adopt verbatim or adapt — explicitly designed to be enacted by <strong>ministerial decree</strong> where AI legislation is not yet feasible. It cross-references the UNESCO Recommendation on AI Ethics and the OECD AI Principles for multilateral legitimacy.</p>
 <h3>Documented outcomes</h3>
-<ul><li>12 AU member states referenced it in domestic AI policy by mid-2024 (Ethiopia, Kenya, South</li></ul>
-<p>Africa most advanced).</p>
-<ul><li>Its Data Governance Framework (Annex II) templated Kenya's draft National Data Strategy and</li></ul>
-<p>Senegal's digital governance bill.</p>
+<ul><li>12 AU member states referenced it in domestic AI policy by mid-2024 (Ethiopia, Kenya, South Africa most advanced).</li><li>Its Data Governance Framework (Annex II) templated Kenya's draft National Data Strategy and Senegal's digital governance bill.</li></ul>
 <h3>Transferable mechanism</h3>
-<ul><li>AU members can adopt the Annex III Model Template by ministerial circular in 30–60 days — it is</li></ul>
-<p>pre-drafted and provides political cover ("aligned with the AU Continental Strategy").</p>
-<ul><li>Non-AU developing countries (Pacific, Caribbean, ASEAN) can use it as a drafting analogue.</li></ul>
+<ul><li>AU members can adopt the Annex III Model Template by ministerial circular in 30–60 days — it is pre-drafted and provides political cover ("aligned with the AU Continental Strategy").</li><li>Non-AU developing countries (Pacific, Caribbean, ASEAN) can use it as a drafting analogue.</li></ul>
 <h3>Primary source</h3>
 <p>AU Commission, <em>Continental Artificial Intelligence Strategy</em> (Feb 2024) — <a href="https://au.int/en/documents/20240218/continental-artificial-intelligence-strategy">https://au.int/en/documents/20240218/continental-artificial-intelligence-strategy</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -784,15 +724,11 @@ main a { color: #002fa7; }
 <p><strong>Type:</strong> incident database + national reporting template <strong>Origin:</strong> OECD.AI Policy Observatory <strong>Year:</strong> 2023 (monitor + National Reporting Template) <strong>Capability area:</strong> <a href="#ca3-harm-reporting-redress">ca3-harm-reporting-redress</a> (CA3-BP1)</p>
 <h3>What it is</h3>
 <p>A continuously updated, searchable database of AI incidents using a <strong>four-category classification</strong>, each mapped to OECD AI Principles:</p>
-<ol><li><strong>Accuracy failures</strong> (error, hallucination, misidentification)</li><li><strong>Safety failures</strong> (physical harm, infrastructure disruption)</li><li><strong>Rights violations</strong> (discrimination, privacy breach, wrongful benefit denial)</li><li><strong>Security failures</strong> (adversarial attacks, data poisoning)</li></ol>
-<p>The OECD also publishes a <strong>National AI Incident Reporting Template</strong> that a government can stand up with only a designated email, an intake form, and the four-category classification process.</p>
+<ol><li><strong>Accuracy failures</strong> (error, hallucination, misidentification)</li><li><strong>Safety failures</strong> (physical harm, infrastructure disruption)</li><li><strong>Rights violations</strong> (discrimination, privacy breach, wrongful benefit denial)</li><li><strong>Security failures</strong> (adversarial attacks, data poisoning) The OECD also publishes a <strong>National AI Incident Reporting Template</strong> that a government can stand up with only a designated email, an intake form, and the four-category classification process.</li></ol>
 <h3>Documented outcomes</h3>
-<ul><li>1,000+ incidents catalogued by end-2023; 30% involve government/public-sector AI.</li><li><strong>Costa Rica</strong> was the first Latin American adopter (2023), designating its science ministry.</li><li>Template referenced in the EU AI Act's Article 73 serious-incident provisions — the de facto</li></ul>
-<p>international standard. Japan and South Korea adopted the classification.</p>
+<ul><li>1,000+ incidents catalogued by end-2023; 30% involve government/public-sector AI.</li><li><strong>Costa Rica</strong> was the first Latin American adopter (2023), designating its science ministry.</li><li>Template referenced in the EU AI Act's Article 73 serious-incident provisions — the de facto international standard. Japan and South Korea adopted the classification.</li></ul>
 <h3>Transferable mechanism</h3>
-<ol><li>Designate an existing body as national focal point (data authority, ICT consumer division, or</li></ol>
-<p>ombudsman).</p>
-<ol><li>Publish a complaints form / email and reference the four-category taxonomy in communications.</li><li>Report annually to the OECD AI Monitor using the submission template.</li></ol>
+<ol><li>Designate an existing body as national focal point (data authority, ICT consumer division, or ombudsman).</li><li>Publish a complaints form / email and reference the four-category taxonomy in communications.</li><li>Report annually to the OECD AI Monitor using the submission template.</li></ol>
 <h3>Primary source</h3>
 <p>OECD AI Incidents Monitor — <a href="https://oecd.ai/en/incidents">https://oecd.ai/en/incidents</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -803,10 +739,7 @@ main a { color: #002fa7; }
 <h3>Documented outcomes</h3>
 <ul><li>Used by Kenya's KICTANET and Nigeria's NITDA as a procurement-advisory risk tool.</li><li>NIST AI RMF referenced in Singapore's, Canada's, and the EU AI Act's documents.</li><li>AIID search used by World Bank procurement teams for pre-deployment risk reviews.</li></ul>
 <h3>Transferable mechanism</h3>
-<ul><li>Before procuring any AI system, require the responsible ministry to run an AIID search for past</li></ul>
-<p>incidents of the same system type and file the findings — costs nothing, ~2 hours, creates a due-diligence record.</p>
-<ul><li>Add a contract clause: vendor must notify within 48 hours of any AIID-reported incident</li></ul>
-<p>involving the deployed system.</p>
+<ul><li>Before procuring any AI system, require the responsible ministry to run an AIID search for past incidents of the same system type and file the findings — costs nothing, ~2 hours, creates a due-diligence record.</li><li>Add a contract clause: vendor must notify within 48 hours of any AIID-reported incident involving the deployed system.</li></ul>
 <h3>Primary source</h3>
 <p>AI Incident Database — <a href="https://incidentdatabase.ai">https://incidentdatabase.ai</a> · NIST AI RMF 1.0 — <a href="https://doi.org/10.6028/NIST.AI.100-1">https://doi.org/10.6028/NIST.AI.100-1</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -815,9 +748,7 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>Sets binding obligations for <strong>high-risk AI</strong> across 8 domains (biometrics, critical infrastructure, education, employment, essential services, law enforcement, migration/asylum, justice): risk-management documentation, data governance, technical docs, transparency/logging, human-oversight design, accuracy/robustness, and conformity assessment before market placement. Its <strong>Article 26 (deployer obligations)</strong> is directly usable by any government as a procurement standard — a non-EU buyer can require the same conformity documentation from any vendor.</p>
 <h3>Documented outcomes</h3>
-<ul><li>The high-risk classification is the de facto global standard (referenced by Singapore, Canada,</li></ul>
-<p>Japan in 2024 guidance).</p>
-<ul><li>Nigeria's NITDA draft guidelines (2024) use the 8 high-risk domains as its categorical frame.</li><li>Conformity requirements cited in World Bank and ADB digital-project appraisal frameworks.</li></ul>
+<ul><li>The high-risk classification is the de facto global standard (referenced by Singapore, Canada, Japan in 2024 guidance).</li><li>Nigeria's NITDA draft guidelines (2024) use the 8 high-risk domains as its categorical frame.</li><li>Conformity requirements cited in World Bank and ADB digital-project appraisal frameworks.</li></ul>
 <h3>Transferable mechanism</h3>
 <p>Insert into AI procurement contracts (verbatim or adapted): <em>"The Vendor shall provide, prior to go-live, a conformity declaration documenting compliance with the risk management, data governance, transparency, logging, human oversight, and accuracy requirements specified in EU Regulation 2024/1689 Articles 8–15, or an equivalent standard accepted by the [National Authority]."</em> This imposes EU-level accountability on any vendor under existing procurement law — <strong>no domestic legislation required</strong>.</p>
 <h3>Primary source</h3>
@@ -828,14 +759,9 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>Governs all IBRD/IDA-financed procurement. For digital/AI systems, the Procurement Regulations require contract provisions for system documentation &amp; source-code escrow, data ownership &amp; portability, audit rights, performance benchmarking, and dispute resolution. The 2023–2024 AI guidance adds algorithmic-transparency documentation, bias-testing records, incident-reporting obligations, and <strong>exit/transition planning</strong> (the most lock-in-relevant clause).</p>
 <h3>Documented outcomes</h3>
-<ul><li>Applied in 35+ country projects across Africa, South Asia, Latin America (incl. Rwanda's Digital</li></ul>
-<p>Transformation Acceleration Program).</p>
-<ul><li>The single most widely applied AI contract standards in developing countries.</li></ul>
+<ul><li>Applied in 35+ country projects across Africa, South Asia, Latin America (incl. Rwanda's Digital Transformation Acceleration Program).</li><li>The single most widely applied AI contract standards in developing countries.</li></ul>
 <h3>Transferable mechanism</h3>
-<ul><li>Extract the World Bank AI procurement checklist from project docs (public) and apply it to</li></ul>
-<p><strong>domestically financed</strong> procurement even without Bank involvement.</p>
-<ul><li>Require <strong>data portability + exit planning</strong> clauses: vendor must supply migration documentation</li></ul>
-<p>and interoperability APIs within 90 days of award — low-cost, high-value against lock-in.</p>
+<ul><li>Extract the World Bank AI procurement checklist from project docs (public) and apply it to <strong>domestically financed</strong> procurement even without Bank involvement.</li><li>Require <strong>data portability + exit planning</strong> clauses: vendor must supply migration documentation and interoperability APIs within 90 days of award — low-cost, high-value against lock-in.</li></ul>
 <h3>Primary source</h3>
 <p>World Bank Procurement Regulations — <a href="https://www.worldbank.org/en/projects-operations/products-and-services/brief/procurement-new-framework">https://www.worldbank.org/en/projects-operations/products-and-services/brief/procurement-new-framework</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -844,10 +770,7 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>The most-studied DPI architecture, in three layers — <strong>Identity</strong> (Aadhaar, 1.3bn enrolled), <strong>Payments</strong> (UPI, open API, government-maintained), and <strong>Data empowerment</strong> (Account Aggregator, consent-based sharing). The defining principle: all layers use <strong>open APIs and open standards</strong>, and the government owns core infrastructure through statutory bodies (UIDAI, NPCI), preventing vendor lock-in. The G20 (India Presidency, 2023) endorsed it as an international model and created a vetted <strong>DPI Repository</strong> of open-source components.</p>
 <h3>Documented outcomes</h3>
-<ul><li>UPI processed 12.2 billion transactions in March 2024.</li><li>50+ countries began DPI adoption after the G20 endorsement (Ethiopia, Philippines, Egypt,</li></ul>
-<p>Jamaica).</p>
-<ul><li>The <strong>MOSIP</strong> open-source digital ID (built on India Stack principles) is deployed in 16</li></ul>
-<p>countries; Brazil's PIX is the Latin American analogue.</p>
+<ul><li>UPI processed 12.2 billion transactions in March 2024.</li><li>50+ countries began DPI adoption after the G20 endorsement (Ethiopia, Philippines, Egypt, Jamaica).</li><li>The <strong>MOSIP</strong> open-source digital ID (built on India Stack principles) is deployed in 16 countries; Brazil's PIX is the Latin American analogue.</li></ul>
 <h3>Transferable mechanism — the DPI Test</h3>
 <p>A four-criterion check applied to any development-financed digital/AI proposal — see <a href="#vendor-lock-in-dpi-test">vendor-lock-in-dpi-test</a> for the full table. Any proposal failing 2+ criteria triggers a lock-in risk review before signature.</p>
 <h3>Primary source</h3>
@@ -858,12 +781,9 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>Nine criteria a software/data/AI-model/content/standard must meet to qualify as a <strong>Digital Public Good</strong>: open-source licence; SDG relevance; no significant IP barriers; platform independence; data privacy &amp; security; standards compliance; no digital-divide exacerbation; documentation completeness; privacy-protecting best practice. The <strong>DPGA Registry</strong> vets and lists DPGs — a pre-vetted catalogue development-finance projects can require.</p>
 <h3>Documented outcomes</h3>
-<ul><li>195 DPGs registered by 2024 across health, education, climate, financial inclusion, digital ID.</li><li>UNICEF country offices in 50+ countries use it as a procurement filter; Norad and GIZ use</li></ul>
-<p>registry status as a preference criterion; World Bank references it as evidence of reduced lock-in risk.</p>
+<ul><li>195 DPGs registered by 2024 across health, education, climate, financial inclusion, digital ID.</li><li>UNICEF country offices in 50+ countries use it as a procurement filter; Norad and GIZ use registry status as a preference criterion; World Bank references it as evidence of reduced lock-in risk.</li></ul>
 <h3>Transferable mechanism</h3>
-<ul><li>Issue a digital procurement circular: all development-finance-funded digital/AI tools must</li></ul>
-<p>either appear in the DPGA Registry <strong>or</strong> pass an equivalent open-standards assessment using the 9-criteria checklist — an automatic filter against proprietary lock-in.</p>
-<ul><li>DPGA provides free technical assistance to implementing governments.</li></ul>
+<ul><li>Issue a digital procurement circular: all development-finance-funded digital/AI tools must either appear in the DPGA Registry <strong>or</strong> pass an equivalent open-standards assessment using the 9-criteria checklist — an automatic filter against proprietary lock-in.</li><li>DPGA provides free technical assistance to implementing governments.</li></ul>
 <h3>Primary source</h3>
 <p>DPGA Standard — <a href="https://digitalpublicgoods.net/standard/">https://digitalpublicgoods.net/standard/</a> · Registry — <a href="https://digitalpublicgoods.net/registry/">https://digitalpublicgoods.net/registry/</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -872,14 +792,9 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>Lets developing-country governments and regional bodies receive climate finance <strong>directly</strong> through accredited national implementing entities (NIEs), bypassing MDB intermediation. Three features map to AI-infrastructure finance: <strong>national ownership</strong> (the NIE controls disbursement), <strong>pooled programming</strong> (small countries pool allocations under a regional body), and <strong>conditionality limitation</strong> (project conditions negotiated upfront and locked, preventing ex-post donor modification). The Readiness Programme grants up to $3m/country for capacity-building.</p>
 <h3>Documented outcomes</h3>
-<ul><li>105 direct-access entities accredited (incl. national development banks in Colombia, Pakistan,</li></ul>
-<p>Bangladesh, Senegal, Indonesia).</p>
-<ul><li>The Caribbean CCCCC received $35.7m on behalf of 8 CARICOM states — a regional-pooling proof.</li><li>Conditionality limitation credited with preventing donor-driven technology choices.</li></ul>
+<ul><li>105 direct-access entities accredited (incl. national development banks in Colombia, Pakistan, Bangladesh, Senegal, Indonesia).</li><li>The Caribbean CCCCC received $35.7m on behalf of 8 CARICOM states — a regional-pooling proof.</li><li>Conditionality limitation credited with preventing donor-driven technology choices.</li></ul>
 <h3>Transferable mechanism</h3>
-<ul><li>Advocate for an <strong>AI Infrastructure Direct Access Facility</strong> modelled on GCF's NIE system —</li></ul>
-<p>governments, not vendors, as accredited entities.</p>
-<ul><li>For immediate use: insert GCF-model conditionality clauses into dev-finance AI loans — technology</li></ul>
-<p>choice stays with the borrower; no mandatory donor-country vendors; open-standards requirement; regional-pooling option.</p>
+<ul><li>Advocate for an <strong>AI Infrastructure Direct Access Facility</strong> modelled on GCF's NIE system — governments, not vendors, as accredited entities.</li><li>For immediate use: insert GCF-model conditionality clauses into dev-finance AI loans — technology choice stays with the borrower; no mandatory donor-country vendors; open-standards requirement; regional-pooling option.</li></ul>
 <h3>Primary source</h3>
 <p>GCF Direct Access — <a href="https://www.greenclimate.fund/accessing-fund/direct-access">https://www.greenclimate.fund/accessing-fund/direct-access</a> · Readiness — <a href="https://www.greenclimate.fund/readiness">https://www.greenclimate.fund/readiness</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -888,10 +803,7 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>The gold-standard case of developing countries rewriting multilateral treaty interpretation. Four tactics produced it: (1) <strong>domestic evidence aggregation</strong> (country-by-country drug-cost data made an abstract IP debate a documented health emergency); (2) <strong>a single shared coalition draft</strong> as a fixed negotiating anchor; (3) <strong>human-rights reframing</strong> (right-to-health, shifting the legitimacy frame); (4) <strong>textual-foothold identification</strong> (TRIPS Art. 27.2/30 exceptions, avoiding treaty reopening).</p>
 <h3>Documented outcomes</h3>
-<ul><li>The Declaration affirmed TRIPS "does not and should not prevent Members from taking measures to</li></ul>
-<p>protect public health" — a direct rewrite of the dominant interpretation.</p>
-<ul><li>The 2003 compulsory-licensing mechanism cut some medicine costs 90%+ (Brazil, Thailand, India,</li></ul>
-<p>Kenya, Zimbabwe).</p>
+<ul><li>The Declaration affirmed TRIPS "does not and should not prevent Members from taking measures to protect public health" — a direct rewrite of the dominant interpretation.</li><li>The 2003 compulsory-licensing mechanism cut some medicine costs 90%+ (Brazil, Thailand, India, Kenya, Zimbabwe).</li></ul>
 <h3>Transferable mechanism (AI governance)</h3>
 <table><thead><tr><th>Doha tactic</th><th>AI application</th></tr></thead><tbody><tr><td>Domestic impact data</td><td><a href="#unesco-ram">unesco-ram</a> + <a href="#imf-ai-preparedness-index">imf-ai-preparedness-index</a> scores as evidence at ITU/UNESCO</td></tr><tr><td>Single shared coalition text</td><td>G77/AU/ASEAN joint submission to GDC II or a WIPO AI treaty</td></tr><tr><td>Human-rights reframing</td><td>Frame AI deficit as a right-to-development violation</td></tr><tr><td>Textual foothold</td><td>Use existing "equitable access" language in OECD/UNESCO/ITU texts</td></tr></tbody></table>
 <h3>Primary source</h3>
@@ -902,9 +814,7 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>The first <strong>legally binding</strong> benefit-sharing instrument for genetic resources. Four tactics made it binding: (1) <strong>domestic criminalization as leverage</strong> (Brazil/India/Peru biodiscovery laws created facts on the ground); (2) <strong>documented harm evidence</strong> (biopiracy case files with quantified loss); (3) <strong>stepping-stone sequencing</strong> (accept the voluntary 2002 Bonn Guidelines, then return 8 years later with evidence of their failure); (4) <strong>intersessional coalition maintenance</strong> (16 LMMC coordination meetings, 2002–2010).</p>
 <h3>Documented outcomes</h3>
-<ul><li>Reversed 20 years of voluntary-only status; ABS clearinghouse established (130+ national focal</li></ul>
-<p>points).</p>
-<ul><li>Brazil's domestic biopiracy law generated R$400m for its National Biodiversity Fund by 2022.</li></ul>
+<ul><li>Reversed 20 years of voluntary-only status; ABS clearinghouse established (130+ national focal points).</li><li>Brazil's domestic biopiracy law generated R$400m for its National Biodiversity Fund by 2022.</li></ul>
 <h3>Transferable mechanism (AI governance)</h3>
 <table><thead><tr><th>Nagoya tactic</th><th>AI application</th></tr></thead><tbody><tr><td>Domestic law as leverage</td><td>Enact <strong>training-data sovereignty law</strong> (dataset disclosure) before treaty talks</td></tr><tr><td>Documented harm evidence</td><td>National study quantifying AI-driven exclusion (credit denial, displacement)</td></tr><tr><td>Stepping-stone sequencing</td><td>Accept UNESCO Recommendation as interim, note intent to pursue a binding instrument</td></tr><tr><td>Intersessional maintenance</td><td>Stand up a <strong>G77+China AI Coordination Group</strong> with a small secretariat</td></tr></tbody></table>
 <h3>Primary source</h3>
@@ -917,10 +827,7 @@ main a { color: #002fa7; }
 <h3>Documented outcomes</h3>
 <ul><li>CBDR-RC preserved in Paris; developing countries set their own NDC ambition.</li><li>135 developing countries submitted enhanced NDCs by 2023 — broad participation without coercion.</li></ul>
 <h3>Transferable mechanism (AI governance)</h3>
-<ul><li>Promote an <strong>"NDC for AI"</strong> concept: nationally-determined AI strategies with international</li></ul>
-<p>support but no prescribed technology mandates.</p>
-<ul><li>Advocate AI capacity-building finance modelled on CBIT.</li><li>Place Global South experts in standards bodies (ISO/IEC JTC1/SC42, ITU-T FG-AI) — authorship</li></ul>
-<p>confers negotiating authority.</p>
+<ul><li>Promote an <strong>"NDC for AI"</strong> concept: nationally-determined AI strategies with international support but no prescribed technology mandates.</li><li>Advocate AI capacity-building finance modelled on CBIT.</li><li>Place Global South experts in standards bodies (ISO/IEC JTC1/SC42, ITU-T FG-AI) — authorship confers negotiating authority.</li></ul>
 <h3>Primary source</h3>
 <p>Paris Agreement Art. 2.2 — <a href="https://unfccc.int/sites/default/files/english_paris_agreement.pdf">https://unfccc.int/sites/default/files/english_paris_agreement.pdf</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -929,10 +836,7 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>The first major multilateral AI governance text where the G77 played a documented, substantive role. Specific Global South contributions in the final text: (1) <strong>"development-oriented AI"</strong> framing (African Group); (2) <strong>interoperability over standardization</strong> for DPI (ASEAN, CARICOM); (3) <strong>capacity-building as a right, not a gift</strong> (G77); (4) <strong>data-governance equity</strong> — a Nagoya-style benefit-sharing provision for AI trained on developing-country data (AU Commission).</p>
 <h3>Documented outcomes</h3>
-<ul><li>First multilateral affirmation that "developing countries must benefit equitably from AI" — now</li></ul>
-<p>citable as established consensus.</p>
-<ul><li>Established the <strong>UN AI Office</strong> (mandate to support developing-country AI capacity) and the</li></ul>
-<p><strong>International Panel on AI</strong> with an equitable-geographic-representation requirement.</p>
+<ul><li>First multilateral affirmation that "developing countries must benefit equitably from AI" — now citable as established consensus.</li><li>Established the <strong>UN AI Office</strong> (mandate to support developing-country AI capacity) and the <strong>International Panel on AI</strong> with an equitable-geographic-representation requirement.</li></ul>
 <h3>Transferable mechanism</h3>
 <ul><li>Cite GDC language as established consensus in subsequent ITU/UNESCO/WIPO negotiations.</li><li>Use the IPAI representation requirement as precedent for Global South seats in technical bodies.</li></ul>
 <h3>Primary source</h3>
@@ -943,15 +847,9 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>A task-composition analysis that (1) decomposes each occupation into tasks via the ILO/O*NET Task Content Database, (2) assigns each task an automation-probability score (0–1, updated for generative AI), (3) aggregates to an <strong>occupation-level automation exposure index</strong>, and (4) cross-tabulates with national-survey employment shares to produce sector-level displacement profiles. The 2023 paper produced the first developing-country-specific estimates.</p>
 <h3>Documented outcomes</h3>
-<ul><li>24% of Sub-Saharan African jobs have high automation exposure (clerical, admin, routine</li></ul>
-<p>agri-processing).</p>
-<ul><li>68% of high-risk jobs in low-income countries are held by <strong>informal workers</strong> with no retraining</li></ul>
-<p>access.</p>
-<ul><li>Applied by Ethiopia's Ministry of Labour (2023) to the textile/garment sector.</li></ul>
+<ul><li>24% of Sub-Saharan African jobs have high automation exposure (clerical, admin, routine agri-processing).</li><li>68% of high-risk jobs in low-income countries are held by <strong>informal workers</strong> with no retraining access.</li><li>Applied by Ethiopia's Ministry of Labour (2023) to the textile/garment sector.</li></ul>
 <h3>Transferable mechanism</h3>
-<ol><li>Download the ILO task-content database and automation scores (public).</li><li>Cross-tabulate with your national labor force survey (ILO offers technical assistance).</li><li>Profile the three highest-risk government sectors (back-office, agricultural extension,</li></ol>
-<p>financial services).</p>
-<ol><li>Track the <strong>Automation Exposure Index (AEI)</strong> quarterly by sector and formality.</li><li>Trigger: an AEI rise &gt;0.05 within a sector over 12 months prompts a labor-market-impact review.</li></ol>
+<ol><li>Download the ILO task-content database and automation scores (public).</li><li>Cross-tabulate with your national labor force survey (ILO offers technical assistance).</li><li>Profile the three highest-risk government sectors (back-office, agricultural extension, financial services).</li><li>Track the <strong>Automation Exposure Index (AEI)</strong> quarterly by sector and formality.</li><li>Trigger: an AEI rise &gt;0.05 within a sector over 12 months prompts a labor-market-impact review.</li></ol>
 <h3>Primary source</h3>
 <p>ILO Working Paper No. 87 (2023) — <a href="https://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_869256.pdf">https://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_869256.pdf</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -960,15 +858,9 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>A household skills survey in 46+ countries with a <strong>task-content module</strong> mapping workers' actual tasks to automation vulnerability. Its distinctive value: it captures <strong>informal-sector workers</strong> excluded from establishment surveys, at the individual level. The companion <strong>ID4D</strong> dataset tracks digital-identity coverage, identifying populations excluded from AI-driven financial/social systems.</p>
 <h3>Documented outcomes</h3>
-<ul><li>16% of LMIC workers are at high automation risk (&gt;70% task probability), concentrated in</li></ul>
-<p>transport, manufacturing, clerical, agri-processing.</p>
-<ul><li>~850 million people with no digital identity are both most automation-vulnerable and most</li></ul>
-<p>excluded from digital retraining — a "double exclusion."</p>
+<ul><li>16% of LMIC workers are at high automation risk (&gt;70% task probability), concentrated in transport, manufacturing, clerical, agri-processing.</li><li>~850 million people with no digital identity are both most automation-vulnerable and most excluded from digital retraining — a "double exclusion."</li></ul>
 <h3>Transferable mechanism</h3>
-<ul><li>Embed the standard task-content module into an existing household survey (LSMS/DHS/LFS) — module</li></ul>
-<p>questions free, World Bank offers technical assistance.</p>
-<ul><li>Track three early-warning indicators annually: agricultural-extension displacement; informal</li></ul>
-<p>credit exclusion; government back-office attrition.</p>
+<ul><li>Embed the standard task-content module into an existing household survey (LSMS/DHS/LFS) — module questions free, World Bank offers technical assistance.</li><li>Track three early-warning indicators annually: agricultural-extension displacement; informal credit exclusion; government back-office attrition.</li></ul>
 <h3>Primary source</h3>
 <p>World Bank STEP — <a href="https://www.worldbank.org/en/topic/education/brief/step-skills-measurement-surveys">https://www.worldbank.org/en/topic/education/brief/step-skills-measurement-surveys</a> · WPS10415 — <a href="https://openknowledge.worldbank.org/handle/10986/39788">https://openknowledge.worldbank.org/handle/10986/39788</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -977,12 +869,7 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>The most sophisticated financial-inclusion instrument in Sub-Saharan Africa. Its 2021 edition added questions tracking <strong>algorithm-driven credit decisions</strong>: whether the applicant used a digital platform; whether the decision was automatic with no human review; whether a refusal explanation was given; whether appeal was possible. FSD Africa extended the method to 8 more African countries.</p>
 <h3>Documented outcomes</h3>
-<ul><li>61% of Kenyan mobile-credit borrowers received automated decisions with no human review; only</li></ul>
-<p>12% of those rejected got an explanation or appeal.</p>
-<ul><li>Automated rejection rates for informal-sector workers ran 2.4× higher than for formal workers</li></ul>
-<p>across Ghana, Tanzania, Uganda, Nigeria, Senegal.</p>
-<ul><li>Data fed Kenya's National Payment Strategy and the CBK Guidance Note on Digital Credit Providers</li></ul>
-<p>(2022) — a survey-to-regulation feedback loop.</p>
+<ul><li>61% of Kenyan mobile-credit borrowers received automated decisions with no human review; only 12% of those rejected got an explanation or appeal.</li><li>Automated rejection rates for informal-sector workers ran 2.4× higher than for formal workers across Ghana, Tanzania, Uganda, Nigeria, Senegal.</li><li>Data fed Kenya's National Payment Strategy and the CBK Guidance Note on Digital Credit Providers (2022) — a survey-to-regulation feedback loop.</li></ul>
 <h3>Transferable mechanism</h3>
 <p>Add <strong>5–7 standardized questions</strong> to any household/financial-inclusion survey: Did a machine decide? Were you given a reason? Could you appeal? Did an AI advisory tool replace your government extension officer? Has an in-person service been replaced by a digital-only process? Track annually.</p>
 <h3>Primary source</h3>
@@ -995,9 +882,7 @@ main a { color: #002fa7; }
 <h3>Documented outcomes</h3>
 <ul><li>Cloud Marketplace secured 30–40% pricing reductions vs direct bilateral cloud contracts.</li><li>SADEF mobilized $52m across 9 projects (2021–2023).</li><li>Rwanda, Senegal, Ghana used the MOU template for bilateral AI cooperation agreements.</li></ul>
 <h3>Transferable mechanism — key MOU clauses</h3>
-<ul><li><strong>Data sovereignty:</strong> each party retains ownership/sovereign rights over its nationals' data; no</li></ul>
-<p>cross-border transfer without consent.</p>
-<ul><li><strong>Cost-sharing:</strong> allocated by GDP/population/usage as negotiated.</li><li><strong>Dispute resolution:</strong> Secretariat mediation (30 days) → binding arbitration (UNCITRAL).</li><li><strong>Withdrawal:</strong> 90 days' notice; full data/system migration within 180 days at no cost.</li></ul>
+<ul><li><strong>Data sovereignty:</strong> each party retains ownership/sovereign rights over its nationals' data; no cross-border transfer without consent.</li><li><strong>Cost-sharing:</strong> allocated by GDP/population/usage as negotiated.</li><li><strong>Dispute resolution:</strong> Secretariat mediation (30 days) → binding arbitration (UNCITRAL).</li><li><strong>Withdrawal:</strong> 90 days' notice; full data/system migration within 180 days at no cost.</li></ul>
 <h3>Primary source</h3>
 <p>Smart Africa — <a href="https://smartafrica.org">https://smartafrica.org</a> · 2023 Annual Report — <a href="https://smartafrica.org/annual-report-2023/">https://smartafrica.org/annual-report-2023/</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -1008,8 +893,7 @@ main a { color: #002fa7; }
 <h3>Documented outcomes</h3>
 <ul><li>The ASEAN CBPR system has 9 participating jurisdictions and certified 40+ companies.</li><li>The 2023 ASEAN AI Governance compendium documents each member state's implemented measures.</li></ul>
 <h3>Transferable mechanism</h3>
-<ul><li>Other groupings (ECOWAS, CARICOM, SAARC) can adopt the <strong>8-pillar architecture</strong> modularly.</li><li>The CBPR <strong>mutual-recognition</strong> (functional equivalence, not harmonization) is the most pragmatic</li></ul>
-<p>model for developing-country regional data governance — respects domestic diversity while enabling cross-border data flows.</p>
+<ul><li>Other groupings (ECOWAS, CARICOM, SAARC) can adopt the <strong>8-pillar architecture</strong> modularly.</li><li>The CBPR <strong>mutual-recognition</strong> (functional equivalence, not harmonization) is the most pragmatic model for developing-country regional data governance — respects domestic diversity while enabling cross-border data flows.</li></ul>
 <h3>Primary source</h3>
 <p>ASEAN DEFA — <a href="https://asean.org/asean-digital-economy-framework-agreement/">https://asean.org/asean-digital-economy-framework-agreement/</a> · ASEAN AI Guide (2nd ed., 2023) — <a href="https://asean.org/wp-content/uploads/2023/09/ASEAN-Guide-on-AI-Governance-and-Ethics_2023.pdf">https://asean.org/wp-content/uploads/2023/09/ASEAN-Guide-on-AI-Governance-and-Ethics_2023.pdf</a> <em>(verify-before-citing — see <a href="#ai-governance-global-majority-report">ai-governance-global-majority-report</a>)</em></p>
 <h3>Cross-references</h3>
@@ -1029,10 +913,7 @@ main a { color: #002fa7; }
 <h3>What it is</h3>
 <p>A federated cloud-infrastructure and data-ecosystem framework for sovereign, interoperable European cloud services with data-portability guarantees — technical specs for "federated data spaces," Bronze/Silver/Gold sovereignty labels, a 1,300+ member association, and a compliance Clearing House. Its <strong>documented difficulties are as instructive as its successes</strong>.</p>
 <h3>Documented outcomes &amp; failures</h3>
-<ul><li>Adopted as reference architecture for 5 European industrial data spaces.</li><li>But only ~200 services achieved label certification by 2024 — far below targets.</li><li>Consensus association governance proved <strong>too slow</strong> (years, not weeks); large US cloud providers</li></ul>
-<p>joined and diluted sovereignty requirements.</p>
-<ul><li>The national adaptation (<strong>France's SecNumCloud</strong>) — stronger sovereignty, faster national</li></ul>
-<p>decision-making — outperformed the pan-European initiative.</p>
+<ul><li>Adopted as reference architecture for 5 European industrial data spaces.</li><li>But only ~200 services achieved label certification by 2024 — far below targets.</li><li>Consensus association governance proved <strong>too slow</strong> (years, not weeks); large US cloud providers joined and diluted sovereignty requirements.</li><li>The national adaptation (<strong>France's SecNumCloud</strong>) — stronger sovereignty, faster national decision-making — outperformed the pan-European initiative.</li></ul>
 <h3>Transferable mechanism — what works for the Global South</h3>
 <table><thead><tr><th>GAIA-X element</th><th>Transferable?</th><th>Adaptation</th></tr></thead><tbody><tr><td>Federated data spaces</td><td>Yes</td><td>Use a regional body as operator, not an association</td></tr><tr><td>Tiered labels</td><td>Yes</td><td>Simpler 2-tier (Compliant / Sovereign-Compliant)</td></tr><tr><td>Clearing House automation</td><td>Yes</td><td>Manual review first 2 years, then automate</td></tr><tr><td>Consensus governance</td><td><strong>No</strong></td><td>Qualified-majority voting with 30-day decision rule</td></tr><tr><td>Industry voting rights</td><td><strong>No</strong></td><td>Government-only voting; private sector advisory</td></tr><tr><td>National sovereignty option</td><td>Yes</td><td>SecNumCloud model — countries can exceed regional minimum</td></tr></tbody></table>
 <h3>Primary source</h3>
@@ -1043,31 +924,15 @@ main a { color: #002fa7; }
 <h3>Summary</h3>
 <p>A cited best-practice advisory framework answering one question: <em>what proven, implemented AI governance mechanisms can a resource-constrained Global South government adopt today?</em> It covers seven capability areas, each with 2–4 best-practice entries in a standard five-field format (tool/methodology · producing org/country/year · documented outcomes · transferable mechanism · primary-source link). Its central claim: a credible national AI governance architecture can be assembled from existing building blocks within 12–18 months <strong>without passing any new AI law</strong>.</p>
 <h3>Key Claims</h3>
-<ul><li>The fastest governance pathway (12–18 months) needs <strong>zero new legislation</strong> — existing</li></ul>
-<p>procurement rules, data-protection statutes, and executive circulars suffice. Rwanda, Brazil, and Singapore prove it. See <a href="#zero-new-legislation-pathway">zero-new-legislation-pathway</a>.</p>
-<ul><li>The most-replicated accountability instrument is Canada's open-source <a href="#canada-directive-adm">canada-directive-adm</a></li></ul>
-<p>(Algorithmic Impact Assessment), adoptable by ministerial circular.</p>
-<ul><li>The best counter-lock-in architecture is India's <a href="#india-dpi-stack">india-dpi-stack</a> (G20-endorsed, 2023).</li><li>A coalition of &lt;15 well-briefed developing countries can rewrite consensus multilateral text —</li></ul>
-<p>the <a href="#ca5-multilateral-negotiating-playbook">ca5-multilateral-negotiating-playbook</a> (Doha/Nagoya/CBDR/GDC).</p>
-<ul><li>A <strong>minimum-viable 18-month package</strong> of six zero-new-law instruments is sufficient — see</li></ul>
-<p><a href="#overview">overview</a> Section B.</p>
+<ul><li>The fastest governance pathway (12–18 months) needs <strong>zero new legislation</strong> — existing procurement rules, data-protection statutes, and executive circulars suffice. Rwanda, Brazil, and Singapore prove it. See <a href="#zero-new-legislation-pathway">zero-new-legislation-pathway</a>.</li><li>The most-replicated accountability instrument is Canada's open-source <a href="#canada-directive-adm">canada-directive-adm</a> (Algorithmic Impact Assessment), adoptable by ministerial circular.</li><li>The best counter-lock-in architecture is India's <a href="#india-dpi-stack">india-dpi-stack</a> (G20-endorsed, 2023).</li><li>A coalition of &lt;15 well-briefed developing countries can rewrite consensus multilateral text — the <a href="#ca5-multilateral-negotiating-playbook">ca5-multilateral-negotiating-playbook</a> (Doha/Nagoya/CBDR/GDC).</li><li>A <strong>minimum-viable 18-month package</strong> of six zero-new-law instruments is sufficient — see <a href="#overview">overview</a> Section B.</li></ul>
 <h3>Key Data / Evidence</h3>
-<ul><li>IMF AI Preparedness Index (2024) covers 174 countries; EMDEs average 0.33 vs 0.73 for advanced</li></ul>
-<p>economies, but the Regulation &amp; Ethics gap is narrower (0.41 vs 0.54).</p>
-<ul><li>27 countries had completed <a href="#unesco-ram">unesco-ram</a> assessments by end-2023.</li><li>70+ Canadian federal AI systems have undergone an AIA; the tool is MIT-licensed.</li><li>UPI processed 12.2 billion transactions in March 2024; <a href="#india-dpi-stack">india-dpi-stack</a> (MOSIP) deployed in</li></ul>
-<p>16 countries.</p>
-<ul><li>Kenya's 2021 <a href="#kenya-finaccess">kenya-finaccess</a> survey: 61% of mobile-credit borrowers received automated</li></ul>
-<p>decisions; only 12% of those rejected got an explanation or appeal.</p>
+<ul><li>IMF AI Preparedness Index (2024) covers 174 countries; EMDEs average 0.33 vs 0.73 for advanced economies, but the Regulation &amp; Ethics gap is narrower (0.41 vs 0.54).</li><li>27 countries had completed <a href="#unesco-ram">unesco-ram</a> assessments by end-2023.</li><li>70+ Canadian federal AI systems have undergone an AIA; the tool is MIT-licensed.</li><li>UPI processed 12.2 billion transactions in March 2024; <a href="#india-dpi-stack">india-dpi-stack</a> (MOSIP) deployed in 16 countries.</li><li>Kenya's 2021 <a href="#kenya-finaccess">kenya-finaccess</a> survey: 61% of mobile-credit borrowers received automated decisions; only 12% of those rejected got an explanation or appeal.</li></ul>
 <h3>Implications</h3>
 <p>The wiki turns this report into a navigable action plan: a government follows the 5-phase <a href="#overview">overview</a> sequence and stands up the six-component package, drilling into each framework's transferable mechanism. The report is most valuable as a <strong>menu of pre-vetted, already-implemented instruments</strong> rather than a single prescriptive model.</p>
 <h3>Cross-references</h3>
 <ul><li><a href="#overview">overview</a></li><li><a href="#zero-new-legislation-pathway">zero-new-legislation-pathway</a></li><li><a href="#vendor-lock-in-dpi-test">vendor-lock-in-dpi-test</a></li></ul>
 <h3>Gaps / Open Questions</h3>
-<div class="gap-callout">🔍 Gap: The report was completed during a web-search retriever outage and explicitly warns that</div>
-<div class="gap-callout">all primary-source URLs and some data points are unverified. Every link in this wiki should be</div>
-<div class="gap-callout">treated as <strong>verify-before-citing</strong> at the original institutional portal.</div>
-<div class="gap-callout">🔍 Gap: No Global South country has yet deployed a <em>comprehensive</em> AI-specific labor-displacement</div>
-<div class="gap-callout">early-warning system — see <a href="#ca6-labor-displacement-early-warning">ca6-labor-displacement-early-warning</a>.</div></section><section class="section page" id="log"><div class="section-label">History</div><h2>Log</h2><a class="page-back" href="#overview">← Back to Playbook</a><div class="log-entry"><div class="log-date">Step 1</div><div class="log-content"><strong>Start from a single source</strong><br>Everything here was compiled from <strong>one document</strong> — <code>AI_Governance_Global_Majority_Research.md</code>, a best-practice survey of <em>implemented</em> AI-governance mechanisms for Global South governments. The llm-wiki method compiles that knowledge <strong>once</strong> into durable, linked pages rather than re-reading the whole report on every question (the difference from RAG). So the report became the single root that every other page traces back to.</div></div><div class="log-entry"><div class="log-date">Step 2</div><div class="log-content"><strong>Find the two operational spines</strong><br>Reading the report surfaced its two backbones, and these became the wiki's organizing skeleton: the <strong>5-phase Implementation Sequence</strong> (Diagnose → Anchor → Protect → Engage → Monitor) and the <strong>6-component Minimum-Viable Governance Package</strong>. Together they answer "in what order?" and "what exactly do we stand up?" — and they became the two tables on the landing page.</div></div><div class="log-entry"><div class="log-date">Step 3</div><div class="log-content"><strong>Decompose the report into four page types</strong><br>Each distinct idea was given its own page, sorted into four types: <strong>source</strong> (the report itself), <strong>entities</strong> (26 frameworks/tools/orgs — UNESCO RAM, Canada AIA, Brazil ANPD, India DPI, …), <strong>concepts</strong> (15 pages: 6 package-component "levers", 7 capability-area hubs, 2 overarching principles), and the <strong>overview</strong> (the spine). One page = one idea keeps each concept reusable and linkable.</div></div><div class="log-entry"><div class="log-date">Step 4</div><div class="log-content"><strong>Map each action to its evidence</strong><br>This is the core connection rule. Every package component (a "lever" — what a country <em>does</em>) was traced to the report's capability-area best-practice entry that justifies it, and then to the specific framework that implements it. Example chain: <strong>Procurement Lever → Capability Area 2 → Canada's Algorithmic Impact Assessment</strong>. Doing this for all six levers connected <em>action</em> to <em>evidence</em> to <em>real-world precedent</em>.</div></div><div class="log-entry"><div class="log-date">Step 5</div><div class="log-content"><strong>Wire the graph with wiki-links</strong><br>Pages were then cross-linked using Obsidian-style wiki-links (each reference wraps a page name in double square brackets) so the wiki reads as a graph, not a list. Every page links to at least two others: levers link <strong>down</strong> to their framework entity and <strong>up</strong> to their capability-area hub; each implementation phase links to the frameworks active in it; the two overarching principles (zero-new-legislation, the DPI lock-in test) cut <strong>across</strong> many pages; and every page cites the source — making one rooted citation graph you can traverse from any starting point.</div></div><div class="log-entry"><div class="log-date">Step 6</div><div class="log-content"><strong>Build the clickable landing page</strong><br><code>overview.md</code> was assembled as the entry point: the 5-phase sequence and 6-component package rendered as tables where <strong>every phase action and every component is a drill-in link</strong>. A reader can move from "what do I do in months 1–9?" straight to the framework that delivers it, then back.</div></div><div class="log-entry"><div class="log-date">Step 7</div><div class="log-content"><strong>Verify the graph holds together</strong><br>The whole link graph was checked: zero dangling links, every page reachable, and the index counts consistent with the pages created. This guarantees a reader never hits a dead end.</div></div><div class="log-entry"><div class="log-date">Step 8</div><div class="log-content"><strong>Export to a self-contained, clickable site</strong><br>Finally a small generator (<code>build_html.py</code>) converted the markdown into one self-contained <code>wiki.html</code>: each wiki-link became an in-page anchor, tables/lists/callouts became HTML, and a tiny hash-router makes each page open on its own (land on the Overview, click through to any page, click back). No external files — the whole knowledge base travels as a single shareable document.</div></div></section>
+<ul class="gap-list"><li>Gap: The report was completed during a web-search retriever outage and explicitly warns that all primary-source URLs and some data points are unverified. Every link in this wiki should be treated as <strong>verify-before-citing</strong> at the original institutional portal.</li><li>Gap: No Global South country has yet deployed a <em>comprehensive</em> AI-specific labor-displacement early-warning system — see <a href="#ca6-labor-displacement-early-warning">ca6-labor-displacement-early-warning</a>.</li></ul></section><section class="section page" id="log"><div class="section-label">History</div><h2>Log</h2><a class="page-back" href="#overview">← Back to Playbook</a><div class="log-entry"><div class="log-date">Step 1</div><div class="log-content"><strong>Start from a single source</strong><br>Everything here was compiled from <strong>one document</strong> — <code>AI_Governance_Global_Majority_Research.md</code>, a best-practice survey of <em>implemented</em> AI-governance mechanisms for Global South governments. The llm-wiki method compiles that knowledge <strong>once</strong> into durable, linked pages rather than re-reading the whole report on every question (the difference from RAG). So the report became the single root that every other page traces back to.</div></div><div class="log-entry"><div class="log-date">Step 2</div><div class="log-content"><strong>Find the two operational spines</strong><br>Reading the report surfaced its two backbones, and these became the wiki's organizing skeleton: the <strong>5-phase Implementation Sequence</strong> (Diagnose → Anchor → Protect → Engage → Monitor) and the <strong>6-component Minimum-Viable Governance Package</strong>. Together they answer "in what order?" and "what exactly do we stand up?" — and they became the two tables on the landing page.</div></div><div class="log-entry"><div class="log-date">Step 3</div><div class="log-content"><strong>Decompose the report into four page types</strong><br>Each distinct idea was given its own page, sorted into four types: <strong>source</strong> (the report itself), <strong>entities</strong> (26 frameworks/tools/orgs — UNESCO RAM, Canada AIA, Brazil ANPD, India DPI, …), <strong>concepts</strong> (15 pages: 6 package-component "levers", 7 capability-area hubs, 2 overarching principles), and the <strong>overview</strong> (the spine). One page = one idea keeps each concept reusable and linkable.</div></div><div class="log-entry"><div class="log-date">Step 4</div><div class="log-content"><strong>Map each action to its evidence</strong><br>This is the core connection rule. Every package component (a "lever" — what a country <em>does</em>) was traced to the report's capability-area best-practice entry that justifies it, and then to the specific framework that implements it. Example chain: <strong>Procurement Lever → Capability Area 2 → Canada's Algorithmic Impact Assessment</strong>. Doing this for all six levers connected <em>action</em> to <em>evidence</em> to <em>real-world precedent</em>.</div></div><div class="log-entry"><div class="log-date">Step 5</div><div class="log-content"><strong>Wire the graph with wiki-links</strong><br>Pages were then cross-linked using Obsidian-style wiki-links (each reference wraps a page name in double square brackets) so the wiki reads as a graph, not a list. Every page links to at least two others: levers link <strong>down</strong> to their framework entity and <strong>up</strong> to their capability-area hub; each implementation phase links to the frameworks active in it; the two overarching principles (zero-new-legislation, the DPI lock-in test) cut <strong>across</strong> many pages; and every page cites the source — making one rooted citation graph you can traverse from any starting point.</div></div><div class="log-entry"><div class="log-date">Step 6</div><div class="log-content"><strong>Build the clickable landing page</strong><br><code>overview.md</code> was assembled as the entry point: the 5-phase sequence and 6-component package rendered as tables where <strong>every phase action and every component is a drill-in link</strong>. A reader can move from "what do I do in months 1–9?" straight to the framework that delivers it, then back.</div></div><div class="log-entry"><div class="log-date">Step 7</div><div class="log-content"><strong>Verify the graph holds together</strong><br>The whole link graph was checked: zero dangling links, every page reachable, and the index counts consistent with the pages created. This guarantees a reader never hits a dead end.</div></div><div class="log-entry"><div class="log-date">Step 8</div><div class="log-content"><strong>Export to a self-contained, clickable site</strong><br>Finally a small generator (<code>build_html.py</code>) converted the markdown into one self-contained <code>wiki.html</code>: each wiki-link became an in-page anchor, tables/lists/callouts became HTML, and a tiny hash-router makes each page open on its own (land on the Overview, click through to any page, click back). No external files — the whole knowledge base travels as a single shareable document.</div></div></section>
 </main>
 <script>
 function showPage() {
