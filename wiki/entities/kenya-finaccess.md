@@ -35,7 +35,7 @@ extension officer? Has an in-person service been replaced by a digital-only proc
 
 ## Primary source
 FinAccess 2021:
-https://www.centralbank.go.ke/wp-content/uploads/2022/08/2021-Finaccesss-Survey-Report.pdf ·
+https://www.centralbank.go.ke/wp-content/uploads/2022/08/2021-FinAccess-Survey-Report.pdf ·
 FSD Africa (2023), https://fsdafrica.org/publications/
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 

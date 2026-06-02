@@ -39,7 +39,7 @@ action matrix that feeds a National AI Strategy.
 
 ## Primary source
 UNESCO, *Readiness Assessment Methodology (RAM) for AI* (2021/2023):
-https://www.unesco.org/en/artificial-intelligence/recommendation-ethics
+https://www.unesco.org/ethics-ai/en/ram
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

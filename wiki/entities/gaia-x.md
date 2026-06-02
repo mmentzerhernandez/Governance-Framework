@@ -40,7 +40,7 @@ Its **documented difficulties are as instructive as its successes**.
 
 ## Primary source
 GAIA-X, https://gaia-x.eu · Trust Framework v23.06:
-https://docs.gaia-x.eu/policy-rules-committee/trust-framework/22.10/
+https://docs.gaia-x.eu/policy-rules-committee/trust-framework/23.06/
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

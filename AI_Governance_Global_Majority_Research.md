@@ -9,7 +9,7 @@
 
 This report answers the question: *what proven, implemented AI governance mechanisms can a resource-constrained Global South government adopt today?* Seven capability areas are covered, each with 2–4 best-practice entries in a standard five-field format: (a) tool/methodology, (b) producing organization + country + year, (c) documented outcomes, (d) transferable mechanism, (e) primary-source link.
 
-### Five Cross-Cutting Findings
+### Five Findings
 
 1. **Fastest governance pathway (12–18 months, zero new legislation):** Existing procurement rules, data-protection statutes, and executive circulars are sufficient. Rwanda, Brazil, and Singapore all prove it.
 2. **Most replicated accountability instrument:** Canada's Algorithmic Impact Assessment (AIA) — open-source MIT-licensed, four-level impact scoring, adoptable by ministerial circular.
