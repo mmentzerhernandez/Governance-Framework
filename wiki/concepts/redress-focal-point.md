@@ -13,8 +13,8 @@ sources: [ai-governance-global-majority-report]
 > the pre-established OECD 4-category taxonomy.
 
 ## What it is
-A lightweight complaints-and-incident channel hosted inside an existing body — a national ombudsman,
-consumer-protection agency, or the data authority — that intakes AI-harm reports and classifies them
+A lightweight complaints-and-incident channel hosted inside an existing body, a national ombudsman,
+consumer-protection agency, or the data authority, that intakes AI-harm reports and classifies them
 with the [[oecd-ai-incidents-monitor]] four-category taxonomy (accuracy / safety / rights / security
 failures). This is the redress endpoint the [[regulatory-lever]]'s human-review right depends on.
 
@@ -29,7 +29,7 @@ that **already has a complaints mandate**. No new institution, no statute. See
 3. Adopt the OECD four-category taxonomy in all communications.
 4. Optionally require AIID searches pre-procurement and 48-hour vendor incident notice
    (see [[ai-incident-database-nist]]).
-5. Report annually to the OECD AI Monitor — an international accountability record at zero cost.
+5. Report annually to the OECD AI Monitor, an international accountability record at zero cost.
 
 ## Trigger / timing
 **Anchor phase, Months 6–18** (the report's "basic public incident complaints channel").

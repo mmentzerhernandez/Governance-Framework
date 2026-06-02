@@ -15,12 +15,12 @@ sources: [ai-governance-global-majority-report]
 
 ## What it is
 A guidance note issued by the national data protection authority that interprets the country's
-**existing** data-protection statute to cover automated decision-making — establishing the right to
+**existing** data-protection statute to cover automated decision-making, establishing the right to
 human review and to an explicit reason for automated profiling decisions. The model is
 [[brazil-lgpd-anpd]] (LGPD Article 20 + ANPD Resolution 16/2024).
 
 ## Why no new law is needed
-It uses the DPA's **administrative interpretive authority** over a law already on the books — most
+It uses the DPA's **administrative interpretive authority** over a law already on the books, most
 African and Latin American countries had a data-protection law by 2024. No legislation; the note
 clarifies how existing rights apply to algorithms. See [[zero-new-legislation-pathway]].
 
@@ -32,7 +32,7 @@ clarifies how existing rights apply to algorithms. See [[zero-new-legislation-pa
 5. Optionally request technical cooperation from ANPD/SERPRO via South-South channels.
 
 ## Trigger / timing
-**Anchor phase, Months 6–18.** Complements the [[redress-focal-point]] — the human-review right
+**Anchor phase, Months 6–18.** Complements the [[redress-focal-point]], the human-review right
 needs an intake channel to be exercised.
 
 ## Cross-references

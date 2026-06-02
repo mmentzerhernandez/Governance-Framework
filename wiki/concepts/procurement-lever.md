@@ -13,13 +13,12 @@ sources: [ai-governance-global-majority-report]
 > (AIA, adapted from Canada's open-source tool) for every public-sector algorithmic deployment.
 
 ## What it is
-The accountability backbone. A finance/treasury circular makes the [[canada-directive-adm]] AIA —
-a free, MIT-licensed, web-based questionnaire — mandatory before any ministry deploys or procures an
+The accountability backbone. A finance/treasury circular makes the [[canada-directive-adm]] AIA, a free, MIT-licensed, web-based questionnaire, mandatory before any ministry deploys or procures an
 AI system. The AIA auto-scores each system into one of four impact levels, each triggering
 proportionate obligations (notice → explanation → peer review/audit → independent bias audit).
 
 ## Why no new law is needed
-The AIA operates under **existing procurement and budget-approval authority** — exactly how Canada
+The AIA operates under **existing procurement and budget-approval authority**, exactly how Canada
 does it (no statute; Treasury Board authority). See [[zero-new-legislation-pathway]]. For the highest
 levels, attach an [[eu-ai-act]] Article 26 conformity clause to the contract.
 

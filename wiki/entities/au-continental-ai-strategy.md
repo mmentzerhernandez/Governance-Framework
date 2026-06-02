@@ -15,10 +15,10 @@ sources: [ai-governance-global-majority-report]
 **Capability area:** [[ca2-minimum-viable-governance]] (CA2-BP5)
 
 ## What it is
-A continental framework on five pillars — Infrastructure & Connectivity; Data Governance & Access;
+A continental framework on five pillars, Infrastructure & Connectivity; Data Governance & Access;
 Research & Innovation; AI Ethics, Safety & Governance; Trade & Economic Integration. It creates an
 AU AI Coordination Mechanism and, critically, includes a **Model National AI Policy Template
-(Annex III)** that member states may adopt verbatim or adapt — explicitly designed to be enacted
+(Annex III)** that member states may adopt verbatim or adapt, explicitly designed to be enacted
 by **ministerial decree** where AI legislation is not yet feasible. It cross-references the UNESCO
 Recommendation on AI Ethics and the OECD AI Principles for multilateral legitimacy.
 
@@ -29,16 +29,16 @@ Recommendation on AI Ethics and the OECD AI Principles for multilateral legitima
   Senegal's digital governance bill.
 
 ## Transferable mechanism
-- AU members can adopt the Annex III Model Template by ministerial circular in 30–60 days — it is
+- AU members can adopt the Annex III Model Template by ministerial circular in 30–60 days: it is
   pre-drafted and provides political cover ("aligned with the AU Continental Strategy").
 - Non-AU developing countries (Pacific, Caribbean, ASEAN) can use it as a drafting analogue.
 
 ## Primary source
-AU Commission, *Continental Artificial Intelligence Strategy* (Feb 2024) —
+AU Commission, *Continental Artificial Intelligence Strategy* (Feb 2024):
 https://au.int/en/documents/20240218/continental-artificial-intelligence-strategy
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
 - [[ca2-minimum-viable-governance]]
-- [[rwanda-ai-policy]] — cited model for the continent
-- [[smart-africa]] — regional implementation partner
+- [[rwanda-ai-policy]]: cited model for the continent
+- [[smart-africa]]: regional implementation partner

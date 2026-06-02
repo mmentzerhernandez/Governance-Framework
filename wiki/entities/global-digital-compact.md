@@ -7,7 +7,7 @@ updated: 2026-06-01
 sources: [ai-governance-global-majority-report]
 ---
 
-# Global Digital Compact (2024) — First AI Text Shaped by the G77
+# Global Digital Compact (2024): First AI Text Shaped by the G77
 
 **Type:** UN multilateral instrument
 **Origin:** UN General Assembly (Summit of the Future); G77+China, African Group, CARICOM leads
@@ -18,11 +18,11 @@ sources: [ai-governance-global-majority-report]
 The first major multilateral AI governance text where the G77 played a documented, substantive
 role. Specific Global South contributions in the final text: (1) **"development-oriented AI"**
 framing (African Group); (2) **interoperability over standardization** for DPI (ASEAN, CARICOM);
-(3) **capacity-building as a right, not a gift** (G77); (4) **data-governance equity** — a
+(3) **capacity-building as a right, not a gift** (G77); (4) **data-governance equity**, a
 Nagoya-style benefit-sharing provision for AI trained on developing-country data (AU Commission).
 
 ## Documented outcomes
-- First multilateral affirmation that "developing countries must benefit equitably from AI" — now
+- First multilateral affirmation that "developing countries must benefit equitably from AI": now
   citable as established consensus.
 - Established the **UN AI Office** (mandate to support developing-country AI capacity) and the
   **International Panel on AI** with an equitable-geographic-representation requirement.
@@ -32,8 +32,8 @@ Nagoya-style benefit-sharing provision for AI trained on developing-country data
 - Use the IPAI representation requirement as precedent for Global South seats in technical bodies.
 
 ## Primary source
-UN GDC (A/RES/79/L.1, 2024) — https://www.un.org/techenvoy/global-digital-compact
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+UN GDC (A/RES/79/L.1, 2024), https://www.un.org/techenvoy/global-digital-compact
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
 - [[ca5-multilateral-negotiating-playbook]]

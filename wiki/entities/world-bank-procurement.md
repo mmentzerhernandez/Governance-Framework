@@ -1,5 +1,5 @@
 ---
-title: World Bank Procurement Framework — Digital/AI Standards
+title: World Bank Procurement Framework: Digital/AI Standards
 type: entity
 tags: [world-bank, procurement, lock-in, ca3]
 created: 2026-06-01
@@ -7,7 +7,7 @@ updated: 2026-06-01
 sources: [ai-governance-global-majority-report]
 ---
 
-# World Bank Procurement Framework — Digital/AI Contract Standards
+# World Bank Procurement Framework: Digital/AI Contract Standards
 
 **Type:** procurement regulations + AI guidance notes
 **Origin:** World Bank Group (OPCS + ITS Digital Development)
@@ -30,14 +30,14 @@ obligations, and **exit/transition planning** (the most lock-in-relevant clause)
 - Extract the World Bank AI procurement checklist from project docs (public) and apply it to
   **domestically financed** procurement even without Bank involvement.
 - Require **data portability + exit planning** clauses: vendor must supply migration documentation
-  and interoperability APIs within 90 days of award — low-cost, high-value against lock-in.
+  and interoperability APIs within 90 days of award, low-cost, high-value against lock-in.
 
 ## Primary source
-World Bank Procurement Regulations —
+World Bank Procurement Regulations:
 https://www.worldbank.org/en/projects-operations/products-and-services/brief/procurement-new-framework
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
 - [[ca3-harm-reporting-redress]]
-- [[vendor-lock-in-dpi-test]] — exit-planning clauses reduce lock-in
-- [[eu-ai-act]] — complementary procurement standard
+- [[vendor-lock-in-dpi-test]]: exit-planning clauses reduce lock-in
+- [[eu-ai-act]]: complementary procurement standard

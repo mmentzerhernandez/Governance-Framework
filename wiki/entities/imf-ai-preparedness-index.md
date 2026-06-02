@@ -22,26 +22,26 @@ gets a composite 0–1 score plus dimension scores, disaggregated for advanced e
 markets, and LIDCs.
 
 ## Documented outcomes
-- EMDEs average **0.33** vs **0.73** for advanced economies — but on Regulation & Ethics the gap
+- EMDEs average **0.33** vs **0.73** for advanced economies: but on Regulation & Ethics the gap
   is narrower (0.41 vs 0.54).
 - Used in **Article IV** consultations for 12+ developing countries in 2024.
 - Key finding: regulation gaps are **smaller than infrastructure gaps**, which is the sequencing
-  rationale for the whole framework — invest in governance capacity before infrastructure parity.
+  rationale for the whole framework, invest in governance capacity before infrastructure parity.
 
 ## Transferable mechanism
 - Download SDN/2024/001 and extract your four dimension scores.
 - Use the **Regulation & Ethics** score as the baseline; identify the sub-indicators dragging it
   down (usually: no published AI strategy, no data-protection law, no algorithmic-accountability
   provision).
-- Each sub-indicator maps directly to a [[ca2-minimum-viable-governance]] action — a line from
+- Each sub-indicator maps directly to a [[ca2-minimum-viable-governance]] action: a line from
   index score to policy.
 
 ## Primary source
-IMF SDN/2024/001 (Jan 2024) —
+IMF SDN/2024/001 (Jan 2024):
 https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
-- [[diagnostic-anchor]] — Diagnose phase pairs RAM with IMF dimension extraction
+- [[diagnostic-anchor]]: Diagnose phase pairs RAM with IMF dimension extraction
 - [[unesco-ram]]
 - [[ca1-readiness-assessment]]

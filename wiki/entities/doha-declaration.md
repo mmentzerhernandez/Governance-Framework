@@ -7,7 +7,7 @@ updated: 2026-06-01
 sources: [ai-governance-global-majority-report]
 ---
 
-# Doha Declaration on TRIPS & Public Health (2001) — Negotiating Playbook
+# Doha Declaration on TRIPS & Public Health (2001): Negotiating Playbook
 
 **Type:** multilateral negotiating precedent
 **Origin:** African Group (Zimbabwe, South Africa, Zambia), India, Brazil, LDC bloc; WTO
@@ -24,7 +24,7 @@ reopening).
 
 ## Documented outcomes
 - The Declaration affirmed TRIPS "does not and should not prevent Members from taking measures to
-  protect public health" — a direct rewrite of the dominant interpretation.
+  protect public health", a direct rewrite of the dominant interpretation.
 - The 2003 compulsory-licensing mechanism cut some medicine costs 90%+ (Brazil, Thailand, India,
   Kenya, Zimbabwe).
 
@@ -37,11 +37,11 @@ reopening).
 | Textual foothold | Use existing "equitable access" language in OECD/UNESCO/ITU texts |
 
 ## Primary source
-Doha Declaration (WT/MIN(01)/DEC/2) —
+Doha Declaration (WT/MIN(01)/DEC/2):
 https://www.wto.org/english/thewto_e/minist_e/min01_e/mindecl_trips_e.htm
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
 - [[ca5-multilateral-negotiating-playbook]]
-- [[nagoya-protocol]] — companion precedent
-- [[global-digital-compact]] — where the playbook now applies
+- [[nagoya-protocol]]: companion precedent
+- [[global-digital-compact]]: where the playbook now applies

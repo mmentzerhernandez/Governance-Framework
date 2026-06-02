@@ -7,7 +7,7 @@ updated: 2026-06-01
 sources: [ai-governance-global-majority-report]
 ---
 
-# Smart Africa Alliance — AU-Linked Regional Infrastructure Sharing
+# Smart Africa Alliance: AU-Linked Regional Infrastructure Sharing
 
 **Type:** regional digital-infrastructure platform organization
 **Origin:** Smart Africa Alliance, Kigali Secretariat
@@ -26,7 +26,7 @@ services), the **Smart Africa Digital Economy Fund (SADEF)** (blended finance), 
 - SADEF mobilized $52m across 9 projects (2021–2023).
 - Rwanda, Senegal, Ghana used the MOU template for bilateral AI cooperation agreements.
 
-## Transferable mechanism — key MOU clauses
+## Transferable mechanism: key MOU clauses
 - **Data sovereignty:** each party retains ownership/sovereign rights over its nationals' data; no
   cross-border transfer without consent.
 - **Cost-sharing:** allocated by GDP/population/usage as negotiated.
@@ -34,11 +34,11 @@ services), the **Smart Africa Digital Economy Fund (SADEF)** (blended finance), 
 - **Withdrawal:** 90 days' notice; full data/system migration within 180 days at no cost.
 
 ## Primary source
-Smart Africa — https://smartafrica.org · 2023 Annual Report —
+Smart Africa, https://smartafrica.org · 2023 Annual Report:
 https://smartafrica.org/annual-report-2023/
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
 - [[ca7-regional-infrastructure]]
-- [[au-continental-ai-strategy]] — continental umbrella
-- [[caricom-cdtp]] — small-state pooling analogue
+- [[au-continental-ai-strategy]]: continental umbrella
+- [[caricom-cdtp]]: small-state pooling analogue

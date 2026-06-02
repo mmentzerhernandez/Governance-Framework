@@ -24,9 +24,9 @@ proposal before contract signature.
 **Any proposal failing 2+ criteria triggers a lock-in risk review before signature.**
 
 ## Reinforcing instruments
-- [[undp-dpg-standard]] — require DPGA-registry status or an equivalent 9-criteria assessment.
-- [[world-bank-procurement]] — data-portability + exit-planning clauses (migration + APIs in 90 days).
-- [[green-climate-fund]] — conditionality clauses keeping technology choice with the borrower.
+- [[undp-dpg-standard]]: require DPGA-registry status or an equivalent 9-criteria assessment.
+- [[world-bank-procurement]]: data-portability + exit-planning clauses (migration + APIs in 90 days).
+- [[green-climate-fund]]: conditionality clauses keeping technology choice with the borrower.
 
 ## Cross-references
 - [[infrastructure-safeguard]] · [[india-dpi-stack]]

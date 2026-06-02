@@ -1,5 +1,5 @@
 ---
-title: CA1 — National AI Readiness Self-Assessment
+title: CA1: National AI Readiness Self-Assessment
 type: concept
 tags: [capability-area, readiness, diagnose]
 created: 2026-06-01
@@ -7,7 +7,7 @@ updated: 2026-06-01
 sources: [ai-governance-global-majority-report]
 ---
 
-# CA1 — National AI Readiness Self-Assessment
+# CA1: National AI Readiness Self-Assessment
 
 Capability-area hub. Three instruments dominate readiness diagnosis, each with a different role.
 
@@ -20,10 +20,10 @@ Capability-area hub. Three instruments dominate readiness diagnosis, each with a
 ## Key insight
 Only the RAM is designed for government self-completion; the others are passive external data. The
 IMF finding that **regulation gaps are smaller than infrastructure gaps** is the sequencing rationale
-for the whole framework — build governance capacity first. This is the basis of the
+for the whole framework, build governance capacity first. This is the basis of the
 [[diagnostic-anchor]] package component and the **Diagnose** phase.
 
 ## Cross-references
-- [[diagnostic-anchor]] — the package component drawn from CA1
+- [[diagnostic-anchor]]: the package component drawn from CA1
 - [[overview]]
-- [[ca2-minimum-viable-governance]] — each weak sub-indicator maps to a CA2 action
+- [[ca2-minimum-viable-governance]]: each weak sub-indicator maps to a CA2 action

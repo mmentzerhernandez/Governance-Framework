@@ -23,22 +23,22 @@ individual explanations on request, and run DPIAs for high-risk AI. Brazil's nat
 converts LGPD obligations into operational procurement/deployment checklists.
 
 ## Documented outcomes
-- ANPD has processed **400+ complaints** under Article 20 since 2021 — a jurisprudence base.
+- ANPD has processed **400+ complaints** under Article 20 since 2021: a jurisprudence base.
 - EBIA adopted as a model by Colombia (2022) and informed Argentina (2023).
 - SERPRO toolkit used by 12 federal ministries; shared with Uruguay and Ecuador via MERCOSUR.
 
 ## Transferable mechanism
 - Countries with an existing data-protection law can issue a **DPA guidance note** applying
-  automated-decision rights to government AI — administrative authority only, no new law.
+  automated-decision rights to government AI, administrative authority only, no new law.
 - Draft a DPIA template modelled on ANPD Resolution 16.
 - Request technical cooperation from ANPD/SERPRO via South-South channels (e.g. CPLP).
 
 ## Primary source
-LGPD (Law 13.709/2018) — https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm ·
-ANPD Resolution 16/2024 — https://www.gov.br/anpd/pt-br
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+LGPD (Law 13.709/2018), https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm ·
+ANPD Resolution 16/2024, https://www.gov.br/anpd/pt-br
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
-- [[regulatory-lever]] — the package component built on this model
+- [[regulatory-lever]]: the package component built on this model
 - [[ca2-minimum-viable-governance]]
-- [[redress-focal-point]] — complaints intake complements the human-review right
+- [[redress-focal-point]]: complaints intake complements the human-review right

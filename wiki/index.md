@@ -9,7 +9,7 @@
 
 | Page | Type | Description | Updated |
 |------|------|-------------|---------|
-| [[ai-governance-global-majority-report]] | source | The single source report — 7 capability areas, best-practice entries | 2026-06-01 |
+| [[ai-governance-global-majority-report]] | source | The single source report: 7 capability areas, best-practice entries | 2026-06-01 |
 
 ---
 
@@ -42,7 +42,7 @@
 | [[smart-africa]] | entity | AU-linked regional infrastructure sharing (CA7) | 2026-06-01 |
 | [[asean-defa]] | entity | Regional digital-economy treaty, modular pillars (CA7) | 2026-06-01 |
 | [[caricom-cdtp]] | entity | Small-island-state pooled procurement (CA7) | 2026-06-01 |
-| [[gaia-x]] | entity | Federated cloud — cautionary lessons (CA7) | 2026-06-01 |
+| [[gaia-x]] | entity | Federated cloud: cautionary lessons (CA7) | 2026-06-01 |
 
 ---
 
@@ -50,21 +50,21 @@
 
 | Page | Type | Description | Updated |
 |------|------|-------------|---------|
-| [[diagnostic-anchor]] | concept | Package #1 — UNESCO RAM execution (Diagnose) | 2026-06-01 |
-| [[procurement-lever]] | concept | Package #2 — AIA ministerial circular (Anchor) | 2026-06-01 |
-| [[regulatory-lever]] | concept | Package #3 — data-authority guidance note (Anchor) | 2026-06-01 |
-| [[redress-focal-point]] | concept | Package #4 — OECD-taxonomy incident point (Anchor) | 2026-06-01 |
-| [[infrastructure-safeguard]] | concept | Package #5 — DPI open-standards test (Protect) | 2026-06-01 |
-| [[protection-survey]] | concept | Package #6 — survey exclusion trackers (Monitor) | 2026-06-01 |
-| [[ca1-readiness-assessment]] | concept | Capability-area hub — readiness diagnosis | 2026-06-01 |
-| [[ca2-minimum-viable-governance]] | concept | Capability-area hub — domestic governance | 2026-06-01 |
-| [[ca3-harm-reporting-redress]] | concept | Capability-area hub — harm reporting & redress | 2026-06-01 |
-| [[ca4-development-finance-lock-in]] | concept | Capability-area hub — finance & lock-in | 2026-06-01 |
-| [[ca5-multilateral-negotiating-playbook]] | concept | Capability-area hub — multilateral negotiating | 2026-06-01 |
-| [[ca6-labor-displacement-early-warning]] | concept | Capability-area hub — labor displacement | 2026-06-01 |
-| [[ca7-regional-infrastructure]] | concept | Capability-area hub — regional pooling | 2026-06-01 |
-| [[zero-new-legislation-pathway]] | concept | Cross-cutting — governance without new law | 2026-06-01 |
-| [[vendor-lock-in-dpi-test]] | concept | Cross-cutting — the four-criterion DPI screen | 2026-06-01 |
+| [[diagnostic-anchor]] | concept | Package #1: UNESCO RAM execution (Diagnose) | 2026-06-01 |
+| [[procurement-lever]] | concept | Package #2: AIA ministerial circular (Anchor) | 2026-06-01 |
+| [[regulatory-lever]] | concept | Package #3: data-authority guidance note (Anchor) | 2026-06-01 |
+| [[redress-focal-point]] | concept | Package #4: OECD-taxonomy incident point (Anchor) | 2026-06-01 |
+| [[infrastructure-safeguard]] | concept | Package #5: DPI open-standards test (Protect) | 2026-06-01 |
+| [[protection-survey]] | concept | Package #6: survey exclusion trackers (Monitor) | 2026-06-01 |
+| [[ca1-readiness-assessment]] | concept | Capability-area hub: readiness diagnosis | 2026-06-01 |
+| [[ca2-minimum-viable-governance]] | concept | Capability-area hub: domestic governance | 2026-06-01 |
+| [[ca3-harm-reporting-redress]] | concept | Capability-area hub: harm reporting & redress | 2026-06-01 |
+| [[ca4-development-finance-lock-in]] | concept | Capability-area hub: finance & lock-in | 2026-06-01 |
+| [[ca5-multilateral-negotiating-playbook]] | concept | Capability-area hub: multilateral negotiating | 2026-06-01 |
+| [[ca6-labor-displacement-early-warning]] | concept | Capability-area hub: labor displacement | 2026-06-01 |
+| [[ca7-regional-infrastructure]] | concept | Capability-area hub: regional pooling | 2026-06-01 |
+| [[zero-new-legislation-pathway]] | concept | Cross-cutting: governance without new law | 2026-06-01 |
+| [[vendor-lock-in-dpi-test]] | concept | Cross-cutting: the four-criterion DPI screen | 2026-06-01 |
 
 ---
 

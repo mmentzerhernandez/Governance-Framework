@@ -54,3 +54,17 @@ Finally a small generator (`build_html.py`) converted the markdown into one self
 `wiki.html`: each wiki-link became an in-page anchor, tables/lists/callouts became HTML, and a tiny
 hash-router makes each page open on its own (land on the Overview, click through to any page, click
 back). No external files — the whole knowledge base travels as a single shareable document.
+
+## [2026-06-02] Text audit against Wikipedia AI-writing signs
+All 44 wiki pages (entities, concepts, overview) audited against the Wikipedia "Signs of AI Writing"
+field guide. Changes applied:
+
+- Removed all em-dashes from wiki content pages (249 instances across 44 files). Replaced with
+  colons, commas, or parentheses depending on context. Em-dashes in log.md (append-only) and
+  CSS decoration left untouched.
+- Replaced "align with limited administrative capacity" with "match their administrative capacity".
+- Rewrote the Section B intro to remove the parenthetical em-dash cluster and drop "comprehensive".
+- Changed "(a)...(b)...(c)...(d)..." labeled list to a plain prose sentence.
+- Changed "a broader landscape" to "a wider set of documented options".
+- Changed "It also serves as the" to "This is also the" in CA5.
+- Regenerated wiki.html from updated markdown.

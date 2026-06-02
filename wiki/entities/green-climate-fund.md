@@ -7,7 +7,7 @@ updated: 2026-06-01
 sources: [ai-governance-global-majority-report]
 ---
 
-# Green Climate Fund (GCF) Direct Access Modality — Pooled-Finance Analogue
+# Green Climate Fund (GCF) Direct Access Modality: Pooled-Finance Analogue
 
 **Type:** climate-finance modality (analogue for AI infrastructure finance)
 **Origin:** Green Climate Fund, Songdo, Republic of Korea
@@ -25,22 +25,21 @@ ex-post donor modification). The Readiness Programme grants up to $3m/country fo
 ## Documented outcomes
 - 105 direct-access entities accredited (incl. national development banks in Colombia, Pakistan,
   Bangladesh, Senegal, Indonesia).
-- The Caribbean CCCCC received $35.7m on behalf of 8 CARICOM states — a regional-pooling proof.
+- The Caribbean CCCCC received $35.7m on behalf of 8 CARICOM states: a regional-pooling proof.
 - Conditionality limitation credited with preventing donor-driven technology choices.
 
 ## Transferable mechanism
-- Advocate for an **AI Infrastructure Direct Access Facility** modelled on GCF's NIE system —
-  governments, not vendors, as accredited entities.
-- For immediate use: insert GCF-model conditionality clauses into dev-finance AI loans — technology
+- Advocate for an **AI Infrastructure Direct Access Facility** modelled on GCF's NIE system,   governments, not vendors, as accredited entities.
+- For immediate use: insert GCF-model conditionality clauses into dev-finance AI loans: technology
   choice stays with the borrower; no mandatory donor-country vendors; open-standards requirement;
   regional-pooling option.
 
 ## Primary source
-GCF Direct Access — https://www.greenclimate.fund/accessing-fund/direct-access · Readiness —
+GCF Direct Access, https://www.greenclimate.fund/accessing-fund/direct-access · Readiness:
 https://www.greenclimate.fund/readiness
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
 - [[ca4-development-finance-lock-in]]
-- [[caricom-cdtp]] — regional-pooling exemplar
+- [[caricom-cdtp]]: regional-pooling exemplar
 - [[vendor-lock-in-dpi-test]]

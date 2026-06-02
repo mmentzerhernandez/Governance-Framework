@@ -13,14 +13,13 @@ sources: [ai-governance-global-majority-report]
 > validate national strategic priorities within ~12 weeks.
 
 ## What it is
-The diagnostic foundation of the [[overview]] sequence. A government runs the [[unesco-ram]] —
-a free, UNESCO-facilitated, cross-ministerial self-assessment — to produce a scored national AI
+The diagnostic foundation of the [[overview]] sequence. A government runs the [[unesco-ram]], a free, UNESCO-facilitated, cross-ministerial self-assessment, to produce a scored national AI
 readiness profile and a prioritized action matrix. Paired with extraction of the country's four
 [[imf-ai-preparedness-index]] dimension scores, this gives a data-driven picture of strategic
 deficiencies at near-zero cost.
 
 ## Why no new law is needed
-It is a diagnostic, not a regulation — requested through the National Commission for UNESCO and run
+It is a diagnostic, not a regulation, requested through the National Commission for UNESCO and run
 by existing ministry staff. Nothing is legislated; the output simply feeds the National AI Strategy.
 
 ## Transferable mechanism (steps)
@@ -37,5 +36,5 @@ weeks; the user's 12-week target is comfortable.
 
 ## Cross-references
 - [[unesco-ram]] · [[imf-ai-preparedness-index]] · [[oxford-insights-gari]]
-- [[ca1-readiness-assessment]] — the full capability-area landscape
-- [[overview]] — where this anchors the sequence
+- [[ca1-readiness-assessment]]: the full capability-area landscape
+- [[overview]]: where this anchors the sequence

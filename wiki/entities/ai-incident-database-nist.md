@@ -29,17 +29,17 @@ Singapore, Israel, and the UK.
 
 ## Transferable mechanism
 - Before procuring any AI system, require the responsible ministry to run an AIID search for past
-  incidents of the same system type and file the findings — costs nothing, ~2 hours, creates a
+  incidents of the same system type and file the findings, costs nothing, ~2 hours, creates a
   due-diligence record.
 - Add a contract clause: vendor must notify within 48 hours of any AIID-reported incident
   involving the deployed system.
 
 ## Primary source
-AI Incident Database — https://incidentdatabase.ai · NIST AI RMF 1.0 —
+AI Incident Database, https://incidentdatabase.ai · NIST AI RMF 1.0:
 https://doi.org/10.6028/NIST.AI.100-1
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
 - [[ca3-harm-reporting-redress]]
-- [[oecd-ai-incidents-monitor]] — policy-oriented complement
-- [[world-bank-procurement]] — uses AIID in appraisals
+- [[oecd-ai-incidents-monitor]]: policy-oriented complement
+- [[world-bank-procurement]]: uses AIID in appraisals

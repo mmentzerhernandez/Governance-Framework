@@ -7,7 +7,7 @@ updated: 2026-06-01
 sources: [ai-governance-global-majority-report]
 ---
 
-# Nagoya Protocol — Inserting Binding Benefit-Sharing into a Global Agreement
+# Nagoya Protocol: Inserting Binding Benefit-Sharing into a Global Agreement
 
 **Type:** multilateral negotiating precedent
 **Origin:** Like-Minded Megadiverse Countries (Brazil, China, Colombia, India, Indonesia, Kenya,
@@ -37,10 +37,10 @@ maintenance** (16 LMMC coordination meetings, 2002–2010).
 | Intersessional maintenance | Stand up a **G77+China AI Coordination Group** with a small secretariat |
 
 ## Primary source
-Nagoya Protocol — https://www.cbd.int/abs/text/
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+Nagoya Protocol, https://www.cbd.int/abs/text/
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
 - [[ca5-multilateral-negotiating-playbook]]
 - [[doha-declaration]]
-- [[global-digital-compact]] — applied a Nagoya-style data-benefit-sharing provision
+- [[global-digital-compact]]: applied a Nagoya-style data-benefit-sharing provision

@@ -38,11 +38,11 @@ action matrix that feeds a National AI Strategy.
 5. Publish the prioritized matrix as the evidence annex to the National AI Strategy.
 
 ## Primary source
-UNESCO, *Readiness Assessment Methodology (RAM) for AI* (2021/2023) —
+UNESCO, *Readiness Assessment Methodology (RAM) for AI* (2021/2023):
 https://www.unesco.org/en/artificial-intelligence/recommendation/ram
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
-- [[diagnostic-anchor]] — the package component built on RAM
-- [[imf-ai-preparedness-index]] — paired diagnostic
-- [[oxford-insights-gari]] — external benchmark complement
+- [[diagnostic-anchor]]: the package component built on RAM
+- [[imf-ai-preparedness-index]]: paired diagnostic
+- [[oxford-insights-gari]]: external benchmark complement

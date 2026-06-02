@@ -7,7 +7,7 @@ updated: 2026-06-01
 sources: [ai-governance-global-majority-report]
 ---
 
-# Rwanda National AI Policy (2023) — Executive-Authority Model
+# Rwanda National AI Policy (2023): Executive-Authority Model
 
 **Type:** national AI policy (ministerial, not legislative)
 **Origin:** Rwanda Ministry of ICT & Innovation (MINICT) / Rwanda Information Society Authority (RISA)
@@ -35,10 +35,10 @@ the full policy cycle took **under 12 months**.
 - Replicate the procurement addendum model (AI specs appended to existing bid templates).
 
 ## Primary source
-Rwanda MINICT, *National Artificial Intelligence Policy* (2023) — https://www.minict.gov.rw
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+Rwanda MINICT, *National Artificial Intelligence Policy* (2023), https://www.minict.gov.rw
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
-- [[zero-new-legislation-pathway]] — Rwanda is the executive-speed exemplar
-- [[canada-directive-adm]] — analogous AIA approach
-- [[au-continental-ai-strategy]] — continental umbrella
+- [[zero-new-legislation-pathway]]: Rwanda is the executive-speed exemplar
+- [[canada-directive-adm]]: analogous AIA approach
+- [[au-continental-ai-strategy]]: continental umbrella

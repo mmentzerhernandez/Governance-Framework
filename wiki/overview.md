@@ -1,5 +1,5 @@
 ---
-title: National AI Governance Playbook — Overview
+title: National AI Governance Playbook: Overview
 type: overview
 tags: [overview, roadmap, global-south, ai-governance]
 created: 2026-06-01
@@ -10,15 +10,14 @@ sources: [ai-governance-global-majority-report]
 # National AI Governance Playbook for Global Majority Governments
 
 A resource-constrained Global South government can establish credible, internationally benchmarked
-AI governance in **12–18 months without passing any new AI law** — using only existing procurement
+AI governance in **12–18 months without passing any new AI law**, using only existing procurement
 rules, data-protection statutes, and executive circulars. See [[zero-new-legislation-pathway]].
 
 ---
 
-## Section A — Recommended Implementation Sequencing
+## Section A: Recommended Implementation Sequencing
 
-Nations should sequence these parameters through five phases to align with limited administrative
-capacity. (Source report, Overarching Implementation Guidance.)
+Nations should sequence these five phases to match their administrative capacity. (Source report, Overarching Implementation Guidance.)
 
 | Phase | Timeline | Priority actions (click to drill in) | Cost |
 |---|---|---|---|
@@ -30,45 +29,43 @@ capacity. (Source report, Overarching Implementation Guidance.)
 
 ---
 
-## Section B — The Minimum-Viable Governance Package
+## Section B: The Minimum-Viable Governance Package
 
-For a nation starting from scratch — zero dedicated AI laws, no official strategy, no specialized
-oversight agency — the report isolates **six components** that establish a comprehensive,
-internationally credible framework within 18 months using existing legal authority.
+For a government with no dedicated AI laws, no AI strategy, and no specialized oversight agency,
+the report identifies **six components** that together establish an internationally credible
+framework within 18 months under existing legal authority.
 
 | # | Component | What it does | Adapted from |
 |---|---|---|---|
-| 1 | [[diagnostic-anchor]] | UNESCO RAM execution — a data-driven national profile via cross-ministerial workshops | [[unesco-ram]] |
-| 2 | [[procurement-lever]] | Canada-model AIA procurement circular — open-source tool auto-scores & audits incoming public AI | [[canada-directive-adm]] |
-| 3 | [[regulatory-lever]] | Data-authority guidance note — mandates human review & explicit reasoning for automated profiling | [[brazil-lgpd-anpd]] |
-| 4 | [[redress-focal-point]] | OECD-taxonomy intake point — incident reporting inside an existing ombudsman/consumer agency | [[oecd-ai-incidents-monitor]] |
-| 5 | [[infrastructure-safeguard]] | DPI open-API test — open-standards review of all foreign dev-finance infrastructure proposals | [[india-dpi-stack]] |
-| 6 | [[protection-survey]] | Survey-embedded exclusion trackers — automation & automated-rejection questions in annual surveys | [[kenya-finaccess]] |
+| 1 | [[diagnostic-anchor]] | UNESCO RAM execution: a data-driven national profile via cross-ministerial workshops | [[unesco-ram]] |
+| 2 | [[procurement-lever]] | Canada-model AIA procurement circular: open-source tool auto-scores & audits incoming public AI | [[canada-directive-adm]] |
+| 3 | [[regulatory-lever]] | Data-authority guidance note: mandates human review & explicit reasoning for automated profiling | [[brazil-lgpd-anpd]] |
+| 4 | [[redress-focal-point]] | OECD-taxonomy intake point: incident reporting inside an existing ombudsman/consumer agency | [[oecd-ai-incidents-monitor]] |
+| 5 | [[infrastructure-safeguard]] | DPI open-API test: open-standards review of all foreign dev-finance infrastructure proposals | [[india-dpi-stack]] |
+| 6 | [[protection-survey]] | Survey-embedded exclusion trackers: automation & automated-rejection questions in annual surveys | [[kenya-finaccess]] |
 
-This package is **(a)** grounded in domestic legal authority, **(b)** internationally benchmarked,
-**(c)** operationally deployable, and **(d)** diplomatically credible.
+It is grounded in domestic legal authority, internationally benchmarked, deployable without new legislation, and usable as a diplomatic credential.
 
 ---
 
-## Deeper reading — the 7 capability areas
+## Deeper reading: the 7 capability areas
 
-The package is a curated slice of a broader landscape. Each capability-area hub lists all the
-options the report documents, not just the package component.
+The package draws from a wider set of documented options. Each capability-area hub lists all the frameworks the report covers, not just the one selected for the package.
 
-- [[ca1-readiness-assessment]] — National AI Readiness Self-Assessment
-- [[ca2-minimum-viable-governance]] — Minimum-Viable Domestic AI Governance
-- [[ca3-harm-reporting-redress]] — AI Harm Reporting, Redress & Accountability
-- [[ca4-development-finance-lock-in]] — Development-Finance Conditionality & Vendor Lock-In
-- [[ca5-multilateral-negotiating-playbook]] — Shifting Multilateral Negotiating Language
-- [[ca6-labor-displacement-early-warning]] — Labor-Displacement Early-Warning Systems
-- [[ca7-regional-infrastructure]] — Regional Shared-Services & Pooled Infrastructure
+- [[ca1-readiness-assessment]]: National AI Readiness Self-Assessment
+- [[ca2-minimum-viable-governance]]: Minimum-Viable Domestic AI Governance
+- [[ca3-harm-reporting-redress]]: AI Harm Reporting, Redress & Accountability
+- [[ca4-development-finance-lock-in]]: Development-Finance Conditionality & Vendor Lock-In
+- [[ca5-multilateral-negotiating-playbook]]: Shifting Multilateral Negotiating Language
+- [[ca6-labor-displacement-early-warning]]: Labor-Displacement Early-Warning Systems
+- [[ca7-regional-infrastructure]]: Regional Shared-Services & Pooled Infrastructure
 
 ## Cross-cutting themes
-- [[zero-new-legislation-pathway]] — why none of this requires new law
-- [[vendor-lock-in-dpi-test]] — the four-criterion DPI screen
+- [[zero-new-legislation-pathway]]: why none of this requires new law
+- [[vendor-lock-in-dpi-test]]: the four-criterion DPI screen
 
 ## Key gaps
 > 🔍 Gap: No Global South country has yet deployed a comprehensive AI-specific labor-displacement
 > early-warning system ([[ca6-labor-displacement-early-warning]]).
 
-> 🔍 Gap: All primary-source links are unverified (web-retriever outage) — verify before citing.
+> 🔍 Gap: All primary-source links are unverified (web-retriever outage), verify before citing.

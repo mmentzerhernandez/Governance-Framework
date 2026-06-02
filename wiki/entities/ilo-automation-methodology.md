@@ -37,11 +37,11 @@ profiles. The 2023 paper produced the first developing-country-specific estimate
 5. Trigger: an AEI rise >0.05 within a sector over 12 months prompts a labor-market-impact review.
 
 ## Primary source
-ILO Working Paper No. 87 (2023) —
+ILO Working Paper No. 87 (2023):
 https://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_869256.pdf
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
-- [[protection-survey]] — the package component pairing the AEI with survey questions
+- [[protection-survey]]: the package component pairing the AEI with survey questions
 - [[ca6-labor-displacement-early-warning]]
-- [[world-bank-step]] — informal-sector complement
+- [[world-bank-step]]: informal-sector complement

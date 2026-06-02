@@ -7,7 +7,7 @@ updated: 2026-06-01
 sources: [ai-governance-global-majority-report]
 ---
 
-# EU AI Act — High-Risk Obligations as Procurement-Clause Templates
+# EU AI Act: High-Risk Obligations as Procurement-Clause Templates
 
 **Type:** binding regulation (usable as a contractual standard abroad)
 **Origin:** European Parliament & Council of the EU
@@ -20,7 +20,7 @@ infrastructure, education, employment, essential services, law enforcement, migr
 justice): risk-management documentation, data governance, technical docs, transparency/logging,
 human-oversight design, accuracy/robustness, and conformity assessment before market placement.
 Its **Article 26 (deployer obligations)** is directly usable by any government as a procurement
-standard — a non-EU buyer can require the same conformity documentation from any vendor.
+standard, a non-EU buyer can require the same conformity documentation from any vendor.
 
 ## Documented outcomes
 - The high-risk classification is the de facto global standard (referenced by Singapore, Canada,
@@ -33,14 +33,13 @@ Insert into AI procurement contracts (verbatim or adapted): *"The Vendor shall p
 go-live, a conformity declaration documenting compliance with the risk management, data
 governance, transparency, logging, human oversight, and accuracy requirements specified in EU
 Regulation 2024/1689 Articles 8–15, or an equivalent standard accepted by the [National
-Authority]."* This imposes EU-level accountability on any vendor under existing procurement law —
-**no domestic legislation required**.
+Authority]."* This imposes EU-level accountability on any vendor under existing procurement law, **no domestic legislation required**.
 
 ## Primary source
-Regulation (EU) 2024/1689 — https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+Regulation (EU) 2024/1689, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
 - [[ca3-harm-reporting-redress]]
-- [[procurement-lever]] — Protect-phase contract clause
-- [[world-bank-procurement]] — complementary procurement standard
+- [[procurement-lever]]: Protect-phase contract clause
+- [[world-bank-procurement]]: complementary procurement standard

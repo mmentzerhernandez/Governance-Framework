@@ -28,7 +28,7 @@ up with only a designated email, an intake form, and the four-category classific
 ## Documented outcomes
 - 1,000+ incidents catalogued by end-2023; 30% involve government/public-sector AI.
 - **Costa Rica** was the first Latin American adopter (2023), designating its science ministry.
-- Template referenced in the EU AI Act's Article 73 serious-incident provisions — the de facto
+- Template referenced in the EU AI Act's Article 73 serious-incident provisions: the de facto
   international standard. Japan and South Korea adopted the classification.
 
 ## Transferable mechanism
@@ -38,10 +38,10 @@ up with only a designated email, an intake form, and the four-category classific
 3. Report annually to the OECD AI Monitor using the submission template.
 
 ## Primary source
-OECD AI Incidents Monitor — https://oecd.ai/en/incidents
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+OECD AI Incidents Monitor, https://oecd.ai/en/incidents
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
-- [[redress-focal-point]] — the package component built on this taxonomy
+- [[redress-focal-point]]: the package component built on this taxonomy
 - [[ca3-harm-reporting-redress]]
-- [[ai-incident-database-nist]] — case-level technical complement
+- [[ai-incident-database-nist]]: case-level technical complement

@@ -19,7 +19,7 @@ Set to be the world's first comprehensive regional digital-economy treaty among 
 economies. Eight pillars: digital trade facilitation; cross-border e-commerce; digital payments;
 **AI governance** (ASEAN Guide on AI Governance & Ethics as baseline); data flows & privacy (ASEAN
 CBPR); digital identities; cybersecurity; standards & interoperability (preference for open
-standards). The pillar structure is deliberately modular — a grouping can adopt 3–4 pillars first.
+standards). The pillar structure is deliberately modular, a grouping can adopt 3–4 pillars first.
 
 ## Documented outcomes
 - The ASEAN CBPR system has 9 participating jurisdictions and certified 40+ companies.
@@ -28,13 +28,13 @@ standards). The pillar structure is deliberately modular — a grouping can adop
 ## Transferable mechanism
 - Other groupings (ECOWAS, CARICOM, SAARC) can adopt the **8-pillar architecture** modularly.
 - The CBPR **mutual-recognition** (functional equivalence, not harmonization) is the most pragmatic
-  model for developing-country regional data governance — respects domestic diversity while enabling
+  model for developing-country regional data governance, respects domestic diversity while enabling
   cross-border data flows.
 
 ## Primary source
-ASEAN DEFA — https://asean.org/asean-digital-economy-framework-agreement/ · ASEAN AI Guide (2nd ed.,
-2023) — https://asean.org/wp-content/uploads/2023/09/ASEAN-Guide-on-AI-Governance-and-Ethics_2023.pdf
-*(verify-before-citing — see [[ai-governance-global-majority-report]])*
+ASEAN DEFA, https://asean.org/asean-digital-economy-framework-agreement/ · ASEAN AI Guide (2nd ed.,
+2023), https://asean.org/wp-content/uploads/2023/09/ASEAN-Guide-on-AI-Governance-and-Ethics_2023.pdf
+*(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references
 - [[ca7-regional-infrastructure]]

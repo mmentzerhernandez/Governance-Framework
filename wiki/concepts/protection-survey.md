@@ -14,8 +14,8 @@ sources: [ai-governance-global-majority-report]
 > impacts over time.
 
 ## What it is
-A monitoring instrument that embeds a small set of standardized questions — modelled on
-[[kenya-finaccess]] — into an existing national survey, paired with the [[ilo-automation-methodology]]
+A monitoring instrument that embeds a small set of standardized questions, modelled on
+[[kenya-finaccess]], into an existing national survey, paired with the [[ilo-automation-methodology]]
 Automation Exposure Index for sector-level displacement tracking. Together they form an
 early-warning system for AI-driven exclusion and labor displacement.
 

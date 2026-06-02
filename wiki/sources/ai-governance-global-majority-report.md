@@ -1,5 +1,5 @@
 ---
-title: AI Governance for Global Majority Governments — Research Report
+title: AI Governance for Global Majority Governments: Research Report
 type: source
 tags: [ai-governance, global-south, policy, report]
 created: 2026-06-01
@@ -7,7 +7,7 @@ updated: 2026-06-01
 sources: [self]
 ---
 
-# AI Governance for Global Majority Governments — Research Report
+# AI Governance for Global Majority Governments: Research Report
 
 **Type:** report
 **Origin:** Deep Research Coordinator (MiniMax M2.1 Deep Research Agent + Exa Neural Search)
@@ -23,15 +23,14 @@ primary-source link). Its central claim: a credible national AI governance archi
 assembled from existing building blocks within 12–18 months **without passing any new AI law**.
 
 ## Key Claims
-- The fastest governance pathway (12–18 months) needs **zero new legislation** — existing
+- The fastest governance pathway (12–18 months) needs **zero new legislation**: existing
   procurement rules, data-protection statutes, and executive circulars suffice. Rwanda, Brazil,
   and Singapore prove it. See [[zero-new-legislation-pathway]].
 - The most-replicated accountability instrument is Canada's open-source [[canada-directive-adm]]
   (Algorithmic Impact Assessment), adoptable by ministerial circular.
 - The best counter-lock-in architecture is India's [[india-dpi-stack]] (G20-endorsed, 2023).
-- A coalition of <15 well-briefed developing countries can rewrite consensus multilateral text —
-  the [[ca5-multilateral-negotiating-playbook]] (Doha/Nagoya/CBDR/GDC).
-- A **minimum-viable 18-month package** of six zero-new-law instruments is sufficient — see
+- A coalition of <15 well-briefed developing countries can rewrite consensus multilateral text,   the [[ca5-multilateral-negotiating-playbook]] (Doha/Nagoya/CBDR/GDC).
+- A **minimum-viable 18-month package** of six zero-new-law instruments is sufficient: see
   [[overview]] Section B.
 
 ## Key Data / Evidence
@@ -61,4 +60,4 @@ instruments** rather than a single prescriptive model.
 > treated as **verify-before-citing** at the original institutional portal.
 
 > 🔍 Gap: No Global South country has yet deployed a *comprehensive* AI-specific labor-displacement
-> early-warning system — see [[ca6-labor-displacement-early-warning]].
+> early-warning system, see [[ca6-labor-displacement-early-warning]].
