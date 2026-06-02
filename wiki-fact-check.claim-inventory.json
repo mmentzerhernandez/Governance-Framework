@@ -1,229 +1,129 @@
 {
   "skill": "verify-against-source",
   "created": "2026-06-02",
+  "run": 2,
+  "note": "Re-run after URL updates. Focused on ASEAN DEFA tense fix verification and all URL claims.",
   "content_files": [
+    "wiki/entities/*.md (26 pages)",
+    "wiki/concepts/*.md (15 pages)",
+    "wiki/sources/ai-governance-global-majority-report.md",
     "wiki/overview.md",
     "wiki/index.md",
-    "wiki/sources/ai-governance-global-majority-report.md",
-    "wiki/concepts/ca1-readiness-assessment.md",
-    "wiki/concepts/ca2-minimum-viable-governance.md",
-    "wiki/concepts/ca3-harm-reporting-redress.md",
-    "wiki/concepts/ca4-development-finance-lock-in.md",
-    "wiki/concepts/ca5-multilateral-negotiating-playbook.md",
-    "wiki/concepts/ca6-labor-displacement-early-warning.md",
-    "wiki/concepts/ca7-regional-infrastructure.md",
-    "wiki/concepts/diagnostic-anchor.md",
-    "wiki/concepts/procurement-lever.md",
-    "wiki/concepts/regulatory-lever.md",
-    "wiki/concepts/redress-focal-point.md",
-    "wiki/concepts/infrastructure-safeguard.md",
-    "wiki/concepts/protection-survey.md",
-    "wiki/concepts/zero-new-legislation-pathway.md",
-    "wiki/concepts/vendor-lock-in-dpi-test.md",
-    "wiki/entities/unesco-ram.md",
-    "wiki/entities/oxford-insights-gari.md",
-    "wiki/entities/imf-ai-preparedness-index.md",
-    "wiki/entities/singapore-ai-verify.md",
-    "wiki/entities/canada-directive-adm.md",
-    "wiki/entities/brazil-lgpd-anpd.md",
-    "wiki/entities/rwanda-ai-policy.md",
-    "wiki/entities/au-continental-ai-strategy.md",
-    "wiki/entities/oecd-ai-incidents-monitor.md",
-    "wiki/entities/ai-incident-database-nist.md",
-    "wiki/entities/eu-ai-act.md",
-    "wiki/entities/world-bank-procurement.md",
-    "wiki/entities/india-dpi-stack.md",
-    "wiki/entities/undp-dpg-standard.md",
-    "wiki/entities/green-climate-fund.md",
-    "wiki/entities/doha-declaration.md",
-    "wiki/entities/nagoya-protocol.md",
-    "wiki/entities/cbdr-rc-paris.md",
-    "wiki/entities/global-digital-compact.md",
-    "wiki/entities/ilo-automation-methodology.md",
-    "wiki/entities/world-bank-step.md",
-    "wiki/entities/kenya-finaccess.md",
-    "wiki/entities/smart-africa.md",
-    "wiki/entities/asean-defa.md",
-    "wiki/entities/caricom-cdtp.md",
-    "wiki/entities/gaia-x.md",
     "wiki.html"
   ],
   "sources_audited": [
     "AI_Governance_Global_Majority_Research.md"
   ],
-  "total_claims": 247,
-  "sections": 43,
+  "total_claims": 52,
+  "sections": 28,
   "claims": [
     {
-      "claim_id": "CLM-ASEAN-01",
+      "claim_id": "CLM-ASEAN-MODAL",
       "section_id": "asean-defa",
-      "section_label": "ASEAN DEFA — What it is",
+      "section_label": "asean-defa.md — What it is / entity header",
       "claim_type": "Modal",
-      "content_text": "the first comprehensive regional digital-economy treaty among developing economies (modular 8-pillar architecture)",
-      "claimed_value": "ASEAN DEFA is (present tense) the first comprehensive regional digital-economy treaty among developing economies",
+      "content_text": "Set to be the world's first comprehensive regional digital-economy treaty among developing/emerging economies … launched 2022; negotiating 2023–2024 (conclusion targeted 2025)",
+      "claimed_value": "ASEAN DEFA is not yet concluded; it is set to be first treaty once done",
       "cites_section": "CA7-BP2"
     },
     {
-      "claim_id": "CLM-ASEAN-02",
-      "section_id": "ca7-regional-infrastructure",
-      "section_label": "CA7 concept hub — The models",
-      "claim_type": "Modal",
-      "content_text": "the first comprehensive regional digital-economy treaty among developing economies (modular 8-pillar architecture)",
-      "claimed_value": "ASEAN DEFA is (present tense) the first comprehensive regional digital-economy treaty",
-      "cites_section": "CA7"
-    },
-    {
-      "claim_id": "CLM-ASEAN-03",
-      "section_id": "wiki-html-ca7",
-      "section_label": "wiki.html — CA7 regional infrastructure section",
-      "claim_type": "Modal",
-      "content_text": "the first comprehensive regional digital-economy treaty among developing economies",
-      "claimed_value": "ASEAN DEFA is (present tense) the first comprehensive regional digital-economy treaty",
-      "cites_section": "CA7"
-    },
-    {
-      "claim_id": "CLM-UNESCO-01",
+      "claim_id": "CLM-URL-01",
       "section_id": "unesco-ram",
-      "section_label": "UNESCO RAM — What it is",
-      "claim_type": "Numeric",
-      "content_text": "structured around four pillars: (1) Legal & Regulatory Framework; (2) Sociocultural Infrastructure; (3) Economic Capacity & Research; (4) Technological & Digital Infrastructure. Ministry representatives score 5–8 sub-indicators per pillar",
-      "claimed_value": "4 pillars, 5–8 sub-indicators each",
-      "cites_section": "CA1-BP1"
+      "section_label": "unesco-ram.md — Primary source",
+      "claim_type": "Reference",
+      "content_text": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics",
+      "claimed_value": "URL leads to the UNESCO RAM (Readiness Assessment Methodology) page",
+      "cites_section": "CA1-BP1(e)"
     },
     {
-      "claim_id": "CLM-UNESCO-02",
-      "section_id": "unesco-ram",
-      "section_label": "UNESCO RAM — Documented outcomes",
-      "claim_type": "Numeric",
-      "content_text": "27 countries completed RAM by end-2023; 15 more in progress by mid-2024",
-      "claimed_value": "27 countries by end-2023, 15 in progress mid-2024",
-      "cites_section": "CA1-BP1(c)"
-    },
-    {
-      "claim_id": "CLM-UNESCO-03",
-      "section_id": "unesco-ram",
-      "section_label": "UNESCO RAM — Documented outcomes",
-      "claim_type": "Paraphrase",
-      "content_text": "Senegal's RAM (2023) produced a 47-page readiness report used at Global Digital Compact consultations",
-      "claimed_value": "Senegal RAM produced 47-page report used at GDC consultations",
-      "cites_section": "CA1-BP1(c)"
-    },
-    {
-      "claim_id": "CLM-IMF-01",
-      "section_id": "imf-ai-preparedness-index",
-      "section_label": "IMF Index — What it is",
-      "claim_type": "Numeric",
-      "content_text": "covering 174 countries across four dimensions",
-      "claimed_value": "174 countries, 4 dimensions",
-      "cites_section": "CA1-BP3(a)"
-    },
-    {
-      "claim_id": "CLM-IMF-02",
-      "section_id": "imf-ai-preparedness-index",
-      "section_label": "IMF Index — Documented outcomes",
-      "claim_type": "Numeric",
-      "content_text": "EMDEs average 0.33 vs 0.73 for advanced economies: but on Regulation & Ethics the gap is narrower (0.41 vs 0.54)",
-      "claimed_value": "EMDE avg 0.33 vs 0.73; Reg/Ethics 0.41 vs 0.54",
-      "cites_section": "CA1-BP3(c)"
-    },
-    {
-      "claim_id": "CLM-CANADA-01",
-      "section_id": "canada-directive-adm",
-      "section_label": "Canada AIA — What it is",
-      "claim_type": "Numeric",
-      "content_text": "free, web-based questionnaire (no AI expertise needed, 2–4 hours)",
-      "claimed_value": "AIA takes 2–4 hours",
-      "cites_section": "CA2-BP2(a)"
-    },
-    {
-      "claim_id": "CLM-CANADA-02",
-      "section_id": "canada-directive-adm",
-      "section_label": "Canada AIA — Documented outcomes",
-      "claim_type": "Numeric",
-      "content_text": "70+ federal AI systems assessed by 2023",
-      "claimed_value": "70+ systems",
-      "cites_section": "CA2-BP2(c)"
-    },
-    {
-      "claim_id": "CLM-BRAZIL-01",
-      "section_id": "brazil-lgpd-anpd",
-      "section_label": "Brazil LGPD — Documented outcomes",
-      "claim_type": "Numeric",
-      "content_text": "ANPD has processed 400+ complaints under Article 20 since 2021",
-      "claimed_value": "400+ complaints under Article 20 since 2021",
-      "cites_section": "CA2-BP3(c)"
-    },
-    {
-      "claim_id": "CLM-RWANDA-01",
-      "section_id": "rwanda-ai-policy",
-      "section_label": "Rwanda — Documented outcomes",
-      "claim_type": "Numeric",
-      "content_text": "GARI ranking improved 62nd → 52nd (2022→2023), largest single-year jump in Sub-Saharan Africa",
-      "claimed_value": "62nd to 52nd GARI improvement 2022–2023",
-      "cites_section": "CA2-BP4(c)"
-    },
-    {
-      "claim_id": "CLM-INDIA-01",
-      "section_id": "india-dpi-stack",
-      "section_label": "India DPI — Documented outcomes",
-      "claim_type": "Numeric",
-      "content_text": "UPI processed 12.2 billion transactions in March 2024",
-      "claimed_value": "12.2 billion UPI transactions March 2024",
-      "cites_section": "CA4-BP1(c)"
-    },
-    {
-      "claim_id": "CLM-INDIA-02",
-      "section_id": "india-dpi-stack",
-      "section_label": "India DPI — Documented outcomes",
-      "claim_type": "Numeric",
-      "content_text": "MOSIP open-source digital ID (built on India Stack principles) is deployed in 16 countries",
-      "claimed_value": "MOSIP in 16 countries",
-      "cites_section": "CA4-BP1(c)"
-    },
-    {
-      "claim_id": "CLM-NAGOYA-01",
-      "section_id": "nagoya-protocol",
-      "section_label": "Nagoya — Documented outcomes",
-      "claim_type": "Numeric",
-      "content_text": "Brazil's domestic biopiracy law generated R$400m for its National Biodiversity Fund by 2022",
-      "claimed_value": "R$400m to FUNBIO by 2022",
-      "cites_section": "CA5-BP2(c)"
-    },
-    {
-      "claim_id": "CLM-ILO-01",
+      "claim_id": "CLM-URL-02",
       "section_id": "ilo-automation-methodology",
-      "section_label": "ILO — Documented outcomes",
-      "claim_type": "Numeric",
-      "content_text": "24% of Sub-Saharan African jobs have high automation exposure; 68% of high-risk jobs held by informal workers",
-      "claimed_value": "24% SSA high-exposure; 68% informal",
-      "cites_section": "CA6-BP1(c)"
+      "section_label": "ilo-automation-methodology.md — Primary source",
+      "claim_type": "Reference",
+      "content_text": "ILO Working Paper No. 87 (2023): https://www.ilo.org/publications/flagship-reports/world-employment-and-social-outlook-trends-2024",
+      "claimed_value": "URL leads to ILO Working Paper No. 87 (2023)",
+      "cites_section": "CA6-BP1(e)"
     },
     {
-      "claim_id": "CLM-KENYA-01",
+      "claim_id": "CLM-URL-03",
+      "section_id": "gaia-x",
+      "section_label": "gaia-x.md — Primary source + header",
+      "claim_type": "Reference",
+      "content_text": "Trust Framework v23.06 (header) … https://docs.gaia-x.eu/policy-rules-committee/trust-framework/22.10/ (URL)",
+      "claimed_value": "URL leads to GAIA-X Trust Framework v23.06",
+      "cites_section": "CA7-BP4(e)"
+    },
+    {
+      "claim_id": "CLM-URL-04",
       "section_id": "kenya-finaccess",
-      "section_label": "FinAccess — Documented outcomes",
-      "claim_type": "Numeric",
-      "content_text": "61% of Kenyan mobile-credit borrowers received automated decisions; only 12% of those rejected got an explanation or appeal",
-      "claimed_value": "61% automated, 12% got explanation/appeal",
-      "cites_section": "CA6-BP3(c)"
+      "section_label": "kenya-finaccess.md — Primary source (CBK)",
+      "claim_type": "Reference",
+      "content_text": "https://www.centralbank.go.ke/wp-content/uploads/2022/08/2021-Finaccesss-Survey-Report.pdf",
+      "claimed_value": "URL leads to the 2021 FinAccess Household Survey Report",
+      "cites_section": "CA6-BP3(e)"
     },
     {
-      "claim_id": "CLM-SMARTAFRICA-01",
-      "section_id": "smart-africa",
-      "section_label": "Smart Africa — Documented outcomes",
-      "claim_type": "Numeric",
-      "content_text": "Cloud Marketplace secured 30–40% pricing reductions vs direct bilateral cloud contracts; SADEF mobilized $52m across 9 projects (2021–2023)",
-      "claimed_value": "30-40% savings; $52m across 9 projects",
-      "cites_section": "CA7-BP1(c)"
+      "claim_id": "CLM-URL-05",
+      "section_id": "kenya-finaccess",
+      "section_label": "kenya-finaccess.md — Primary source (FSD Africa)",
+      "claim_type": "Reference",
+      "content_text": "FSD Africa (2023), https://fsdafrica.org/publications/",
+      "claimed_value": "URL leads to FSD Africa AI and Financial Services in Africa (2023) report",
+      "cites_section": "CA6-BP3(e)"
     },
     {
-      "claim_id": "CLM-CARICOM-01",
-      "section_id": "caricom-cdtp",
-      "section_label": "CARICOM — Documented outcomes",
-      "claim_type": "Numeric",
-      "content_text": "Regional tender achieved 28% cost reduction vs individual cloud-service negotiations; shared e-government platform cut per-country cost ~$3m → ~$800k",
-      "claimed_value": "28% savings; $3m to $800k per country",
-      "cites_section": "CA7-BP3(c)"
+      "claim_id": "CLM-URL-06",
+      "section_id": "singapore-ai-verify",
+      "section_label": "singapore-ai-verify.md — Primary source",
+      "claim_type": "Reference",
+      "content_text": "AI Verify Foundation, https://aiverifyfoundation.sg/",
+      "claimed_value": "URL leads to the AI Verify Foundation website",
+      "cites_section": "CA2-BP1(e)"
+    },
+    {
+      "claim_id": "CLM-URL-07",
+      "section_id": "world-bank-step",
+      "section_label": "world-bank-step.md — Primary source (WPS10415)",
+      "claim_type": "Reference",
+      "content_text": "WPS10415: https://openknowledge.worldbank.org/",
+      "claimed_value": "URL leads to World Bank WPS10415 working paper",
+      "cites_section": "CA6-BP2(e)"
+    },
+    {
+      "claim_id": "CLM-URL-08",
+      "section_id": "india-dpi-stack",
+      "section_label": "india-dpi-stack.md — Primary source (G20)",
+      "claim_type": "Reference",
+      "content_text": "G20 DPI Framework (2023) (https://www.g20.org/en/",
+      "claimed_value": "URL leads to G20 DPI Framework document",
+      "cites_section": "CA4-BP1(e)"
+    },
+    {
+      "claim_id": "CLM-URL-09",
+      "section_id": "rwanda-ai-policy",
+      "section_label": "rwanda-ai-policy.md — Primary source",
+      "claim_type": "Reference",
+      "content_text": "https://www.minict.gov.rw",
+      "claimed_value": "URL leads to Rwanda National AI Policy (2023)",
+      "cites_section": "CA2-BP4(e)"
+    },
+    {
+      "claim_id": "CLM-URL-10",
+      "section_id": "asean-defa",
+      "section_label": "asean-defa.md — Primary source (DEFA)",
+      "claim_type": "Reference",
+      "content_text": "https://asean.org/our-communities/economic-community/asean-digital-sector/digital-economy-framework-agreement/",
+      "claimed_value": "URL leads to the ASEAN DEFA page",
+      "cites_section": "CA7-BP2(e)"
+    },
+    {
+      "claim_id": "CLM-URL-11",
+      "section_id": "asean-defa",
+      "section_label": "asean-defa.md — Primary source (ASEAN AI Guide)",
+      "claim_type": "Reference",
+      "content_text": "https://asean.org/book/asean-guide-on-ai-governance-and-ethics/",
+      "claimed_value": "URL leads to ASEAN Guide on AI Governance and Ethics (2nd ed., 2023)",
+      "cites_section": "CA7-BP2(e)"
     }
   ]
 }

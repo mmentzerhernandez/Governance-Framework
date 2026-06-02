@@ -10,7 +10,6 @@ sources: [self]
 # AI Governance for Global Majority Governments: Research Report
 
 **Type:** report
-**Origin:** Deep Research Coordinator (MiniMax M2.1 Deep Research Agent + Exa Neural Search)
 **Date:** 2026-05-29
 **File:** `AI_Governance_Global_Majority_Research.md`
 

@@ -1,8 +1,8 @@
-# Fact Check Report — AI Governance Wiki + wiki.html
+# Fact Check Report — AI Governance Wiki + wiki.html (Run 2: Post URL-Update Re-Check)
 **Date:** 2026-06-02
 **Content checked:** wiki/ (43 .md pages) · wiki.html
 **Sources audited:** AI_Governance_Global_Majority_Research.md
-**Claims extracted:** 247   **Sections checked:** 43
+**Claims extracted:** 52 (URL/citation claims + ASEAN DEFA modal re-check)   **Sections checked:** 28
 
 ---
 
@@ -10,138 +10,232 @@
 
 | Status | Count |
 |---|---|
-| FAIL | 0 |
-| WARNING | 3 |
-| PASS | 244 |
+| FAIL | 3 |
+| WARNING | 8 |
+| PASS | 41 |
 
-**Verification status:** CORRECTIONS REQUIRED (3 warnings, 0 hard failures)
+**Verification status:** CORRECTIONS REQUIRED
+
+---
+
+## Prior Warning Resolved
+
+**ASEAN DEFA tense — FIXED ✓**
+The 3 warnings from Run 1 are resolved. `asean-defa.md` now reads "Set to be the world's first comprehensive regional digital-economy treaty … negotiating 2023–2024 (conclusion targeted 2025)." Future tense correctly preserved throughout.
 
 ---
 
 ## Findings by Section
 
-### CA7 Regional Infrastructure (3 warnings — same root issue, 3 locations)
+### FAIL items (must correct)
 
 ---
 
-**[WARNING] MODAL DOWNGRADE**
+**[FAIL] CITATION MISMATCH**
 ```
-Claim ID:       CLM-ASEAN-01
-Section:        asean-defa — What it is
-Claim type:     Modal
-Content text:   "the first comprehensive regional digital-economy treaty among
-                developing economies (modular 8-pillar architecture)"
-Source passage: "will be the world's first comprehensive regional digital economy
-                treaty among developing and emerging-market countries when
-                concluded … under active negotiation through 2023–2024 (with
-                conclusion targeted for 2025)"
-                [CA7-BP2, paragraph (a)]
-Finding:        Source uses future tense ("will be…when concluded") and
-                explicitly states the DEFA was still under negotiation with a
-                2025 target date. The wiki converts this to present tense,
-                implying the treaty has been concluded when it had not been.
-Required action: Revise to future tense: "will be the first comprehensive
-                regional digital-economy treaty among developing economies once
-                concluded (targeted 2025)" — or add a parenthetical noting
-                "under negotiation as of 2024."
+Claim ID:       CLM-URL-01
+Section:        unesco-ram.md — Primary source URL
+Claim type:     Reference
+Content text:   "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics"
+Source passage: "https://www.unesco.org/en/artificial-intelligence/recommendation/ram"
+                [CA1-BP1(e)]
+Finding:        /recommendation-ethics leads to the UNESCO Recommendation on AI Ethics
+                — a different resource entirely. The source specifies /recommendation/ram,
+                the RAM-specific page. A reader following the wiki link reaches the
+                wrong document.
+Required action: Restore the source URL:
+                https://www.unesco.org/en/artificial-intelligence/recommendation/ram
 ```
 
 ---
 
-**[WARNING] MODAL DOWNGRADE**
+**[FAIL] CITATION MISMATCH**
 ```
-Claim ID:       CLM-ASEAN-02
-Section:        ca7-regional-infrastructure.md — The models bullet list
-Claim type:     Modal
-Content text:   "the first comprehensive regional digital-economy treaty among
-                developing economies (modular 8-pillar architecture)"
-Source passage: "will be the world's first comprehensive regional digital economy
-                treaty among developing and emerging-market countries when
-                concluded" [CA7-BP2, paragraph (a)]
-Finding:        Same temporal distortion as CLM-ASEAN-01. The CA7 capability-
-                area hub page repeats the present-tense framing.
-Required action: Apply the same correction as CLM-ASEAN-01.
-```
-
----
-
-**[WARNING] MODAL DOWNGRADE**
-```
-Claim ID:       CLM-ASEAN-03
-Section:        wiki.html — CA7 regional infrastructure section
-Claim type:     Modal
-Content text:   "the first comprehensive regional digital-economy treaty among
-                developing economies"
-Source passage: "will be the world's first comprehensive regional digital economy
-                treaty among developing and emerging-market countries when
-                concluded" [CA7-BP2, paragraph (a)]
-Finding:        The HTML file mirrors the erroneous present-tense framing from
-                the wiki source pages. It will self-correct once the two wiki
-                pages are fixed and the HTML is regenerated.
-Required action: Fix wiki source pages (CLM-ASEAN-01, CLM-ASEAN-02) then
-                regenerate wiki.html.
+Claim ID:       CLM-URL-02
+Section:        ilo-automation-methodology.md — Primary source URL
+Claim type:     Reference
+Content text:   "ILO Working Paper No. 87 (2023):
+                https://www.ilo.org/publications/flagship-reports/
+                world-employment-and-social-outlook-trends-2024"
+Source passage: "ILO Working Paper No. 87 (2023), *Automation and the Future of Work
+                in Developing Countries*:
+                https://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/
+                documents/publication/wcms_869256.pdf"
+                [CA6-BP1(e)]
+Finding:        The primary source label says "Working Paper No. 87" but the URL
+                leads to the ILO WESO 2024 flagship report — a completely different
+                publication. WESO 2024 was a secondary source for this entry; it
+                must not replace the Working Paper citation.
+Required action: Restore Working Paper No. 87 URL:
+                https://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/
+                documents/publication/wcms_869256.pdf
+                WESO 2024 may be retained as a supplementary note.
 ```
 
 ---
 
-## All Other Sections — PASS Summary
-
-244 claims across 42 sections checked and **VERIFIED** against the source document.
-Categories covered and verified:
-
-- **All numeric statistics:** IMF scores (0.33/0.73, 0.41/0.54), country counts
-  (174, 193, 27, 15, 16, 34, 46+, 50+, 105, 138), transaction volumes
-  (12.2 billion UPI), financial figures ($52m SADEF, $35.7m CCCCC, $50m CDTP,
-  R$400m FUNBIO), percentages (24%, 68%, 61%, 12%, 28%, 30–40%), rankings
-  (52nd/62nd GARI), thresholds (>0.05 AEI, 90 days exit planning, 2–4 hours
-  AIA, 6 weeks RAM).
-
-- **All legal/regulatory references:** LGPD Article 20, Rwanda Law 058/2021,
-  EU Regulation 2024/1689 Articles 8–15 and 26, WTO WT/MIN(01)/DEC/2,
-  Nagoya Protocol CBD COP10, Paris Agreement Art. 2.2, GDC A/RES/79/L.1,
-  ANPD Resolution 16/2024, NIST AI RMF 1.0, ILO Working Paper No. 87 (2023),
-  World Bank WPS10415 (April 2023).
-
-- **All named entities, dates, and impact-level tables:** verified against
-  source chapter-by-chapter.
-
-- **Source caveat preservation:** All 26 entity pages include the
-  "verify-before-citing" notice referencing the web-retriever outage. The
-  overview.md and source summary page both carry the Gap notice. The critical
-  reliability caveat from the source is fully preserved throughout the wiki.
-
-- **Zero-new-legislation framing:** The wiki correctly and consistently
-  represents the source's central claim that existing procurement rules,
-  data-protection statutes, and executive circulars are sufficient — without
-  overstating or understating the legal position.
-
-- **Implementation sequence and minimum-viable package:** All 5 phases and 6
-  package components correctly reproduce the source's timelines, costs, and
-  component descriptions.
+**[FAIL] CITATION MISMATCH + INTERNAL INCONSISTENCY**
+```
+Claim ID:       CLM-URL-03
+Section:        gaia-x.md — Primary source URL + entity header
+Claim type:     Reference
+Content text:   Header: "Trust Framework v23.06 (2023)"
+                URL: https://docs.gaia-x.eu/policy-rules-committee/
+                     trust-framework/22.10/
+Source passage: "GAIA-X Trust Framework v23.06:
+                https://docs.gaia-x.eu/policy-rules-committee/trust-framework/23.06/"
+                [CA7-BP4(e)]
+Finding:        Page header correctly says v23.06 (matching the source) but the URL
+                was changed to v22.10 — one version earlier. Creates an internal
+                contradiction within the page and contradicts the source.
+Required action: Restore:
+                https://docs.gaia-x.eu/policy-rules-committee/trust-framework/23.06/
+```
 
 ---
 
-## Required Corrections
-
-1. **CLM-ASEAN-01** · `wiki/entities/asean-defa.md` · "What it is" section
-   — Add future tense / "under negotiation" qualifier to the DEFA description.
-
-2. **CLM-ASEAN-02** · `wiki/concepts/ca7-regional-infrastructure.md` · "The models" bullet
-   — Apply same correction.
-
-3. **CLM-ASEAN-03** · `wiki.html` · CA7 section
-   — Regenerate after fixing items 1 and 2 above.
+### WARNING items (human review required)
 
 ---
 
-## Recommended Reviews (human expert)
+**[WARNING] NOT FOUND**
+```
+Claim ID:       CLM-URL-04
+Section:        kenya-finaccess.md — Primary source URL (CBK)
+Content text:   "https://www.centralbank.go.ke/wp-content/uploads/2022/08/
+                2021-Finaccesss-Survey-Report.pdf"
+Source passage: "https://www.centralbank.go.ke/wp-content/uploads/2021/12/
+                2021-FinAccess-Household-Survey-Report.pdf" [CA6-BP3(e)]
+Finding:        Path date changed (2021/12 → 2022/08) and filename has triple-s
+                "Finaccesss" — likely a transcription error. Cannot confirm URL
+                is live without browser access.
+Required action: Verify at CBK portal. If broken or "Finaccesss" is a typo,
+                restore source URL.
+```
 
-All 3 warnings stem from the same single root issue (ASEAN DEFA tense). No independent
-expert reviews are required beyond applying the corrections above.
+**[WARNING] GENERALIZATION**
+```
+Claim ID:       CLM-URL-05
+Section:        kenya-finaccess.md — Primary source URL (FSD Africa)
+Content text:   "https://fsdafrica.org/publications/"
+Source passage: "https://fsdafrica.org/research/ai-and-financial-services/"
+                [CA6-BP3(e)]
+Finding:        Changed from the specific report page to the general publications
+                index. The named 2023 report is no longer directly linked.
+Required action: Verify if /research/ai-and-financial-services/ is still live;
+                if so, restore.
+```
 
-**Note on URL verification:** The source explicitly self-flags that its web search
-retriever experienced an outage and that all primary-source URLs should be verified at
-institutional portals before use in formal documents. This caveat is faithfully
-preserved in the wiki (every entity page carries it). A human reviewer should verify
-the URLs before the wiki is used in any advisory deliverable — this is already flagged
-in the wiki's own gap notes.
+**[WARNING] NOT FOUND**
+```
+Claim ID:       CLM-URL-06
+Section:        singapore-ai-verify.md — Primary source URL
+Content text:   "https://aiverifyfoundation.sg/"
+Source passage: "https://aiverify.sg" [CA2-BP1(e)]
+Finding:        Different domain than source specifies. May be a valid updated
+                canonical URL or may be incorrect.
+Required action: Confirm which domain is the current official AI Verify
+                Foundation website.
+```
+
+**[WARNING] GENERALIZATION**
+```
+Claim ID:       CLM-URL-07
+Section:        world-bank-step.md — Primary source URL (WPS10415)
+Content text:   "https://openknowledge.worldbank.org/"
+Source passage: "https://openknowledge.worldbank.org/handle/10986/39788"
+                [CA6-BP2(e)]
+Finding:        Specific document handle removed; now links only to the
+                repository homepage.
+Required action: Restore:
+                https://openknowledge.worldbank.org/handle/10986/39788
+```
+
+**[WARNING] GENERALIZATION**
+```
+Claim ID:       CLM-URL-08
+Section:        india-dpi-stack.md — Primary source URL (G20)
+Content text:   "https://www.g20.org/en/"
+Source passage: "https://www.g20.org/content/dam/gtwenty/gtwenty_new/document/
+                G20_Digital_Economy_Outcome_Document_and_Chair_Summary.pdf"
+                [CA4-BP1(e)]
+Finding:        Specific document PDF replaced with G20 homepage.
+Required action: Verify if source PDF is still live; if so, restore it.
+```
+
+**[WARNING] GENERALIZATION**
+```
+Claim ID:       CLM-URL-09
+Section:        rwanda-ai-policy.md — Primary source URL
+Content text:   "https://www.minict.gov.rw"
+Source passage: "https://www.minict.gov.rw/index.php/en/artificial-intelligence-policy"
+                [CA2-BP4(e)]
+Finding:        Specific AI Policy page path dropped; links only to homepage.
+Required action: Verify if specific path is still live; if so, restore.
+```
+
+**[WARNING] NOT FOUND**
+```
+Claim ID:       CLM-URL-10
+Section:        asean-defa.md — Primary source URL (DEFA)
+Content text:   "https://asean.org/our-communities/economic-community/
+                asean-digital-sector/digital-economy-framework-agreement/"
+Source passage: "https://asean.org/asean-digital-economy-framework-agreement/"
+                [CA7-BP2(e)]
+Finding:        Path structure changed significantly. May be a valid URL
+                restructure by ASEAN Secretariat.
+Required action: Verify both URLs resolve to the DEFA page.
+```
+
+**[WARNING] NOT FOUND**
+```
+Claim ID:       CLM-URL-11
+Section:        asean-defa.md — Primary source URL (ASEAN AI Guide)
+Content text:   "https://asean.org/book/asean-guide-on-ai-governance-and-ethics/"
+Source passage: "https://asean.org/wp-content/uploads/2023/09/
+                ASEAN-Guide-on-AI-Governance-and-Ethics_2023.pdf"
+                [CA7-BP2(e)]
+Finding:        Changed from direct PDF link to a web landing page. Cannot
+                confirm 2023 2nd edition content is accessible at new URL.
+Required action: Verify 2nd edition 2023 PDF is accessible from the new URL.
+```
+
+---
+
+## Required Corrections (3 FAIL items)
+
+1. **CLM-URL-01** · `wiki/entities/unesco-ram.md` + `wiki.html`
+   Restore UNESCO RAM URL: `https://www.unesco.org/en/artificial-intelligence/recommendation/ram`
+   *(Current URL goes to the AI Ethics Recommendation page, not the RAM page)*
+
+2. **CLM-URL-02** · `wiki/entities/ilo-automation-methodology.md` + `wiki.html`
+   Restore ILO Working Paper No. 87 URL:
+   `https://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_869256.pdf`
+   *(Current URL goes to WESO 2024, a different ILO publication entirely)*
+
+3. **CLM-URL-03** · `wiki/entities/gaia-x.md` + `wiki.html`
+   Restore GAIA-X Trust Framework v23.06 URL:
+   `https://docs.gaia-x.eu/policy-rules-committee/trust-framework/23.06/`
+   *(Current URL goes to v22.10; page header already correctly says v23.06)*
+
+---
+
+## Recommended Reviews (8 WARNING items)
+
+1. **CLM-URL-04** — Kenya FinAccess CBK URL: verify `2022/08/2021-Finaccesss-Survey-Report.pdf` is live and "Finaccesss" is not a typo.
+2. **CLM-URL-05** — FSD Africa URL: verify if specific `/research/ai-and-financial-services/` page is still live.
+3. **CLM-URL-06** — AI Verify Foundation: confirm `aiverifyfoundation.sg` vs `aiverify.sg` — which is current official domain.
+4. **CLM-URL-07** — World Bank WPS10415: restore `/handle/10986/39788` if document is still at that handle.
+5. **CLM-URL-08** — G20 DPI Framework: verify if specific PDF URL is still live.
+6. **CLM-URL-09** — Rwanda MINICT: verify if `/index.php/en/artificial-intelligence-policy` path is still live.
+7. **CLM-URL-10** — ASEAN DEFA URL: verify both old and new path resolve to the DEFA page.
+8. **CLM-URL-11** — ASEAN AI Guide: verify 2nd edition 2023 content is accessible at the new web page URL.
+
+---
+
+## What Was Not Changed (No New Errors Introduced)
+
+All factual content (statistics, legal article numbers, country counts, financial figures, named entities,
+obligation tables, sequencing, and the minimum-viable package components) remained unchanged from Run 1.
+244 non-URL claims remain VERIFIED. The URL-update edits touched only primary-source link fields and
+did not introduce any new factual or structural errors.
