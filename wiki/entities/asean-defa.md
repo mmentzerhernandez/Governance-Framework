@@ -32,8 +32,8 @@ standards). The pillar structure is deliberately modular, a grouping can adopt 3
   cross-border data flows.
 
 ## Primary source
-ASEAN DEFA, https://asean.org/asean-digital-economy-framework-agreement/ · ASEAN AI Guide (2nd ed.,
-2023), https://asean.org/wp-content/uploads/2023/09/ASEAN-Guide-on-AI-Governance-and-Ethics_2023.pdf
+ASEAN DEFA, https://asean.org/our-communities/economic-community/asean-digital-sector/digital-economy-framework-agreement/ · ASEAN AI Guide (2nd ed.,
+2023), https://asean.org/book/asean-guide-on-ai-governance-and-ethics/
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

@@ -35,7 +35,7 @@ digital-identity coverage, identifying populations excluded from AI-driven finan
 ## Primary source
 World Bank STEP:
 https://www.worldbank.org/en/topic/education/brief/step-skills-measurement-surveys · WPS10415:
-https://openknowledge.worldbank.org/handle/10986/39788
+https://openknowledge.worldbank.org/
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

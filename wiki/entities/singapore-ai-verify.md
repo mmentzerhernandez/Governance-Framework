@@ -35,7 +35,7 @@ procurement for high-stakes health, social-services, and law-enforcement systems
 4. Designate a single trained focal-point officer to review reports.
 
 ## Primary source
-IMDA, *Model AI Governance Framework* (2nd ed., 2020); AI Verify Foundation, https://aiverify.sg
+IMDA, *Model AI Governance Framework* (2nd ed., 2020); AI Verify Foundation, https://aiverifyfoundation.sg/
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

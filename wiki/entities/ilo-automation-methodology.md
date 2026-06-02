@@ -38,7 +38,7 @@ profiles. The 2023 paper produced the first developing-country-specific estimate
 
 ## Primary source
 ILO Working Paper No. 87 (2023):
-https://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_869256.pdf
+https://www.ilo.org/publications/flagship-reports/world-employment-and-social-outlook-trends-2024
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

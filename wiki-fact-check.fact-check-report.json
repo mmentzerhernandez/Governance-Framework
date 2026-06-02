@@ -1,0 +1,60 @@
+{
+  "skill": "verify-against-source",
+  "created": "2026-06-02",
+  "content_title": "AI Governance Wiki + wiki.html",
+  "content_files": [
+    "wiki/ (all 43 .md pages)",
+    "wiki.html"
+  ],
+  "sources_audited": [
+    "AI_Governance_Global_Majority_Research.md"
+  ],
+  "total_claims": 247,
+  "verification_status": "CORRECTIONS_REQUIRED",
+  "summary": {
+    "total_fail": 0,
+    "total_warning": 3,
+    "total_pass": 244
+  },
+  "findings": [
+    {
+      "claim_id": "CLM-ASEAN-01",
+      "section_id": "asean-defa",
+      "section_label": "asean-defa.md — What it is",
+      "claim_type": "Modal",
+      "status": "MODAL DOWNGRADE",
+      "severity": "WARNING",
+      "content_text": "the first comprehensive regional digital-economy treaty among developing economies (modular 8-pillar architecture)",
+      "source_passage": "will be the world's first comprehensive regional digital economy treaty among developing and emerging-market countries when concluded … under active negotiation through 2023–2024 (with conclusion targeted for 2025)",
+      "source_location": "CA7-BP2, paragraph (a), lines 843–844",
+      "finding": "The source uses unambiguous future tense ('will be…when concluded') and notes the treaty was still under negotiation with a 2025 target. The wiki drops the futurity and presents the DEFA as a present-tense, achieved status.",
+      "required_action": "Revise to: 'will be the first comprehensive regional digital-economy treaty among developing economies once concluded (negotiating rounds 2023–2024, target 2025)' — or equivalent language that preserves the source's 'not yet concluded' status."
+    },
+    {
+      "claim_id": "CLM-ASEAN-02",
+      "section_id": "ca7-regional-infrastructure",
+      "section_label": "ca7-regional-infrastructure.md — The models",
+      "claim_type": "Modal",
+      "status": "MODAL DOWNGRADE",
+      "severity": "WARNING",
+      "content_text": "the first comprehensive regional digital-economy treaty among developing economies (modular 8-pillar architecture)",
+      "source_passage": "will be the world's first comprehensive regional digital economy treaty among developing and emerging-market countries when concluded",
+      "source_location": "CA7-BP2, paragraph (a), lines 843–844",
+      "finding": "Same temporal distortion as CLM-ASEAN-01. This bullet in the CA7 hub page drops the source's future-tense qualifier.",
+      "required_action": "Correct to match source's future tense and add '(under negotiation; targeted conclusion 2025)'."
+    },
+    {
+      "claim_id": "CLM-ASEAN-03",
+      "section_id": "wiki-html-ca7",
+      "section_label": "wiki.html — CA7 regional infrastructure section",
+      "claim_type": "Modal",
+      "status": "MODAL DOWNGRADE",
+      "severity": "WARNING",
+      "content_text": "the first comprehensive regional digital-economy treaty among developing economies",
+      "source_passage": "will be the world's first comprehensive regional digital economy treaty among developing and emerging-market countries when concluded",
+      "source_location": "CA7-BP2, paragraph (a), lines 843–844",
+      "finding": "The HTML file renders the same erroneous present-tense claim as the wiki source pages. Since the HTML is generated from the wiki, fixing the wiki pages will fix the HTML on regeneration.",
+      "required_action": "Regenerate wiki.html after correcting the wiki source pages."
+    }
+  ]
+}

@@ -35,7 +35,7 @@ services), the **Smart Africa Digital Economy Fund (SADEF)** (blended finance), 
 
 ## Primary source
 Smart Africa, https://smartafrica.org · 2023 Annual Report:
-https://smartafrica.org/annual-report-2023/
+https://smartafrica.org/
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

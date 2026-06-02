@@ -35,7 +35,7 @@ A four-criterion check applied to any development-financed digital/AI proposal, 
 lock-in risk review before signature.
 
 ## Primary source
-G20 DPI Framework (2023) (https://www.g20.org · MOSIP) https://mosip.io · India Stack:
+G20 DPI Framework (2023) (https://www.g20.org/en/ · MOSIP) https://mosip.io · India Stack:
 https://indiastack.org
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
