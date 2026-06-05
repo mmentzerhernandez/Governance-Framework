@@ -3,7 +3,7 @@ title: ASEAN Digital Economy Framework Agreement (DEFA)
 type: entity
 tags: [asean, defa, regional, treaty, ca7]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-05
 sources: [ai-governance-global-majority-report]
 ---
 
@@ -35,6 +35,8 @@ standards). The pillar structure is deliberately modular, a grouping can adopt 3
 ASEAN DEFA, https://asean.org/our-communities/economic-community/asean-digital-sector/digital-economy-framework-agreement/ · ASEAN AI Guide (2nd ed.,
 2023), https://asean.org/book/asean-guide-on-ai-governance-and-ethics/
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
+
+> ⚠️ Source integrity: 1 ASEAN DEFA primary link was confirmed dead in the 2026-06-05 audit. Navigate to asean.org and search "Digital Economy Framework Agreement" for the current document location.
 
 ## Cross-references
 - [[ca7-regional-infrastructure]]

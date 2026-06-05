@@ -3,7 +3,7 @@ title: Smart Africa Alliance
 type: entity
 tags: [smart-africa, regional, pooling, ca7]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-05
 sources: [ai-governance-global-majority-report]
 ---
 
@@ -37,6 +37,8 @@ services), the **Smart Africa Digital Economy Fund (SADEF)** (blended finance), 
 Smart Africa, https://smartafrica.org · 2023 Annual Report:
 https://smartafrica.org/
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
+
+> ⚠️ Source integrity: 1 Smart Africa Cloud Marketplace link was confirmed dead in the 2026-06-05 audit. Navigate to smartafrica.org directly for current marketplace and fund documentation.
 
 ## Cross-references
 - [[ca7-regional-infrastructure]]

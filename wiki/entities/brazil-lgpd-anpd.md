@@ -3,7 +3,7 @@ title: Brazil LGPD + ANPD Automated-Decision Guidance
 type: entity
 tags: [brazil, lgpd, anpd, data-protection, ca2]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-05
 sources: [ai-governance-global-majority-report]
 ---
 
@@ -37,6 +37,8 @@ converts LGPD obligations into operational procurement/deployment checklists.
 LGPD (Law 13.709/2018), https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm ·
 ANPD Resolution 16/2024, https://www.gov.br/anpd/pt-br
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
+
+> ⚠️ Source integrity: The ANPD Resolution 16/2024 direct PDF link was confirmed dead in the 2026-06-05 audit. Navigate to gov.br/anpd and locate the Resolutions section for the current document.
 
 ## Cross-references
 - [[regulatory-lever]]: the package component built on this model

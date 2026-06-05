@@ -3,7 +3,7 @@ title: Kenya FinAccess Survey
 type: entity
 tags: [kenya, finaccess, survey, exclusion, ca6]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-05
 sources: [ai-governance-global-majority-report]
 ---
 
@@ -38,6 +38,8 @@ FinAccess 2021:
 https://www.centralbank.go.ke/wp-content/uploads/2022/08/2021-FinAccess-Survey-Report.pdf ·
 FSD Africa (2023), https://fsdafrica.org/publications/
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
+
+> ⚠️ Source integrity: 4 Central Bank of Kenya and FSD Africa links were confirmed dead in the 2026-06-05 audit. Access current FinAccess reports directly at centralbank.go.ke/finaccess and fsdafrica.org.
 
 ## Cross-references
 - [[protection-survey]]: the package component built on these questions

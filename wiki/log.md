@@ -55,6 +55,25 @@ Finally a small generator (`build_html.py`) converted the markdown into one self
 hash-router makes each page open on its own (land on the Overview, click through to any page, click
 back). No external files — the whole knowledge base travels as a single shareable document.
 
+## [2026-06-05] External audit findings applied
+
+Audit file: `AI_Governance_Global_Majority_Research__audit_20260605_084512.md`
+Verification rate: 3.3% (7/215 claims). Changes applied across 12 wiki pages:
+
+**Factual corrections (CONTRADICTED / UNSUPPORTED / PARTIAL):**
+- `undp-dpg-standard.md`: DPG registry count corrected from 195 to 234+ (audit: CONTRADICTED)
+- `oxford-insights-gari.md`: Country count 193 → 195; "40+ strategies" → "multiple"; "capacity-adjusted score" removed; Rwanda Sub-Saharan ranking superlative removed (Mauritius ranks 37th above Rwanda's 52nd)
+- `rwanda-ai-policy.md`: "largest single-year jump in Sub-Saharan Africa" softened with Mauritius caveat
+- `canada-directive-adm.md`: Version dates noted as contested; "most operationally detailed in the world" softened to "one of the most widely replicated"
+
+**Dead-link warnings added (DEAD_LINK):**
+- 9 entity pages received source-integrity callouts: `unesco-ram.md` (4 links), `au-continental-ai-strategy.md` (7), `rwanda-ai-policy.md` (3), `brazil-lgpd-anpd.md` (1), `green-climate-fund.md` (3), `world-bank-step.md` (3), `kenya-finaccess.md` (4), `smart-africa.md` (1), `asean-defa.md` (1)
+
+**Source page updated:**
+- `sources/ai-governance-global-majority-report.md`: Full audit summary section added with claim distribution table, corrections log, and list of unresolved items (47 unverifiable, 114 uncited)
+
+HTML regenerated from updated markdown.
+
 ## [2026-06-02] Text audit against Wikipedia AI-writing signs
 All 44 wiki pages (entities, concepts, overview) audited against the Wikipedia "Signs of AI Writing"
 field guide. Changes applied:

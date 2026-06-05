@@ -3,7 +3,7 @@ title: Canada Directive on Automated Decision-Making (AIA)
 type: entity
 tags: [canada, aia, procurement, accountability, ca2]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-05
 sources: [ai-governance-global-majority-report]
 ---
 
@@ -11,9 +11,8 @@ sources: [ai-governance-global-majority-report]
 
 **Type:** accountability directive + open-source assessment tool
 **Origin:** Treasury Board of Canada Secretariat (TBS)
-**Year:** April 2019 (original); November 2023 (strengthened Levels III–IV)
-**Capability area:** [[ca2-minimum-viable-governance]] (CA2-BP2), the report's single most
-replicated public-sector algorithmic-accountability instrument.
+**Year:** April 2019 (original); variously dated 2021 and 2023 for subsequent revisions — exact version dates unconfirmed across sources.
+**Capability area:** [[ca2-minimum-viable-governance]] (CA2-BP2), one of the most widely replicated public-sector algorithmic-accountability instruments.
 
 ## What it is
 Requires every federal department deploying decision-affecting AI to complete an **Algorithmic
@@ -40,6 +39,8 @@ The tool is **MIT-licensed**, free to translate and adapt.
 2. Issue a Treasury/Finance circular requiring an AIA before any ministry deploys/procures AI.
 3. Create a simple public AIA registry webpage.
 4. Use Levels III–IV obligations as minimum contract clauses in high-stakes procurement.
+
+> ⚠️ Audit note (2026-06-05): The source report described Canada's AIA as "the most operationally detailed public-sector AI accountability instrument in the world." This superlative is unsupported; the EU AI Act, UK ATRS, and NSW AI Assessment Framework are comparable instruments. Softened above to "one of the most widely replicated."
 
 ## Primary source
 TBS, *Directive on Automated Decision-Making* (2019/2023):

@@ -3,7 +3,7 @@ title: Green Climate Fund Direct Access Modality
 type: entity
 tags: [gcf, pooled-finance, direct-access, ca4]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-05
 sources: [ai-governance-global-majority-report]
 ---
 
@@ -38,6 +38,8 @@ ex-post donor modification). The Readiness Programme grants up to $3m/country fo
 GCF Direct Access, https://www.greenclimate.fund/accessing-fund/direct-access · Readiness:
 https://www.greenclimate.fund/readiness
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
+
+> ⚠️ Source integrity: 3 Green Climate Fund access URLs were confirmed dead in the 2026-06-05 audit. Use the GCF main portal at greenclimate.fund to locate current direct-access and readiness documentation.
 
 ## Cross-references
 - [[ca4-development-finance-lock-in]]

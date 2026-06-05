@@ -3,7 +3,7 @@ title: UNDP Digital Public Goods Standard & Registry
 type: entity
 tags: [dpga, digital-public-goods, open-source, ca4]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-05
 sources: [ai-governance-global-majority-report]
 ---
 
@@ -22,7 +22,7 @@ completeness; privacy-protecting best practice. The **DPGA Registry** vets and l
 pre-vetted catalogue development-finance projects can require.
 
 ## Documented outcomes
-- 195 DPGs registered by 2024 across health, education, climate, financial inclusion, digital ID.
+- Over 234 DPGs registered as of 2025 (the 2025 DPGA report states "over 220 verified"; an earlier figure of 195 in the source report was contradicted by the registry on audit, see [[ai-governance-global-majority-report]]) across health, education, climate, financial inclusion, digital ID.
 - UNICEF country offices in 50+ countries use it as a procurement filter; Norad and GIZ use
   registry status as a preference criterion; World Bank references it as evidence of reduced
   lock-in risk.

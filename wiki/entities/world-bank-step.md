@@ -3,7 +3,7 @@ title: World Bank STEP Skills Survey & ID4D
 type: entity
 tags: [world-bank, step, id4d, labor, ca6]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-05
 sources: [ai-governance-global-majority-report]
 ---
 
@@ -37,6 +37,8 @@ World Bank STEP:
 https://www.worldbank.org/en/topic/education/brief/step-skills-measurement-surveys · WPS10415:
 https://openknowledge.worldbank.org/
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
+
+> ⚠️ Source integrity: 3 World Bank STEP and automation working-paper links were confirmed dead in the 2026-06-05 audit. Search openknowledge.worldbank.org for "WPS10415" to locate the current working paper.
 
 ## Cross-references
 - [[ca6-labor-displacement-early-warning]]

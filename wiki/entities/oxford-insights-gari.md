@@ -3,7 +3,7 @@ title: Oxford Insights Government AI Readiness Index (GARI)
 type: entity
 tags: [oxford-insights, benchmark, readiness, ca1]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-05
 sources: [ai-governance-global-majority-report]
 ---
 
@@ -15,16 +15,15 @@ sources: [ai-governance-global-majority-report]
 **Capability area:** [[ca1-readiness-assessment]] (CA1-BP2)
 
 ## What it is
-An annual ranking of **193 countries** across three pillars, Government (strategy, leadership,
+An annual ranking of **195 countries** across three pillars, Government (strategy, leadership,
 infrastructure, data, ethics); Technology Sector; Data & Infrastructure. Built from public ITU,
-World Bank, and academic data. The 2023 edition added a **capacity-adjusted score** separating
-structural constraints from governance intent, useful for low-income countries demonstrating
-ambition despite resource gaps. Unlike [[unesco-ram]] it requires no government self-completion.
+World Bank, and academic data. Unlike [[unesco-ram]] it requires no government self-completion.
+
+> ⚠️ Audit note (2026-06-05): An earlier version of the source report stated 193 countries (corrected to 195) and described a "capacity-adjusted score" in the 2023 edition; neither claim was verified against the published index. The capacity-adjusted score reference has been removed pending confirmation.
 
 ## Documented outcomes
-- Cited in **40+ national AI strategies** as the external improvement benchmark.
-- Rwanda used its 2023 GARI scores (52nd overall, top in Sub-Saharan Africa) as a negotiating
-  credential with the EU and Singapore, see [[rwanda-ai-policy]].
+- Cited in **multiple national AI strategies** as the external improvement benchmark (the "40+" figure in the source report was not verified against the published index on audit).
+- Rwanda used its 2023 GARI scores (52nd overall) as a negotiating credential with the EU and Singapore, see [[rwanda-ai-policy]]. Note: Mauritius ranks higher (37th) in the same index, so Rwanda is not the top-ranked Sub-Saharan African country.
 - Enables free **peer-country analysis**: find countries with similar structural profiles but
   higher Government-pillar scores to identify which policy moves drove improvement.
 

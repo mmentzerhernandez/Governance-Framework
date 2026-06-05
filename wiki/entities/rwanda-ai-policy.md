@@ -3,7 +3,7 @@ title: Rwanda National AI Policy (2023)
 type: entity
 tags: [rwanda, executive-authority, policy, ca2]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-05
 sources: [ai-governance-global-majority-report]
 ---
 
@@ -27,7 +27,7 @@ the full policy cycle took **under 12 months**.
 - Enabled a substantive Rwandan contribution to the Global Digital Compact process.
 - RISA reviewed 8 government AI deployments (incl. automated land registry, health-insurance
   fraud detection).
-- GARI ranking improved 62nd → 52nd (2022→2023), largest single-year jump in Sub-Saharan Africa.
+- GARI ranking improved 62nd → 52nd (2022→2023), among the largest single-year improvements in Sub-Saharan Africa (note: Mauritius ranks 37th in the same index, above Rwanda).
 
 ## Transferable mechanism
 - Adopt the **3-page AI Impact Assessment Template** (Annex B) by ministerial circular: purpose &
@@ -37,6 +37,8 @@ the full policy cycle took **under 12 months**.
 ## Primary source
 Rwanda MINICT, *National Artificial Intelligence Policy* (2023), https://www.minict.gov.rw
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
+
+> ⚠️ Source integrity: 3 Rwanda Ministry of ICT primary links were confirmed dead in the 2026-06-05 audit. Access the policy directly at the MINICT portal or contact Rwanda RISA for the current document URL.
 
 ## Cross-references
 - [[zero-new-legislation-pathway]]: Rwanda is the executive-speed exemplar

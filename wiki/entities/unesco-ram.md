@@ -3,7 +3,7 @@ title: UNESCO Readiness Assessment Methodology (RAM)
 type: entity
 tags: [unesco, readiness, diagnostic, ca1]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-05
 sources: [ai-governance-global-majority-report]
 ---
 
@@ -41,6 +41,8 @@ action matrix that feeds a National AI Strategy.
 UNESCO, *Readiness Assessment Methodology (RAM) for AI* (2021/2023):
 https://www.unesco.org/ethics-ai/en/ram
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
+
+> ⚠️ Source integrity: 4 primary UNESCO RAM links were confirmed dead in the 2026-06-05 audit. Verify URLs at the official UNESCO AI Ethics portal before citing.
 
 ## Cross-references
 - [[diagnostic-anchor]]: the package component built on RAM

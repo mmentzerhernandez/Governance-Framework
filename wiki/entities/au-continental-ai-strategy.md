@@ -3,7 +3,7 @@ title: African Union Continental AI Strategy (2024)
 type: entity
 tags: [african-union, regional, model-template, ca2]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-05
 sources: [ai-governance-global-majority-report]
 ---
 
@@ -37,6 +37,8 @@ Recommendation on AI Ethics and the OECD AI Principles for multilateral legitima
 AU Commission, *Continental Artificial Intelligence Strategy* (Feb 2024):
 https://au.int/en/documents/20240218/continental-artificial-intelligence-strategy
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
+
+> ⚠️ Source integrity: 7 au.int primary links were confirmed dead in the 2026-06-05 audit. Navigate to au.int/en/documents and search "Artificial Intelligence Strategy" to find the current document location.
 
 ## Cross-references
 - [[ca2-minimum-viable-governance]]
