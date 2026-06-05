@@ -248,6 +248,8 @@ main a { color: #002fa7; }
 .section ul, .section ol { margin-left: 25px; padding-left: 0; }
 .section li { margin-left: 25px; }
 .gap-callout, .contradiction-callout { margin-left: 25px; }
+.section h3 { margin-top: 28px; margin-bottom: 6px; }
+.section h4 { margin-top: 22px; margin-bottom: 4px; }
 """
 
 route_js = """
