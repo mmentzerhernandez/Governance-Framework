@@ -23,9 +23,9 @@ UNESCO), producing a portable "AI governance report card." GovTech embeds AI Ver
 procurement for high-stakes health, social-services, and law-enforcement systems.
 
 ## Documented outcomes
-- 87 organizations globally used AI Verify by end-2023 (incl. Indonesia, Malaysia, India).
-- Applied to 15+ Singapore government AI deployments (OneService chatbot, SELENA screening AI).
-- MAIGF referenced by Australia, Japan, Canada, EU; codebase adapted by 5 SE-Asian AI offices.
+- 87 organizations globally used AI Verify by end-2023 (incl. Indonesia, Malaysia, India). [~UNCITED~]
+- Applied to 15+ Singapore government AI deployments (OneService chatbot, SELENA screening AI). [~UNCITED~]
+- MAIGF referenced by Australia, Japan, Canada, EU; codebase adapted by 5 SE-Asian AI offices. [~UNCITED~]
 
 ## Transferable mechanism
 1. Download AI Verify from GitHub (free): https://github.com/aiverify-foundation
@@ -35,7 +35,7 @@ procurement for high-stakes health, social-services, and law-enforcement systems
 4. Designate a single trained focal-point officer to review reports.
 
 ## Primary source
-IMDA, *Model AI Governance Framework* (2nd ed., 2020); AI Verify Foundation, https://aiverifyfoundation.sg/
+IMDA, *Model AI Governance Framework* (2nd ed., 2020); AI Verify Foundation, https://aiverifyfoundation.sg/ [~UNVERIFIABLE~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

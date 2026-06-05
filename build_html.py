@@ -31,9 +31,23 @@ for f in glob.glob(os.path.join(ROOT, "wiki", "**", "*.md"), recursive=True):
     p = parse(f)
     pages[p["slug"]] = p
 
+# ---- audit badge renderer ----
+_badge_labels = {
+    'SUPPORTED': 'Supported', 'CORROBORATED': 'Corroborated',
+    'PARTIAL': 'Partial', 'UNSUPPORTED': 'Unsupported',
+    'CONTRADICTED': 'Contradicted', 'DEAD_LINK': 'Dead Link',
+    'UNVERIFIABLE': 'Unverifiable', 'UNCITED': 'Uncited',
+}
+def _make_badge(m):
+    key = m.group(1)
+    label = _badge_labels.get(key, key)
+    return f'<span class="audit-badge audit-{key}" title="Audit status: {label}">{label}</span>'
+
 # ---- inline markdown -> html ----
 def inline(text):
     text = html.escape(text, quote=False)
+    # audit verification badges [~STATUS~]
+    text = re.sub(r'\[~([A-Z_]+)~\]', _make_badge, text)
     # wiki links [[slug|label]] or [[slug]]
     def wl(m):
         tgt = m.group(1).strip(); lab = (m.group(2) or tgt).strip()
@@ -190,6 +204,21 @@ body_sections.append(log_html)
 route_css = """
 /* Replace the light-blue accent (#01BAEF) everywhere — nav, headers, links, borders, pills */
 :root { --accent-blue: #002fa7; }
+/* Audit verification badges */
+.audit-badge {
+  display: inline-block; font-size: 9px; font-weight: 700; letter-spacing: 0.06em;
+  text-transform: uppercase; padding: 1px 5px; margin-left: 4px; vertical-align: middle;
+  border: 1px solid; font-family: var(--font-display, monospace); cursor: default;
+  border-radius: 0;
+}
+.audit-SUPPORTED    { color: #1a6632; background: #d4edda; border-color: #1a6632; }
+.audit-CORROBORATED { color: #1a6632; background: #d4edda; border-color: #1a6632; }
+.audit-PARTIAL      { color: #7a4f00; background: #fff3cd; border-color: #7a4f00; }
+.audit-UNSUPPORTED  { color: #7a2800; background: #fde8e0; border-color: #7a2800; }
+.audit-CONTRADICTED { color: #ffffff; background: #c0392b; border-color: #8e1a11; }
+.audit-DEAD_LINK    { color: #ffffff; background: #6c757d; border-color: #495057; }
+.audit-UNVERIFIABLE { color: #4a4a4a; background: #e9ecef; border-color: #adb5bd; }
+.audit-UNCITED      { color: #4a4a4a; background: #f8f0ff; border-color: #b39ddb; }
 .page { display: none; }
 .page.active { display: block; }
 nav a.nav-current { background: var(--border-strong); color: #ffffff; }

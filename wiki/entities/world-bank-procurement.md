@@ -23,8 +23,8 @@ obligations, and **exit/transition planning** (the most lock-in-relevant clause)
 
 ## Documented outcomes
 - Applied in 35+ country projects across Africa, South Asia, Latin America (incl. Rwanda's Digital
-  Transformation Acceleration Program).
-- The single most widely applied AI contract standards in developing countries.
+  Transformation Acceleration Program). [~UNCITED~]
+- The single most widely applied AI contract standards in developing countries. [~UNCITED~]
 
 ## Transferable mechanism
 - Extract the World Bank AI procurement checklist from project docs (public) and apply it to
@@ -34,7 +34,7 @@ obligations, and **exit/transition planning** (the most lock-in-relevant clause)
 
 ## Primary source
 World Bank Procurement Regulations:
-https://www.worldbank.org/en/projects-operations/products-and-services/brief/procurement-new-framework
+https://www.worldbank.org/en/projects-operations/products-and-services/brief/procurement-new-framework [~UNVERIFIABLE~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

@@ -23,9 +23,9 @@ individual explanations on request, and run DPIAs for high-risk AI. Brazil's nat
 converts LGPD obligations into operational procurement/deployment checklists.
 
 ## Documented outcomes
-- ANPD has processed **400+ complaints** under Article 20 since 2021: a jurisprudence base.
-- EBIA adopted as a model by Colombia (2022) and informed Argentina (2023).
-- SERPRO toolkit used by 12 federal ministries; shared with Uruguay and Ecuador via MERCOSUR.
+- ANPD has processed **400+ complaints** under Article 20 since 2021: a jurisprudence base. [~UNCITED~]
+- EBIA adopted as a model by Colombia (2022) and informed Argentina (2023). [~UNCITED~]
+- SERPRO toolkit used by 12 federal ministries; shared with Uruguay and Ecuador via MERCOSUR. [~UNCITED~]
 
 ## Transferable mechanism
 - Countries with an existing data-protection law can issue a **DPA guidance note** applying
@@ -34,8 +34,8 @@ converts LGPD obligations into operational procurement/deployment checklists.
 - Request technical cooperation from ANPD/SERPRO via South-South channels (e.g. CPLP).
 
 ## Primary source
-LGPD (Law 13.709/2018), https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm ·
-ANPD Resolution 16/2024, https://www.gov.br/anpd/pt-br
+LGPD (Law 13.709/2018), https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm [~SUPPORTED~] ·
+ANPD Resolution 16/2024, https://www.gov.br/anpd/pt-br [~DEAD_LINK~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 > ⚠️ Source integrity: The ANPD Resolution 16/2024 direct PDF link was confirmed dead in the 2026-06-05 audit. Navigate to gov.br/anpd and locate the Resolutions section for the current document.

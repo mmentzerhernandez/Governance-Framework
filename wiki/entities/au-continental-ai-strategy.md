@@ -24,7 +24,7 @@ Recommendation on AI Ethics and the OECD AI Principles for multilateral legitima
 
 ## Documented outcomes
 - 12 AU member states referenced it in domestic AI policy by mid-2024 (Ethiopia, Kenya, South
-  Africa most advanced).
+  Africa most advanced). [~UNCITED~]
 - Its Data Governance Framework (Annex II) templated Kenya's draft National Data Strategy and
   Senegal's digital governance bill.
 
@@ -35,7 +35,7 @@ Recommendation on AI Ethics and the OECD AI Principles for multilateral legitima
 
 ## Primary source
 AU Commission, *Continental Artificial Intelligence Strategy* (Feb 2024):
-https://au.int/en/documents/20240218/continental-artificial-intelligence-strategy
+https://au.int/en/documents/20240218/continental-artificial-intelligence-strategy [~DEAD_LINK~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 > ⚠️ Source integrity: 7 au.int primary links were confirmed dead in the 2026-06-05 audit. Navigate to au.int/en/documents and search "Artificial Intelligence Strategy" to find the current document location.

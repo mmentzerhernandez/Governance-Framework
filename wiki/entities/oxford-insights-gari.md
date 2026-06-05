@@ -22,8 +22,8 @@ World Bank, and academic data. Unlike [[unesco-ram]] it requires no government s
 > ⚠️ Audit note (2026-06-05): An earlier version of the source report stated 193 countries (corrected to 195) and described a "capacity-adjusted score" in the 2023 edition; neither claim was verified against the published index. The capacity-adjusted score reference has been removed pending confirmation.
 
 ## Documented outcomes
-- Cited in **multiple national AI strategies** as the external improvement benchmark (the "40+" figure in the source report was not verified against the published index on audit).
-- Rwanda used its 2023 GARI scores (52nd overall) as a negotiating credential with the EU and Singapore, see [[rwanda-ai-policy]]. Note: Mauritius ranks higher (37th) in the same index, so Rwanda is not the top-ranked Sub-Saharan African country.
+- Cited in **multiple national AI strategies** as the external improvement benchmark [~UNSUPPORTED~] (the "40+" figure in the source report was not verified against the published index on audit).
+- Rwanda used its 2023 GARI scores (52nd overall) as a negotiating credential with the EU and Singapore, see [[rwanda-ai-policy]]. [~UNSUPPORTED~] Note: Mauritius ranks higher (37th) in the same index, so Rwanda is not the top-ranked Sub-Saharan African country.
 - Enables free **peer-country analysis**: find countries with similar structural profiles but
   higher Government-pillar scores to identify which policy moves drove improvement.
 

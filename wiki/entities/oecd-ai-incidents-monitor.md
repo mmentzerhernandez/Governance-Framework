@@ -26,10 +26,10 @@ The OECD also publishes a **National AI Incident Reporting Template** that a gov
 up with only a designated email, an intake form, and the four-category classification process.
 
 ## Documented outcomes
-- 1,000+ incidents catalogued by end-2023; 30% involve government/public-sector AI.
-- **Costa Rica** was the first Latin American adopter (2023), designating its science ministry.
+- 1,000+ incidents catalogued by end-2023; 30% involve government/public-sector AI. [~UNCITED~]
+- **Costa Rica** was the first Latin American adopter (2023), designating its science ministry. [~UNCITED~]
 - Template referenced in the EU AI Act's Article 73 serious-incident provisions: the de facto
-  international standard. Japan and South Korea adopted the classification.
+  international standard. Japan and South Korea adopted the classification. [~UNCITED~]
 
 ## Transferable mechanism
 1. Designate an existing body as national focal point (data authority, ICT consumer division, or
@@ -38,7 +38,7 @@ up with only a designated email, an intake form, and the four-category classific
 3. Report annually to the OECD AI Monitor using the submission template.
 
 ## Primary source
-OECD AI Incidents Monitor, https://oecd.ai/en/incidents
+OECD AI Incidents Monitor, https://oecd.ai/en/incidents [~UNVERIFIABLE~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

@@ -23,10 +23,10 @@ profiles. The 2023 paper produced the first developing-country-specific estimate
 
 ## Documented outcomes
 - 24% of Sub-Saharan African jobs have high automation exposure (clerical, admin, routine
-  agri-processing).
+  agri-processing). [~UNCITED~]
 - 68% of high-risk jobs in low-income countries are held by **informal workers** with no retraining
-  access.
-- Applied by Ethiopia's Ministry of Labour (2023) to the textile/garment sector.
+  access. [~UNCITED~]
+- Applied by Ethiopia's Ministry of Labour (2023) to the textile/garment sector. [~UNCITED~]
 
 ## Transferable mechanism
 1. Download the ILO task-content database and automation scores (public).
@@ -38,7 +38,7 @@ profiles. The 2023 paper produced the first developing-country-specific estimate
 
 ## Primary source
 ILO Working Paper No. 87 (2023):
-https://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_869256.pdf
+https://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_869256.pdf [~UNVERIFIABLE~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

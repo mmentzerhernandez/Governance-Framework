@@ -23,11 +23,11 @@ lock-in. The G20 (India Presidency, 2023) endorsed it as an international model 
 **DPI Repository** of open-source components.
 
 ## Documented outcomes
-- UPI processed 12.2 billion transactions in March 2024.
+- UPI processed 12.2 billion transactions in March 2024. [~UNCITED~]
 - 50+ countries began DPI adoption after the G20 endorsement (Ethiopia, Philippines, Egypt,
-  Jamaica).
+  Jamaica). [~UNCITED~]
 - The **MOSIP** open-source digital ID (built on India Stack principles) is deployed in 16
-  countries; Brazil's PIX is the Latin American analogue.
+  countries; [~UNCITED~] Brazil's PIX is the Latin American analogue.
 
 ## Transferable mechanism: the DPI Test
 A four-criterion check applied to any development-financed digital/AI proposal, see
@@ -35,8 +35,8 @@ A four-criterion check applied to any development-financed digital/AI proposal, 
 lock-in risk review before signature.
 
 ## Primary source
-G20 DPI Framework (2023) (https://www.g20.org/en/ · MOSIP) https://mosip.io · India Stack:
-https://indiastack.org
+G20 DPI Framework (2023) https://www.g20.org/en/ [~UNCITED~] · MOSIP: https://mosip.io [~UNCITED~] · India Stack:
+https://indiastack.org [~UNCITED~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

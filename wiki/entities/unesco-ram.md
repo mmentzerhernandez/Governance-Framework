@@ -23,12 +23,12 @@ field offices provide a trained facilitator **at no cost**. Output: a scored hea
 action matrix that feeds a National AI Strategy.
 
 ## Documented outcomes
-- Ghana's RAM (2022) directly shaped its **National AI Policy (2023)**.
+- Ghana's RAM (2022) directly shaped its **National AI Policy (2023)**. [~UNCITED~]
 - Senegal's RAM (2023) produced a 47-page readiness report used at Global Digital Compact
-  consultations.
-- Paraguay's RAM flagged data-infrastructure deficit, prompting an ICT-budget reallocation decree.
-- **27 countries** completed RAM by end-2023; 15 more in progress by mid-2024. Low-income
-  countries have finished in as little as 6 weeks with a 5–8-official core team.
+  consultations. [~UNCITED~]
+- Paraguay's RAM flagged data-infrastructure deficit, prompting an ICT-budget reallocation decree. [~UNCITED~]
+- **27 countries** [~UNCITED~] completed RAM by end-2023; 15 more in progress by mid-2024. [~UNCITED~] Low-income
+  countries have finished in as little as 6 weeks with a 5–8-official core team. [~UNCITED~]
 
 ## Transferable mechanism
 1. Request UNESCO field-office facilitation (free) via the National Commission for UNESCO.
@@ -39,10 +39,10 @@ action matrix that feeds a National AI Strategy.
 
 ## Primary source
 UNESCO, *Readiness Assessment Methodology (RAM) for AI* (2021/2023):
-https://www.unesco.org/ethics-ai/en/ram
+https://www.unesco.org/ethics-ai/en/ram [~SUPPORTED~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
-> ⚠️ Source integrity: 4 primary UNESCO RAM links were confirmed dead in the 2026-06-05 audit. Verify URLs at the official UNESCO AI Ethics portal before citing.
+> ⚠️ Audit note (2026-06-05, updated): Primary URL above confirmed working on re-verification. Sub-document links within the UNESCO RAM toolkit may still be inaccessible — verify before citing specific methodology annexes.
 
 ## Cross-references
 - [[diagnostic-anchor]]: the package component built on RAM

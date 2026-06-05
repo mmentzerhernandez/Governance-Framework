@@ -55,6 +55,24 @@ Finally a small generator (`build_html.py`) converted the markdown into one self
 hash-router makes each page open on its own (land on the Overview, click through to any page, click
 back). No external files — the whole knowledge base travels as a single shareable document.
 
+## [2026-06-05b] Inline audit verification badges added
+
+Added color-coded inline badges to all 26 entity pages and modified build_html.py to render them.
+Badge syntax in markdown: [~STATUS~] — converted by the HTML renderer to styled spans.
+
+Badge color key:
+- SUPPORTED / CORROBORATED: green — claim independently verified
+- PARTIAL: amber — directionally correct, quantitative details uncertain
+- UNSUPPORTED: orange-red — source does not support the assertion
+- CONTRADICTED: red — source actively contradicts the claim
+- DEAD_LINK: gray — cited URL is broken (404 or redirect without content)
+- UNVERIFIABLE: light gray — source paywalled, vague, or inaccessible
+- UNCITED: light purple — claim made with no citation at all
+
+Badges appear inline next to the specific URL or claim text they apply to, not in separate callout blocks.
+All 8 badge types are CSS-styled in wiki.html via the route_css block in build_html.py.
+HTML regenerated from updated markdown.
+
 ## [2026-06-05] External audit findings applied
 
 Audit file: `AI_Governance_Global_Majority_Research__audit_20260605_084512.md`

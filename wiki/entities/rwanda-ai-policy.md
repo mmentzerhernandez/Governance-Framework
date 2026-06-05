@@ -23,11 +23,11 @@ Authority with AI specs added as a bid-document appendix. **No new institution w
 the full policy cycle took **under 12 months**.
 
 ## Documented outcomes
-- Cited as the model for Sub-Saharan African AI governance by Smart Africa and AU strategy docs.
-- Enabled a substantive Rwandan contribution to the Global Digital Compact process.
+- Cited as the model for Sub-Saharan African AI governance by Smart Africa and AU strategy docs. [~UNCITED~]
+- Enabled a substantive Rwandan contribution to the Global Digital Compact process. [~UNCITED~]
 - RISA reviewed 8 government AI deployments (incl. automated land registry, health-insurance
-  fraud detection).
-- GARI ranking improved 62nd → 52nd (2022→2023), among the largest single-year improvements in Sub-Saharan Africa (note: Mauritius ranks 37th in the same index, above Rwanda).
+  fraud detection). [~UNCITED~]
+- GARI ranking improved 62nd → 52nd (2022→2023), [~UNSUPPORTED~] among the largest single-year improvements in Sub-Saharan Africa (note: Mauritius ranks 37th in the same index, above Rwanda).
 
 ## Transferable mechanism
 - Adopt the **3-page AI Impact Assessment Template** (Annex B) by ministerial circular: purpose &
@@ -35,7 +35,7 @@ the full policy cycle took **under 12 months**.
 - Replicate the procurement addendum model (AI specs appended to existing bid templates).
 
 ## Primary source
-Rwanda MINICT, *National Artificial Intelligence Policy* (2023), https://www.minict.gov.rw
+Rwanda MINICT, *National Artificial Intelligence Policy* (2023), https://www.minict.gov.rw [~DEAD_LINK~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 > ⚠️ Source integrity: 3 Rwanda Ministry of ICT primary links were confirmed dead in the 2026-06-05 audit. Access the policy directly at the MINICT portal or contact Rwanda RISA for the current document URL.

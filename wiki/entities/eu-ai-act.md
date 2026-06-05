@@ -24,9 +24,9 @@ standard, a non-EU buyer can require the same conformity documentation from any 
 
 ## Documented outcomes
 - The high-risk classification is the de facto global standard (referenced by Singapore, Canada,
-  Japan in 2024 guidance).
-- Nigeria's NITDA draft guidelines (2024) use the 8 high-risk domains as its categorical frame.
-- Conformity requirements cited in World Bank and ADB digital-project appraisal frameworks.
+  Japan in 2024 guidance). [~UNCITED~]
+- Nigeria's NITDA draft guidelines (2024) use the 8 high-risk domains as its categorical frame. [~UNCITED~]
+- Conformity requirements cited in World Bank and ADB digital-project appraisal frameworks. [~UNCITED~]
 
 ## Transferable mechanism
 Insert into AI procurement contracts (verbatim or adapted): *"The Vendor shall provide, prior to
@@ -36,7 +36,7 @@ Regulation 2024/1689 Articles 8–15, or an equivalent standard accepted by the 
 Authority]."* This imposes EU-level accountability on any vendor under existing procurement law, **no domestic legislation required**.
 
 ## Primary source
-Regulation (EU) 2024/1689, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689
+Regulation (EU) 2024/1689, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689 [~SUPPORTED~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

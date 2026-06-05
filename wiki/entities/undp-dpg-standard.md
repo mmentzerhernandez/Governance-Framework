@@ -22,10 +22,10 @@ completeness; privacy-protecting best practice. The **DPGA Registry** vets and l
 pre-vetted catalogue development-finance projects can require.
 
 ## Documented outcomes
-- Over 234 DPGs registered as of 2025 (the 2025 DPGA report states "over 220 verified"; an earlier figure of 195 in the source report was contradicted by the registry on audit, see [[ai-governance-global-majority-report]]) across health, education, climate, financial inclusion, digital ID.
-- UNICEF country offices in 50+ countries use it as a procurement filter; Norad and GIZ use
-  registry status as a preference criterion; World Bank references it as evidence of reduced
-  lock-in risk.
+- Over 234 DPGs registered as of 2025 [~CONTRADICTED~] (the 2025 DPGA report states "over 220 verified"; an earlier figure of 195 in the source report was contradicted by the registry on audit, see [[ai-governance-global-majority-report]]) across health, education, climate, financial inclusion, digital ID.
+- UNICEF country offices in 50+ countries use it as a procurement filter; [~UNCITED~] Norad and GIZ use
+  registry status as a preference criterion; [~UNCITED~] World Bank references it as evidence of reduced
+  lock-in risk. [~UNCITED~]
 
 ## Transferable mechanism
 - Issue a digital procurement circular: all development-finance-funded digital/AI tools must

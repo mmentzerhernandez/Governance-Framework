@@ -25,8 +25,8 @@ maintenance** (16 LMMC coordination meetings, 2002–2010).
 
 ## Documented outcomes
 - Reversed 20 years of voluntary-only status; ABS clearinghouse established (130+ national focal
-  points).
-- Brazil's domestic biopiracy law generated R$400m for its National Biodiversity Fund by 2022.
+  points). [~UNCITED~]
+- Brazil's domestic biopiracy law generated R$400m for its National Biodiversity Fund by 2022. [~UNCITED~]
 
 ## Transferable mechanism (AI governance)
 | Nagoya tactic | AI application |
@@ -37,7 +37,7 @@ maintenance** (16 LMMC coordination meetings, 2002–2010).
 | Intersessional maintenance | Stand up a **G77+China AI Coordination Group** with a small secretariat |
 
 ## Primary source
-Nagoya Protocol, https://www.cbd.int/abs/text/
+Nagoya Protocol, https://www.cbd.int/abs/text/ [~UNCITED~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

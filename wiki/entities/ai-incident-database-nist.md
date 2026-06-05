@@ -15,7 +15,7 @@ sources: [ai-governance-global-majority-report]
 **Capability area:** [[ca3-harm-reporting-redress]] (CA3-BP2)
 
 ## What it is
-The **AIID** is the most comprehensive open repository of documented AI harms (700+ indexed
+The **AIID** is the most comprehensive open repository of documented AI harms (700+ indexed [~UNCITED~]
 incidents), each with system description, deploying entity, affected population, harm type, and
 jurisdiction, using a structured harm taxonomy. It offers a **risk library** (search past
 incidents for systems you are about to procure) and a **submission portal**. The **NIST AI RMF
@@ -23,9 +23,9 @@ incidents for systems you are about to procure) and a **submission portal**. The
 Singapore, Israel, and the UK.
 
 ## Documented outcomes
-- Used by Kenya's KICTANET and Nigeria's NITDA as a procurement-advisory risk tool.
-- NIST AI RMF referenced in Singapore's, Canada's, and the EU AI Act's documents.
-- AIID search used by World Bank procurement teams for pre-deployment risk reviews.
+- Used by Kenya's KICTANET and Nigeria's NITDA as a procurement-advisory risk tool. [~UNCITED~]
+- NIST AI RMF referenced in Singapore's, Canada's, and the EU AI Act's documents. [~UNCITED~]
+- AIID search used by World Bank procurement teams for pre-deployment risk reviews. [~UNCITED~]
 
 ## Transferable mechanism
 - Before procuring any AI system, require the responsible ministry to run an AIID search for past
@@ -35,8 +35,8 @@ Singapore, Israel, and the UK.
   involving the deployed system.
 
 ## Primary source
-AI Incident Database, https://incidentdatabase.ai · NIST AI RMF 1.0:
-https://doi.org/10.6028/NIST.AI.100-1
+AI Incident Database, https://incidentdatabase.ai [~UNVERIFIABLE~] · NIST AI RMF 1.0:
+https://doi.org/10.6028/NIST.AI.100-1 [~UNVERIFIABLE~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

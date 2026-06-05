@@ -24,9 +24,9 @@ ex-post donor modification). The Readiness Programme grants up to $3m/country fo
 
 ## Documented outcomes
 - 105 direct-access entities accredited (incl. national development banks in Colombia, Pakistan,
-  Bangladesh, Senegal, Indonesia).
-- The Caribbean CCCCC received $35.7m on behalf of 8 CARICOM states: a regional-pooling proof.
-- Conditionality limitation credited with preventing donor-driven technology choices.
+  Bangladesh, Senegal, Indonesia). [~UNCITED~]
+- The Caribbean CCCCC received $35.7m on behalf of 8 CARICOM states: a regional-pooling proof. [~UNCITED~]
+- Conditionality limitation credited with preventing donor-driven technology choices. [~UNCITED~]
 
 ## Transferable mechanism
 - Advocate for an **AI Infrastructure Direct Access Facility** modelled on GCF's NIE system,   governments, not vendors, as accredited entities.
@@ -35,8 +35,8 @@ ex-post donor modification). The Readiness Programme grants up to $3m/country fo
   regional-pooling option.
 
 ## Primary source
-GCF Direct Access, https://www.greenclimate.fund/accessing-fund/direct-access · Readiness:
-https://www.greenclimate.fund/readiness
+GCF Direct Access, https://www.greenclimate.fund/accessing-fund/direct-access [~DEAD_LINK~] · Readiness:
+https://www.greenclimate.fund/readiness [~DEAD_LINK~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 > ⚠️ Source integrity: 3 Green Climate Fund access URLs were confirmed dead in the 2026-06-05 audit. Use the GCF main portal at greenclimate.fund to locate current direct-access and readiness documentation.

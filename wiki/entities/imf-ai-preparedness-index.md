@@ -23,8 +23,8 @@ markets, and LIDCs.
 
 ## Documented outcomes
 - EMDEs average **0.33** vs **0.73** for advanced economies: but on Regulation & Ethics the gap
-  is narrower (0.41 vs 0.54).
-- Used in **Article IV** consultations for 12+ developing countries in 2024.
+  is narrower (0.41 vs 0.54). [~UNVERIFIABLE~]
+- Used in **Article IV** consultations for 12+ developing countries in 2024. [~UNCITED~]
 - Key finding: regulation gaps are **smaller than infrastructure gaps**, which is the sequencing
   rationale for the whole framework, invest in governance capacity before infrastructure parity.
 
@@ -38,7 +38,7 @@ markets, and LIDCs.
 
 ## Primary source
 IMF SDN/2024/001 (Jan 2024):
-https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379
+https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379 [~UNVERIFIABLE~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

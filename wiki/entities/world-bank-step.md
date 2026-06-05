@@ -22,9 +22,9 @@ digital-identity coverage, identifying populations excluded from AI-driven finan
 
 ## Documented outcomes
 - 16% of LMIC workers are at high automation risk (>70% task probability), concentrated in
-  transport, manufacturing, clerical, agri-processing.
+  transport, manufacturing, clerical, agri-processing. [~UNCITED~]
 - ~850 million people with no digital identity are both most automation-vulnerable and most
-  excluded from digital retraining, a "double exclusion."
+  excluded from digital retraining, a "double exclusion." [~UNCITED~]
 
 ## Transferable mechanism
 - Embed the standard task-content module into an existing household survey (LSMS/DHS/LFS): module
@@ -34,8 +34,8 @@ digital-identity coverage, identifying populations excluded from AI-driven finan
 
 ## Primary source
 World Bank STEP:
-https://www.worldbank.org/en/topic/education/brief/step-skills-measurement-surveys · WPS10415:
-https://openknowledge.worldbank.org/
+https://www.worldbank.org/en/topic/education/brief/step-skills-measurement-surveys [~DEAD_LINK~] · WPS10415:
+https://openknowledge.worldbank.org/ [~DEAD_LINK~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 > ⚠️ Source integrity: 3 World Bank STEP and automation working-paper links were confirmed dead in the 2026-06-05 audit. Search openknowledge.worldbank.org for "WPS10415" to locate the current working paper.

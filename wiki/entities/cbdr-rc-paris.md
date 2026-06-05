@@ -24,8 +24,8 @@ funding negotiator teams); (4) **parallel technical forums** (placing experts in
 author the scientific baseline).
 
 ## Documented outcomes
-- CBDR-RC preserved in Paris; developing countries set their own NDC ambition.
-- 135 developing countries submitted enhanced NDCs by 2023: broad participation without coercion.
+- CBDR-RC preserved in Paris; developing countries set their own NDC ambition. [~UNCITED~]
+- 135 developing countries submitted enhanced NDCs by 2023: broad participation without coercion. [~UNCITED~]
 
 ## Transferable mechanism (AI governance)
 - Promote an **"NDC for AI"** concept: nationally-determined AI strategies with international
@@ -35,7 +35,7 @@ author the scientific baseline).
   confers negotiating authority.
 
 ## Primary source
-Paris Agreement Art. 2.2, https://unfccc.int/sites/default/files/english_paris_agreement.pdf
+Paris Agreement Art. 2.2, https://unfccc.int/sites/default/files/english_paris_agreement.pdf [~UNCITED~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

@@ -22,8 +22,8 @@ CBPR); digital identities; cybersecurity; standards & interoperability (preferen
 standards). The pillar structure is deliberately modular, a grouping can adopt 3–4 pillars first.
 
 ## Documented outcomes
-- The ASEAN CBPR system has 9 participating jurisdictions and certified 40+ companies.
-- The 2023 ASEAN AI Governance compendium documents each member state's implemented measures.
+- The ASEAN CBPR system has 9 participating jurisdictions and certified 40+ companies. [~UNCITED~]
+- The 2023 ASEAN AI Governance compendium documents each member state's implemented measures. [~UNCITED~]
 
 ## Transferable mechanism
 - Other groupings (ECOWAS, CARICOM, SAARC) can adopt the **8-pillar architecture** modularly.
@@ -32,8 +32,8 @@ standards). The pillar structure is deliberately modular, a grouping can adopt 3
   cross-border data flows.
 
 ## Primary source
-ASEAN DEFA, https://asean.org/our-communities/economic-community/asean-digital-sector/digital-economy-framework-agreement/ · ASEAN AI Guide (2nd ed.,
-2023), https://asean.org/book/asean-guide-on-ai-governance-and-ethics/
+ASEAN DEFA, https://asean.org/our-communities/economic-community/asean-digital-sector/digital-economy-framework-agreement/ [~DEAD_LINK~] · ASEAN AI Guide (2nd ed.,
+2023), https://asean.org/book/asean-guide-on-ai-governance-and-ethics/ [~UNVERIFIABLE~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 > ⚠️ Source integrity: 1 ASEAN DEFA primary link was confirmed dead in the 2026-06-05 audit. Navigate to asean.org and search "Digital Economy Framework Agreement" for the current document location.

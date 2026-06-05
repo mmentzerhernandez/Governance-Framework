@@ -11,8 +11,8 @@ sources: [ai-governance-global-majority-report]
 
 **Type:** accountability directive + open-source assessment tool
 **Origin:** Treasury Board of Canada Secretariat (TBS)
-**Year:** April 2019 (original); variously dated 2021 and 2023 for subsequent revisions — exact version dates unconfirmed across sources.
-**Capability area:** [[ca2-minimum-viable-governance]] (CA2-BP2), one of the most widely replicated public-sector algorithmic-accountability instruments.
+**Year:** April 2019 (original); variously dated 2021 and 2023 for subsequent revisions — exact version dates unconfirmed across sources. [~PARTIAL~]
+**Capability area:** [[ca2-minimum-viable-governance]] (CA2-BP2), one of the most widely replicated public-sector algorithmic-accountability instruments [~UNSUPPORTED~].
 
 ## What it is
 Requires every federal department deploying decision-affecting AI to complete an **Algorithmic
@@ -29,9 +29,9 @@ needed, 2–4 hours) that auto-scores the system into one of four impact levels:
 The tool is **MIT-licensed**, free to translate and adapt.
 
 ## Documented outcomes
-- 70+ federal AI systems assessed by 2023, results in a public registry.
+- 70+ federal AI systems assessed by 2023, results in a public registry. [~UNVERIFIABLE~]
 - Adopted/adapted by Argentina (2022), Brazil's SERPRO (2023); referenced by UK, OECD, World Bank,
-  and the EU AI Act's conformity-assessment design.
+  and the EU AI Act's conformity-assessment design. [~UNCITED~]
 - Zero new legislation: operates under existing Treasury Board authority.
 
 ## Transferable mechanism
@@ -44,7 +44,7 @@ The tool is **MIT-licensed**, free to translate and adapt.
 
 ## Primary source
 TBS, *Directive on Automated Decision-Making* (2019/2023):
-https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592 · Tool: https://canada-ca.github.io/aia-eia-js/
+https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592 [~UNVERIFIABLE~] · Tool: https://canada-ca.github.io/aia-eia-js/ [~UNVERIFIABLE~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

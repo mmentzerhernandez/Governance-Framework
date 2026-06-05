@@ -23,16 +23,16 @@ Nagoya-style benefit-sharing provision for AI trained on developing-country data
 
 ## Documented outcomes
 - First multilateral affirmation that "developing countries must benefit equitably from AI": now
-  citable as established consensus.
+  citable as established consensus. [~UNCITED~]
 - Established the **UN AI Office** (mandate to support developing-country AI capacity) and the
-  **International Panel on AI** with an equitable-geographic-representation requirement.
+  **International Panel on AI** with an equitable-geographic-representation requirement. [~UNCITED~]
 
 ## Transferable mechanism
 - Cite GDC language as established consensus in subsequent ITU/UNESCO/WIPO negotiations.
 - Use the IPAI representation requirement as precedent for Global South seats in technical bodies.
 
 ## Primary source
-UN GDC (A/RES/79/L.1, 2024), https://www.un.org/techenvoy/global-digital-compact
+UN GDC (A/RES/79/L.1, 2024), https://www.un.org/techenvoy/global-digital-compact [~SUPPORTED~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

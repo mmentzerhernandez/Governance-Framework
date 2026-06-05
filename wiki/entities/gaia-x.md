@@ -21,8 +21,8 @@ Bronze/Silver/Gold sovereignty labels, a 1,300+ member association, and a compli
 Its **documented difficulties are as instructive as its successes**.
 
 ## Documented outcomes & failures
-- Adopted as reference architecture for 5 European industrial data spaces.
-- But only ~200 services achieved label certification by 2024: far below targets.
+- Adopted as reference architecture for 5 European industrial data spaces. [~UNCITED~]
+- But only ~200 services achieved label certification by 2024: far below targets. [~UNCITED~]
 - Consensus association governance proved **too slow** (years, not weeks); large US cloud providers
   joined and diluted sovereignty requirements.
 - The national adaptation (**France's SecNumCloud**): stronger sovereignty, faster national
@@ -39,8 +39,8 @@ Its **documented difficulties are as instructive as its successes**.
 | National sovereignty option | Yes | SecNumCloud model: countries can exceed regional minimum |
 
 ## Primary source
-GAIA-X, https://gaia-x.eu · Trust Framework v23.06:
-https://docs.gaia-x.eu/policy-rules-committee/trust-framework/23.06/
+GAIA-X, https://gaia-x.eu [~UNVERIFIABLE~] · Trust Framework v23.06:
+https://docs.gaia-x.eu/policy-rules-committee/trust-framework/23.06/ [~UNVERIFIABLE~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

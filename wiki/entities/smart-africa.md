@@ -22,9 +22,9 @@ services), the **Smart Africa Digital Economy Fund (SADEF)** (blended finance), 
 **MOU Template** for bilateral digital cooperation.
 
 ## Documented outcomes
-- Cloud Marketplace secured 30–40% pricing reductions vs direct bilateral cloud contracts.
-- SADEF mobilized $52m across 9 projects (2021–2023).
-- Rwanda, Senegal, Ghana used the MOU template for bilateral AI cooperation agreements.
+- Cloud Marketplace secured 30–40% pricing reductions vs direct bilateral cloud contracts. [~UNCITED~]
+- SADEF mobilized $52m across 9 projects (2021–2023). [~UNCITED~]
+- Rwanda, Senegal, Ghana used the MOU template for bilateral AI cooperation agreements. [~UNCITED~]
 
 ## Transferable mechanism: key MOU clauses
 - **Data sovereignty:** each party retains ownership/sovereign rights over its nationals' data; no
@@ -34,7 +34,7 @@ services), the **Smart Africa Digital Economy Fund (SADEF)** (blended finance), 
 - **Withdrawal:** 90 days' notice; full data/system migration within 180 days at no cost.
 
 ## Primary source
-Smart Africa, https://smartafrica.org · 2023 Annual Report:
+Smart Africa, https://smartafrica.org [~DEAD_LINK~] · 2023 Annual Report:
 https://smartafrica.org/
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 

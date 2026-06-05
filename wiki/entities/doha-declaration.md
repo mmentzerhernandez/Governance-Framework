@@ -24,9 +24,9 @@ reopening).
 
 ## Documented outcomes
 - The Declaration affirmed TRIPS "does not and should not prevent Members from taking measures to
-  protect public health", a direct rewrite of the dominant interpretation.
+  protect public health", a direct rewrite of the dominant interpretation. [~SUPPORTED~]
 - The 2003 compulsory-licensing mechanism cut some medicine costs 90%+ (Brazil, Thailand, India,
-  Kenya, Zimbabwe).
+  Kenya, Zimbabwe). [~CORROBORATED~]
 
 ## Transferable mechanism (AI governance)
 | Doha tactic | AI application |
@@ -38,7 +38,7 @@ reopening).
 
 ## Primary source
 Doha Declaration (WT/MIN(01)/DEC/2):
-https://www.wto.org/english/thewto_e/minist_e/min01_e/mindecl_trips_e.htm
+https://www.wto.org/english/thewto_e/minist_e/min01_e/mindecl_trips_e.htm [~SUPPORTED~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 ## Cross-references

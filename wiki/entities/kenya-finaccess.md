@@ -22,11 +22,11 @@ was given; whether appeal was possible. FSD Africa extended the method to 8 more
 
 ## Documented outcomes
 - 61% of Kenyan mobile-credit borrowers received automated decisions with no human review; only
-  12% of those rejected got an explanation or appeal.
+  12% of those rejected got an explanation or appeal. [~UNCITED~]
 - Automated rejection rates for informal-sector workers ran 2.4× higher than for formal workers
-  across Ghana, Tanzania, Uganda, Nigeria, Senegal.
+  across Ghana, Tanzania, Uganda, Nigeria, Senegal. [~UNCITED~]
 - Data fed Kenya's National Payment Strategy and the CBK Guidance Note on Digital Credit Providers
-  (2022), a survey-to-regulation feedback loop.
+  (2022), a survey-to-regulation feedback loop. [~UNCITED~]
 
 ## Transferable mechanism
 Add **5–7 standardized questions** to any household/financial-inclusion survey: Did a machine
@@ -35,8 +35,8 @@ extension officer? Has an in-person service been replaced by a digital-only proc
 
 ## Primary source
 FinAccess 2021:
-https://www.centralbank.go.ke/wp-content/uploads/2022/08/2021-FinAccess-Survey-Report.pdf ·
-FSD Africa (2023), https://fsdafrica.org/publications/
+https://www.centralbank.go.ke/wp-content/uploads/2022/08/2021-FinAccess-Survey-Report.pdf [~DEAD_LINK~] ·
+FSD Africa (2023), https://fsdafrica.org/publications/ [~DEAD_LINK~]
 *(verify-before-citing, see [[ai-governance-global-majority-report]])*
 
 > ⚠️ Source integrity: 4 Central Bank of Kenya and FSD Africa links were confirmed dead in the 2026-06-05 audit. Access current FinAccess reports directly at centralbank.go.ke/finaccess and fsdafrica.org.
