@@ -32,13 +32,8 @@
 | https://www.g20.org | 404 |
 
 ---
+https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
 
-## Likely False Positives (Bot-Blocking)
-
-| URL | Status |
-|-----|--------|
-| https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379 | 403 |
-| https://www.oecd.org/digital/artificial-intelligence/ | 403 |
 
 ---
 

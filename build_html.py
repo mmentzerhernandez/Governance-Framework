@@ -231,22 +231,73 @@ main a { color: #002fa7; }
 .section td a, .field-value a, .url-list li a { color: #002fa7; }
 .field-value a { border-bottom: 1px solid #002fa7; }
 .field-value a:hover, .section td a:hover { background: #002fa7; color: #ffffff; }
+#page-topbar {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 8px 28px; border-bottom: 1px solid var(--border-medium);
+  position: sticky; top: 0; background: var(--bg-primary); z-index: 10;
+}
+.topbar-nav button {
+  background: none; border: none; cursor: pointer; font-size: 18px;
+  color: var(--text-secondary); padding: 4px 8px; line-height: 1;
+}
+.topbar-nav button:disabled { opacity: 0.25; cursor: default; }
+.topbar-nav button:not(:disabled):hover { color: var(--text-primary); }
+#breadcrumb { font-size: 13px; color: var(--text-secondary); font-family: var(--font-display); }
+#breadcrumb strong { color: var(--text-primary); font-weight: 600; }
+.section p { margin-left: 16px; }
+.section ul, .section ol { margin-left: 25px; padding-left: 0; }
+.section li { margin-left: 25px; }
+.gap-callout, .contradiction-callout { margin-left: 25px; }
 """
 
 route_js = """
-function showPage() {
+var _hist = [], _pos = -1, _navigating = false;
+
+function sectionLabel(id) {
+  var el = document.querySelector('#' + id + ' .section-label');
+  return el ? el.textContent.trim() : 'wiki';
+}
+
+function updateTopbar(id) {
+  var label = sectionLabel(id);
+  var bc = document.getElementById('breadcrumb');
+  if (bc) { bc.textContent = ''; var t = document.createTextNode(label + ' / '); var s = document.createElement('strong'); s.textContent = id; bc.appendChild(t); bc.appendChild(s); }
+  var bb = document.getElementById('btn-back');
+  var bf = document.getElementById('btn-fwd');
+  if (bb) bb.disabled = (_pos <= 0);
+  if (bf) bf.disabled = (_pos >= _hist.length - 1);
+}
+
+function showPage(pushHistory) {
   var id = (location.hash || '#overview').slice(1) || 'overview';
   var pages = document.querySelectorAll('.page');
   var found = false;
-  pages.forEach(function (p) { var on = (p.id === id); p.classList.toggle('active', on); if (on) found = true; });
-  if (!found) { var ov = document.getElementById('overview'); if (ov) ov.classList.add('active'); }
-  document.querySelectorAll('nav a').forEach(function (a) {
+  pages.forEach(function(p) { var on = (p.id === id); p.classList.toggle('active', on); if (on) found = true; });
+  if (!found) { var ov = document.getElementById('overview'); if (ov) ov.classList.add('active'); id = 'overview'; }
+  document.querySelectorAll('nav a').forEach(function(a) {
     a.classList.toggle('nav-current', a.getAttribute('href') === '#' + id);
   });
+  if (pushHistory !== false && !_navigating) {
+    if (_hist[_pos] !== id) {
+      _hist = _hist.slice(0, _pos + 1);
+      _hist.push(id);
+      _pos = _hist.length - 1;
+    }
+  }
+  updateTopbar(id);
   window.scrollTo(0, 0);
 }
-window.addEventListener('hashchange', showPage);
-window.addEventListener('DOMContentLoaded', showPage);
+
+document.addEventListener('DOMContentLoaded', function() {
+  document.getElementById('btn-back').addEventListener('click', function() {
+    if (_pos > 0) { _pos--; _navigating = true; location.hash = '#' + _hist[_pos]; _navigating = false; showPage(false); }
+  });
+  document.getElementById('btn-fwd').addEventListener('click', function() {
+    if (_pos < _hist.length - 1) { _pos++; _navigating = true; location.hash = '#' + _hist[_pos]; _navigating = false; showPage(false); }
+  });
+  showPage(true);
+});
+window.addEventListener('hashchange', function() { showPage(true); });
 """
 
 # A "back to overview" link on every non-landing page
@@ -271,6 +322,13 @@ doc = f"""<!DOCTYPE html>
 <body>
 {nav}
 <main>
+<div id="page-topbar">
+  <div class="topbar-nav">
+    <button id="btn-back" disabled title="Go back">&#8592;</button>
+    <button id="btn-fwd"  disabled title="Go forward">&#8594;</button>
+  </div>
+  <div id="breadcrumb"></div>
+</div>
 {''.join(body_sections)}
 </main>
 <script>{route_js}</script>
